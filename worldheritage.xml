@@ -1,0 +1,5337 @@
+<worldheritage promo="UNESCO">
+  <row id="208">
+    <region>Asia</region>
+    <location>Bamiyan Province, Bamiyan District</location>
+    <state>Afghanistan</state>
+    <site>Cultural Landscape and Archaeological Remains of the Bamiyan Valley</site>
+  </row>
+  <row id="191">
+    <region>Arab States</region>
+    <location>Wilaya  (province) of Setif</location>
+    <state>Algeria</state>
+    <site>Djémila</site>
+  </row>
+  <row id="936">
+    <region>Latin America</region>
+    <location>Patagonia Region, Santa Cruz Province</location>
+    <state>Argentina</state>
+    <site>Cueva de las Manos, Río Pinturas</site>
+  </row>
+  <row id="1011">
+    <region>Europe</region>
+    <location>Armavir Region</location>
+    <state>Armenia</state>
+    <site>Cathedral and Churches of Echmiatsin and the Archaeological Site of Zvartnots</site>
+  </row>
+  <row id="486">
+    <region>Pacific</region>
+    <location>State of Queensland</location>
+    <state>Australia</state>
+    <site>Wet Tropics of Queensland</site>
+  </row>
+  <row id="786">
+    <region>Europe</region>
+    <location>Vienna</location>
+    <state>Austria</state>
+    <site>Palace and Gardens of Schönbrunn</site>
+  </row>
+  <row id="967">
+    <region>Latin America</region>
+    <location>Velasco Province, Santa Cruz Department</location>
+    <state>Bolivia</state>
+    <site>Noel Kempff Mercado National Park</site>
+  </row>
+  <row id="917">
+    <region>Pacific</region>
+    <location />
+    <state>Australia</state>
+    <site>Greater Blue Mountains Area</site>
+  </row>
+  <row id="1192">
+    <region>Arab States</region>
+    <location>Northern Region</location>
+    <state>Bahrain</state>
+    <site>Qal’at al-Bahrain – Ancient Harbour and Capital of Dilmun</site>
+  </row>
+  <row id="1196">
+    <region>Europe</region>
+    <location>Minsk Province (Minskaya Voblasts')</location>
+    <state>Belarus</state>
+    <site>Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh</site>
+  </row>
+  <row id="893">
+    <region>Latin America</region>
+    <location>Atlantic coast, states of Parana and Sao Paolo</location>
+    <state>Brazil</state>
+    <site>Atlantic Forest South-East Reserves</site>
+  </row>
+  <row id="1185">
+    <region>Europe</region>
+    <location>City of Antwerp, Flanders Region</location>
+    <state>Belgium</state>
+    <site>Plantin-Moretus House-Workshops-Museum Complex</site>
+  </row>
+  <row id="225">
+    <region>Europe</region>
+    <location>Pirin Mountain, Blagoevgrad Province</location>
+    <state>Bulgaria</state>
+    <site>Pirin National Park</site>
+  </row>
+  <row id="158">
+    <region>North America</region>
+    <location>Province of Alberta</location>
+    <state>Canada</state>
+    <site>Head-Smashed-In Buffalo Jump</site>
+  </row>
+  <row id="640">
+    <region>Asia</region>
+    <location>The Wulingyuan District of the City of Dayong, Hunan Province</location>
+    <state>China</state>
+    <site>Wulingyuan Scenic and Historic Interest Area</site>
+  </row>
+  <row id="1001">
+    <region>Asia</region>
+    <location>Dujiangyan City, Sichuan Province</location>
+    <state>China</state>
+    <site>Mount Qingcheng and the Dujiangyan Irrigation System</site>
+  </row>
+  <row id="732">
+    <region>Europe</region>
+    <location>City and District of Kutná Hora, Central Bohemian Region</location>
+    <state>Czech Republic</state>
+    <site>Kutná Hora: Historical Town Centre with the Church of St Barbara and the Cathedral of Our Lady at Sedlec</site>
+  </row>
+  <row id="1221">
+    <region>North America</region>
+    <location>Province of Ontario</location>
+    <state>Canada</state>
+    <site>Rideau Canal</site>
+  </row>
+  <row id="1178">
+    <region>Latin America</region>
+    <location>Province of Iquique</location>
+    <state>Chile</state>
+    <site>Humberstone and Santa Laura Saltpeter Works</site>
+  </row>
+  <row id="439">
+    <region>Asia</region>
+    <location />
+    <state>China</state>
+    <site>Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang</site>
+  </row>
+  <row id="18">
+    <region>Africa</region>
+    <location>Amhara Region</location>
+    <state>Ethiopia</state>
+    <site>Rock-Hewn Churches, Lalibela</site>
+  </row>
+  <row id="707">
+    <region>Asia</region>
+    <location>Lhasa, Tibet Autonomous Region</location>
+    <state>China</state>
+    <site>Historic Ensemble of the Potala Palace, Lhasa</site>
+  </row>
+  <row id="1083">
+    <region>Asia</region>
+    <location>Lijiang Prefecture, Diqing Tibetan Autonomous Prefecture and Nujiang Lisu Autonomous Prefecture, Yunnan Province</location>
+    <state>China</state>
+    <site>Three Parallel Rivers of Yunnan Protected Areas</site>
+  </row>
+  <row id="1213">
+    <region>Asia</region>
+    <location>Sichuan Province</location>
+    <state>China</state>
+    <site>Sichuan Giant Panda Sanctuaries</site>
+  </row>
+  <row id="770">
+    <region>Europe</region>
+    <location>Region of Midi-Pyrénées (departments of Haute-Garonne and Tarn);  Region of Languedoc-Roussillon (departments of l'Aude and l'Herault)</location>
+    <state>France</state>
+    <site>Canal du Midi</site>
+  </row>
+  <row id="367">
+    <region>Europe</region>
+    <location>State of Rhineland-Palatinate (Rheinland-Pfalz)</location>
+    <state>Germany</state>
+    <site>Roman Monuments, Cathedral of St Peter and Church of Our Lady in Trier</site>
+  </row>
+  <row id="963">
+    <region>Europe</region>
+    <location>County of Šibenik-Knin</location>
+    <state>Croatia</state>
+    <site>The Cathedral of St James in Šibenik</site>
+  </row>
+  <row id="1202">
+    <region>Caribbean</region>
+    <location>Municipality of Cienfuegos</location>
+    <state>Cuba</state>
+    <site>Urban Historic Centre of Cienfuegos</site>
+  </row>
+  <row id="1091">
+    <region>Asia</region>
+    <location>Pyongyang, South Phyongan Province, Nampho, South Hwangghae Province</location>
+    <state>Democratic People's Republic of Korea</state>
+    <site>Complex of Koguryo Tombs</site>
+  </row>
+  <row id="456">
+    <region>Europe</region>
+    <location>Prefecture of Thessaloniki, Region of Central Macedonia</location>
+    <state>Greece</state>
+    <site>Paleochristian and Byzantine Monuments of Thessalonika</site>
+  </row>
+  <row id="954">
+    <region>Arab States</region>
+    <location>Governorate of Janub Sina' (South Sinai)</location>
+    <state>Egypt</state>
+    <site>Saint Catherine Area</site>
+  </row>
+  <row id="1181">
+    <region>Europe</region>
+    <location>Department of Seine-Maritime, Region of Haute-Normandie</location>
+    <state>France</state>
+    <site>Le Havre, the City Rebuilt by Auguste Perret</site>
+  </row>
+  <row id="624">
+    <region>Europe</region>
+    <location>District of Upper Franconia, State of Bavaria (Bayern)</location>
+    <state>Germany</state>
+    <site>Town of Bamberg</site>
+  </row>
+  <row id="474">
+    <region>Europe</region>
+    <location>Counties of Borsod-Abaúj-Zemplén, Heves, Hajdú-Bihar and Jász-Nagykun-Szolnok</location>
+    <state>Hungary</state>
+    <site>Hortobágy National Park - the &lt;i&gt;Puszta&lt;/i&gt;</site>
+  </row>
+  <row id="249">
+    <region>Asia</region>
+    <location>Tamil Nadu State, Chingleput District</location>
+    <state>India</state>
+    <site>Group of Monuments at Mahabalipuram</site>
+  </row>
+  <row id="1155">
+    <region>Europe</region>
+    <location>Bavaria</location>
+    <state>Germany</state>
+    <site>Old town of Regensburg with Stadtamhof</site>
+  </row>
+  <row id="338">
+    <region>Asia</region>
+    <location>State of Assam</location>
+    <state>India</state>
+    <site>Manas Wildlife Sanctuary</site>
+  </row>
+  <row id="593">
+    <region>Pacific</region>
+    <location>Province of Central Java</location>
+    <state>Indonesia</state>
+    <site>Sangiran Early Man Site</site>
+  </row>
+  <row id="1167">
+    <region>Pacific</region>
+    <location>Provinces of Nanggroe Aceh Darussalam, Sumatra Utara (North Sumatra), Jambi, Sumatra Barat (West Sumatra), Sumatra Selatan (South Sumatra), Bengkulu, and Lampung on the Island of Sumatra</location>
+    <state>Indonesia</state>
+    <site>Tropical Rainforest Heritage of Sumatra</site>
+  </row>
+  <row id="1040">
+    <region>Europe</region>
+    <location>Tamar Region</location>
+    <state>Israel</state>
+    <site>Masada</site>
+  </row>
+  <row id="1222">
+    <region>Asia</region>
+    <location>Province of Kermanshah</location>
+    <state>Iran (Islamic Republic of)</state>
+    <site>Bisotun</site>
+  </row>
+  <row id="712">
+    <region>Europe</region>
+    <location>Provinces of Padua, Rovigo, Treviso, Venice, Verona and Vicenza, Veneto Region</location>
+    <state>Italy</state>
+    <site>City of Vicenza and the Palladian Villas of the Veneto</site>
+  </row>
+  <row id="829">
+    <region>Europe</region>
+    <location>Province of Naples, Campania</location>
+    <state>Italy</state>
+    <site>Archaeological Areas of Pompei, Herculaneum and Torre Annunziata</site>
+  </row>
+  <row id="990">
+    <region>Europe</region>
+    <location>Province of Perugia, Umbria</location>
+    <state>Italy</state>
+    <site>Assisi, the Basilica of San Francesco and Other Franciscan Sites</site>
+  </row>
+  <row id="661">
+    <region>Asia</region>
+    <location>Hyogo Prefecture</location>
+    <state>Japan</state>
+    <site>Himeji-jo</site>
+  </row>
+  <row id="870">
+    <region>Asia</region>
+    <location>Nara Prefecture</location>
+    <state>Japan</state>
+    <site>Historic Monuments of Ancient Nara</site>
+  </row>
+  <row id="1145">
+    <region>Asia</region>
+    <location>Almaty Oblast</location>
+    <state>Kazakhstan</state>
+    <site>Petroglyphs within the Archaeological Landscape of Tamgaly</site>
+  </row>
+  <row id="295">
+    <region>Arab States</region>
+    <location>City and district of Jbeil, Governorate of Mount Lebanon</location>
+    <state>Lebanon</state>
+    <site>Byblos</site>
+  </row>
+  <row id="483">
+    <region>Latin America</region>
+    <location>Etat de Yucatan, Municipalité de Tinum</location>
+    <state>Mexico</state>
+    <site>Pre-Hispanic City of Chichen-Itza</site>
+  </row>
+  <row id="1137">
+    <region>Europe</region>
+    <location>Vilnius county, Širvintos district, Kernave town.</location>
+    <state>Lithuania</state>
+    <site>Kernave  Archaeological Site (Cultural Reserve of Kernave)</site>
+  </row>
+  <row id="702">
+    <region>Latin America</region>
+    <location>Morelos and Puebla States
+
+Municipalities: Atlatlauhcan, Cuernavaca, Tetela del Volcan, Yautepec, Ocuituco,
+
+Tepoztlan, Tlayacapan, Totolapan, Yecapixtla and Zacualpan de Amilpas in Morelos.
+
+Calpan, Huetotzingo and Tochimilco in Puebla.</location>
+    <state>Mexico</state>
+    <site>Earliest 16th-Century Monasteries on the Slopes of Popocatepetl</site>
+  </row>
+  <row id="1061">
+    <region>Latin America</region>
+    <location>Calakmul Municipality, Campeche Province</location>
+    <state>Mexico</state>
+    <site>Ancient Maya City of Calakmul, Campeche</site>
+  </row>
+  <row id="331">
+    <region>Arab States</region>
+    <location>Province of Marrakesh</location>
+    <state>Morocco</state>
+    <site>Medina of Marrakesh</site>
+  </row>
+  <row id="819">
+    <region>Europe</region>
+    <location>Willemstad, Island Territory of Curaçao,  Netherlands Antilles</location>
+    <state>Netherlands</state>
+    <site>Historic Area of Willemstad, Inner City and Harbour, Netherlands Antilles</site>
+  </row>
+  <row id="1250">
+    <region>Latin America</region>
+    <location>Mexico City</location>
+    <state>Mexico</state>
+    <site>Central University City Campus of the &lt;i&gt;Universidad Nacional Autónoma de México&lt;/i&gt; (UNAM)</site>
+  </row>
+  <row id="1058">
+    <region>Arab States</region>
+    <location>Region: Doukkala-Abda, Province El Jadida</location>
+    <state>Morocco</state>
+    <site>Portuguese City of Mazagan (El Jadida)</site>
+  </row>
+  <row id="352">
+    <region>Europe</region>
+    <location>Alta municipality, county of Finnmark</location>
+    <state>Norway</state>
+    <site>Rock Art of Alta</site>
+  </row>
+  <row id="366">
+    <region>Latin America</region>
+    <location>Depart.: La Libertad.   Prov.: Trujillo.  Distr.: Huanchaco</location>
+    <state>Peru</state>
+    <site>Chan Chan Archaeological Zone</site>
+  </row>
+  <row id="32">
+    <region>Europe</region>
+    <location>City and County of Wieliczka, Lesser Poland (Malopolska) Voivodship</location>
+    <state>Poland</state>
+    <site>Wieliczka Salt Mine</site>
+  </row>
+  <row id="1053">
+    <region>Europe</region>
+    <location>Gorlice, Nowy Targ, and Bochnia counties, Voivodship of Lesser Poland (Malopolskie);
+Brzozów County, Subcarpathian (Podkarpackie) Voivodship</location>
+    <state>Poland</state>
+    <site>Wooden Churches of Southern Little Poland</site>
+  </row>
+  <row id="1207">
+    <region>Arab States</region>
+    <location>Dakhiliya, Sharqiya and Batinah Regions</location>
+    <state>Oman</state>
+    <site>&lt;i&gt;Aflaj&lt;/i&gt; Irrigation Systems of Oman</site>
+  </row>
+  <row id="755">
+    <region>Europe</region>
+    <location>Northern region</location>
+    <state>Portugal</state>
+    <site>Historic Centre of Oporto</site>
+  </row>
+  <row id="738">
+    <region>Asia</region>
+    <location>Seoul</location>
+    <state>Republic of Korea</state>
+    <site>Jongmyo Shrine</site>
+  </row>
+  <row id="597">
+    <region>Europe</region>
+    <location>Vâlcea County, Region of Wallachia</location>
+    <state>Romania</state>
+    <site>Monastery of Horezu</site>
+  </row>
+  <row id="545">
+    <region>Europe</region>
+    <location>City of Moscow</location>
+    <state>Russian Federation</state>
+    <site>Kremlin and Red Square, Moscow</site>
+  </row>
+  <row id="765">
+    <region>Europe</region>
+    <location />
+    <state>Russian Federation</state>
+    <site>Volcanoes of Kamchatka</site>
+  </row>
+  <row id="1023">
+    <region>Europe</region>
+    <location>Chukot Autonomous Area</location>
+    <state>Russian Federation</state>
+    <site>Natural System of Wrangel Island Reserve</site>
+  </row>
+  <row id="1161">
+    <region>Caribbean</region>
+    <location>near the town of Soufriere, southwestern region of St Lucia</location>
+    <state>Saint Lucia</state>
+    <site>Pitons Management Area</site>
+  </row>
+  <row id="310">
+    <region>Europe</region>
+    <location>Santillana del Mar, Province and Autonomous Community of Cantabria</location>
+    <state>Spain</state>
+    <site>Altamira Cave</site>
+  </row>
+  <row id="782">
+    <region>Europe</region>
+    <location>Province and Autonomous Community of Valencia</location>
+    <state>Spain</state>
+    <site>La Lonja de la Seda de Valencia</site>
+  </row>
+  <row id="1258">
+    <region>Europe</region>
+    <location>Canary Island, Santa Cruz de Tenerife</location>
+    <state>Spain</state>
+    <site>Teide National Park</site>
+  </row>
+  <row id="724">
+    <region>Europe</region>
+    <location>Autonomous province of Kosovo</location>
+    <state>Serbia</state>
+    <site>Medieval Monuments in Kosovo</site>
+  </row>
+  <row id="854">
+    <region>Pacific</region>
+    <location>Southernmost of the Solomon Islands, Rennell and Bellona Province</location>
+    <state>Solomon Islands</state>
+    <site>East Rennell</site>
+  </row>
+  <row id="985">
+    <region>Africa</region>
+    <location>KwaZulu-Natal</location>
+    <state>South Africa</state>
+    <site>uKhahlamba / Drakensberg Park</site>
+  </row>
+  <row id="561">
+    <region>Asia</region>
+    <location>Central Province, Matale District</location>
+    <state>Sri Lanka</state>
+    <site>Golden Temple of Dambulla</site>
+  </row>
+  <row id="558">
+    <region>Europe</region>
+    <location>Stockholm County</location>
+    <state>Sweden</state>
+    <site>Skogskyrkogården</site>
+  </row>
+  <row id="383">
+    <region>Europe</region>
+    <location>Province of Seville, Autonomous Community of Andalusia</location>
+    <state>Spain</state>
+    <site>Cathedral, Alcázar and Archivo de Indias in Seville</site>
+  </row>
+  <row id="1134">
+    <region>Europe</region>
+    <location>County of Halland</location>
+    <state>Sweden</state>
+    <site>Varberg Radio Station</site>
+  </row>
+  <row id="1037">
+    <region>Europe</region>
+    <location>Cantons of Bern and Valais</location>
+    <state>Switzerland</state>
+    <site>Jungfrau-Aletsch-Bietschhorn</site>
+  </row>
+  <row id="356">
+    <region>Europe</region>
+    <location>City and Province of Istanbul</location>
+    <state>Turkey</state>
+    <site>Historic Areas of Istanbul</site>
+  </row>
+  <row id="1229">
+    <region>Arab States</region>
+    <location>Municipalities of Al Hosn and Haffeh</location>
+    <state>Syrian Arab Republic</state>
+    <site>Crac des Chevaliers and Qal’at Salah El-Din</site>
+  </row>
+  <row id="1140">
+    <region>Africa</region>
+    <location>Kara Region</location>
+    <state>Togo</state>
+    <site>Koutammakou, the Land of the Batammariba</site>
+  </row>
+  <row id="527">
+    <region>Europe</region>
+    <location>Kiev</location>
+    <state>Ukraine</state>
+    <site>Kiev: Saint-Sophia Cathedral and Related Monastic Buildings, Kiev-Pechersk Lavra</site>
+  </row>
+  <row id="488">
+    <region>Europe</region>
+    <location>London Borough of Tower Hamlets, England</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Tower of London</site>
+  </row>
+  <row id="983">
+    <region>Europe</region>
+    <location>St George, Bermuda</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Historic Town of St George and Related Fortifications, Bermuda</site>
+  </row>
+  <row id="1215">
+    <region>Europe</region>
+    <location>Cornwall and Devon Counties</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Cornwall and West Devon Mining Landscape</site>
+  </row>
+  <row id="1183">
+    <region>Africa</region>
+    <location>Region Dodoma, District Kondoa</location>
+    <state>United Republic of Tanzania</state>
+    <site>Kondoa Rock-Art Sites</site>
+  </row>
+  <row id="151">
+    <region>North America</region>
+    <location>State of Washington</location>
+    <state>United States of America</state>
+    <site>Olympic National Park</site>
+  </row>
+  <row id="409">
+    <region>North America</region>
+    <location>Hawaii</location>
+    <state>United States of America</state>
+    <site>Hawaii Volcanoes National Park</site>
+  </row>
+  <row id="442">
+    <region>North America</region>
+    <location>Virginia</location>
+    <state>United States of America</state>
+    <site>Monticello and the University of Virginia in Charlottesville</site>
+  </row>
+  <row id="492">
+    <region>North America</region>
+    <location>New Mexico</location>
+    <state>United States of America</state>
+    <site>Pueblo de Taos</site>
+  </row>
+  <row id="721">
+    <region>North America</region>
+    <location>Eddy County, State of New Mexico</location>
+    <state>United States of America</state>
+    <site>Carlsbad Caverns National Park</site>
+  </row>
+  <row id="747">
+    <region>Latin America</region>
+    <location>Department de Colonia</location>
+    <state>Uruguay</state>
+    <site>Historic Quarter of the City of Colonia del Sacramento</site>
+  </row>
+  <row id="543">
+    <region>Asia</region>
+    <location>Khorezm region, Khiva</location>
+    <state>Uzbekistan</state>
+    <site>Itchan Kala</site>
+  </row>
+  <row id="602">
+    <region>Asia</region>
+    <location>Bukhara region</location>
+    <state>Uzbekistan</state>
+    <site>Historic Centre of Bukhara</site>
+  </row>
+  <row id="603">
+    <region>Asia</region>
+    <location>Samarkand Region</location>
+    <state>Uzbekistan</state>
+    <site>Samarkand  – Crossroads of Cultures</site>
+  </row>
+  <row id="951">
+    <region>Asia</region>
+    <location>Bo Trach and Minh Hoa Districts - Quang Binh Province</location>
+    <state>Viet Nam</state>
+    <site>Phong Nha-Ke Bang National Park</site>
+  </row>
+  <row id="275">
+    <region>Latin America</region>
+    <location>State of Rio Grande do Sul, Brazil; Province of Misiones, Argentina</location>
+    <state>Argentina</state>
+    <site>Jesuit Missions of the Guaranis: San Ignacio Mini, Santa Ana, Nuestra Señora de Loreto and Santa Maria Mayor (Argentina), Ruins of Sao Miguel das Missoes (Brazil)</site>
+  </row>
+  <row id="33">
+    <region>Europe</region>
+    <location>Grodno Province (oblast) (BY) /  Podlasie Voivodship (PL)</location>
+    <state>Poland</state>
+    <site>Belovezhskaya Pushcha / Bialowieza Forest</site>
+  </row>
+  <row id="205">
+    <region>Latin America</region>
+    <location>Provincias de Bocas del Toro y Chiriqui, Panama; San Jose, Cartago, Limon and Puntarenas Provinces, Costa Rica</location>
+    <state>Panama</state>
+    <site>Talamanca Range-La Amistad Reserves / La Amistad National Park</site>
+  </row>
+  <row id="994">
+    <region>Europe</region>
+    <location>Klaipeda Region, Neringa and Klaipeda (Lithuania);
+
+ Kaliningrad Region, Zelenogradsk District (Russian
+
+Federation)</location>
+    <state>Lithuania</state>
+    <site>Curonian Spit</site>
+  </row>
+  <row id="769">
+    <region>Europe</region>
+    <location>Uvs Aimag, Zavhan Aimag, Huvsgul Aimag (Mongolia); Mongun-Taiga Kojuun, Ovur Kojuun, Tes-Khem Kojuun, Ersin Kojuun (Tuva)</location>
+    <state>Russian Federation</state>
+    <site>Uvs Nuur Basin</site>
+  </row>
+  <row id="155">
+    <region>Africa</region>
+    <location>Région de Lola</location>
+    <state>Côte d'Ivoire</state>
+    <site>Mount Nimba Strict Nature Reserve</site>
+  </row>
+  <row id="155">
+    <region>Africa</region>
+    <location>Région de Lola</location>
+    <state>Guinea</state>
+    <site>Mount Nimba Strict Nature Reserve</site>
+  </row>
+  <row id="898">
+    <region>Europe</region>
+    <location />
+    <state>Finland</state>
+    <site>Kvarken Archipelago / High Coast</site>
+  </row>
+  <row id="1226">
+    <region>Africa</region>
+    <location>Central  River Division - Gambia, Kaolack Region - Senegal</location>
+    <state>Gambia</state>
+    <site>Stone Circles of Senegambia</site>
+  </row>
+  <row id="1226">
+    <region>Africa</region>
+    <location>Central  River Division - Gambia, Kaolack Region - Senegal</location>
+    <state>Senegal</state>
+    <site>Stone Circles of Senegambia</site>
+  </row>
+  <row id="898">
+    <region>Europe</region>
+    <location />
+    <state>Sweden</state>
+    <site>Kvarken Archipelago / High Coast</site>
+  </row>
+  <row id="725">
+    <region>Europe</region>
+    <location>County of Borsod-Abaúj-Zemplén (HU) /
+Districts of Rožnava and Spišská  Nová Ves, Region of Košice (SK)</location>
+    <state>Slovakia</state>
+    <site>Caves of Aggtelek Karst and Slovak Karst</site>
+  </row>
+  <row id="725">
+    <region>Europe</region>
+    <location>County of Borsod-Abaúj-Zemplén (HU) /
+Districts of Rožnava and Spišská  Nová Ves, Region of Košice (SK)</location>
+    <state>Hungary</state>
+    <site>Caves of Aggtelek Karst and Slovak Karst</site>
+  </row>
+  <row id="1133">
+    <region>Europe</region>
+    <location />
+    <state>Ukraine</state>
+    <site>Primeval Beech Forests of the Carpathians</site>
+  </row>
+  <row id="1133">
+    <region>Europe</region>
+    <location />
+    <state>Slovakia</state>
+    <site>Primeval Beech Forests of the Carpathians</site>
+  </row>
+  <row id="1127">
+    <region>Europe</region>
+    <location>State of Saxony (Sachsen) (DE) / Lubusz Voivodship (PL)</location>
+    <state>Germany</state>
+    <site>Muskauer Park / Park Muzakowski</site>
+  </row>
+  <row id="773">
+    <region>Europe</region>
+    <location>France: Midi-Pyrénées Region, Hautes-Pyrénées Déparetment; 1999 Extension: Commune of Gèdre&lt;br&gt;
+Spain:Autonomous Community of Aragón, Province of Huesca, Communes of Torla, Fanlo, Tella-Sin, Puértolas, Bielsa, and Broto</location>
+    <state>Spain</state>
+    <site>Pyrénées - Mont Perdu</site>
+  </row>
+  <row id="354">
+    <region>North America</region>
+    <location>Province of Alberta, Canada; State of Montana, USA</location>
+    <state>United States of America</state>
+    <site>Waterton Glacier International Peace Park</site>
+  </row>
+  <row id="354">
+    <region>North America</region>
+    <location>Province of Alberta, Canada; State of Montana, USA</location>
+    <state>Canada</state>
+    <site>Waterton Glacier International Peace Park</site>
+  </row>
+  <row id="509">
+    <region>Africa</region>
+    <location>Livingstone District of Southern Province of the Republic of Zambia and Hwange District of Matabeleland North Province of Zimbabwe</location>
+    <state>Zimbabwe</state>
+    <site>Mosi-oa-Tunya / Victoria Falls</site>
+  </row>
+  <row id="943">
+    <region>Europe</region>
+    <location />
+    <state>Belgium</state>
+    <site>Belfries of Belgium and France</site>
+  </row>
+  <row id="943">
+    <region>Europe</region>
+    <location />
+    <state>France</state>
+    <site>Belfries of Belgium and France</site>
+  </row>
+  <row id="72">
+    <region>North America</region>
+    <location>Kluane: Yukon Territory (Canada) and Alaska (USA)
+
+Glacier Bay:  Alaska (USA)
+
+Tatshenshini:  Province of British Columbia (Canada)</location>
+    <state>Canada</state>
+    <site>Kluane / Wrangell-St Elias / Glacier Bay / Tatshenshini-Alsek</site>
+  </row>
+  <row id="72">
+    <region>North America</region>
+    <location>Kluane: Yukon Territory (Canada) and Alaska (USA)
+
+Glacier Bay:  Alaska (USA)
+
+Tatshenshini:  Province of British Columbia (Canada)</location>
+    <state>United States of America</state>
+    <site>Kluane / Wrangell-St Elias / Glacier Bay / Tatshenshini-Alsek</site>
+  </row>
+  <row id="205">
+    <region>Latin America</region>
+    <location>Provincias de Bocas del Toro y Chiriqui, Panama; San Jose, Cartago, Limon and Puntarenas Provinces, Costa Rica</location>
+    <state>Costa Rica</state>
+    <site>Talamanca Range-La Amistad Reserves / La Amistad National Park</site>
+  </row>
+  <row id="1187">
+    <region>Europe</region>
+    <location />
+    <state>Lithuania</state>
+    <site>Struve Geodetic Arc</site>
+  </row>
+  <row id="1187">
+    <region>Europe</region>
+    <location />
+    <state>Norway</state>
+    <site>Struve Geodetic Arc</site>
+  </row>
+  <row id="1187">
+    <region>Europe</region>
+    <location />
+    <state>Republic of Moldova</state>
+    <site>Struve Geodetic Arc</site>
+  </row>
+  <row id="91">
+    <region>Europe</region>
+    <location>Province of Roma, Lazio region (IT) / Vatican City State (VA)
+</location>
+    <state>Holy See</state>
+    <site>Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura</site>
+  </row>
+  <row id="402">
+    <region>Latin America</region>
+    <location>Dep. Madre de Dios y Cusco.  Provincias: Manu y Paucartambo</location>
+    <state>Peru</state>
+    <site>Manú National Park</site>
+  </row>
+  <row id="500">
+    <region>Latin America</region>
+    <location>City of Lima</location>
+    <state>Peru</state>
+    <site>Historic Centre of Lima</site>
+  </row>
+  <row id="548">
+    <region>Latin America</region>
+    <location>Department of San Martin, Province Mariscal Caceres, District of Huicungo</location>
+    <state>Peru</state>
+    <site>Río Abiseo National Park</site>
+  </row>
+  <row id="700">
+    <region>Latin America</region>
+    <location>Libertadores / Wari Region</location>
+    <state>Peru</state>
+    <site>Lines and Geoglyphs of Nasca and Pampas de Jumana</site>
+  </row>
+  <row id="1016">
+    <region>Latin America</region>
+    <location>Province of Arequipa</location>
+    <state>Peru</state>
+    <site>Historical Centre of the City of Arequipa</site>
+  </row>
+  <row id="502">
+    <region>Pacific</region>
+    <location>Province of Ilocos Sur</location>
+    <state>Philippines</state>
+    <site>Historic Town of Vigan</site>
+  </row>
+  <row id="357">
+    <region>Europe</region>
+    <location>Nevsehir Province (Cappadocia) in Central Anatolia</location>
+    <state>Turkey</state>
+    <site>Göreme National Park and the Rock Sites of Cappadocia</site>
+  </row>
+  <row id="358">
+    <region>Europe</region>
+    <location>City and District of Divrigi, Province of Sivas (Eastern Anatolia)</location>
+    <state>Turkey</state>
+    <site>Great Mosque and Hospital of Divrigi</site>
+  </row>
+  <row id="377">
+    <region>Europe</region>
+    <location>District of Sungurlu, Çorum Province</location>
+    <state>Turkey</state>
+    <site>Hattusha: the Hittite Capital</site>
+  </row>
+  <row id="448">
+    <region>Europe</region>
+    <location>Adiyaman Province</location>
+    <state>Turkey</state>
+    <site>Nemrut Dag</site>
+  </row>
+  <row id="484">
+    <region>Europe</region>
+    <location>Provinces of Mugla and Antalya</location>
+    <state>Turkey</state>
+    <site>Xanthos-Letoon</site>
+  </row>
+  <row id="485">
+    <region>Europe</region>
+    <location>Denizli Province</location>
+    <state>Turkey</state>
+    <site>Hierapolis-Pamukkale</site>
+  </row>
+  <row id="614">
+    <region>Europe</region>
+    <location>City and District of Safranbolu, Province of Karabuk</location>
+    <state>Turkey</state>
+    <site>City of Safranbolu</site>
+  </row>
+  <row id="865">
+    <region>Europe</region>
+    <location>Halychyna, L’viv Oblast'</location>
+    <state>Ukraine</state>
+    <site>L'viv – the Ensemble of the Historic Centre</site>
+  </row>
+  <row id="369">
+    <region>Europe</region>
+    <location>County Antrim, Northern Ireland</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Giant's Causeway and Causeway Coast</site>
+  </row>
+  <row id="370">
+    <region>Europe</region>
+    <location>County of Durham, England</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Durham Castle and Cathedral</site>
+  </row>
+  <row id="371">
+    <region>Europe</region>
+    <location>Shropshire, England</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Ironbridge Gorge</site>
+  </row>
+  <row id="372">
+    <region>Europe</region>
+    <location>North Yorkshire, England</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Studley Royal Park including the Ruins of Fountains Abbey</site>
+  </row>
+  <row id="373">
+    <region>Europe</region>
+    <location>Wiltshire, England</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Stonehenge, Avebury and Associated Sites</site>
+  </row>
+  <row id="496">
+    <region>Europe</region>
+    <location>County of Kent, England</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Canterbury Cathedral, St Augustine's Abbey, and St Martin's Church</site>
+  </row>
+  <row id="514">
+    <region>Europe</region>
+    <location>Mainland Orkney, Scotland&lt;br&gt;
+
+&lt;a href=514-loc.htm&gt;Multiple locations&lt;/a&gt;</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Heart of Neolithic Orkney</site>
+  </row>
+  <row id="728">
+    <region>Europe</region>
+    <location>Lothian Region, Scotland</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Old and New Towns of Edinburgh</site>
+  </row>
+  <row id="740">
+    <region>Europe</region>
+    <location>Tristan da Cunha Island group, St Helena Dependency</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Gough and Inaccessible Islands</site>
+  </row>
+  <row id="795">
+    <region>Europe</region>
+    <location>London Borough of Greenwich, England</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Maritime Greenwich</site>
+  </row>
+  <row id="984">
+    <region>Europe</region>
+    <location>Blaenavon,40 km NE of Cardiff, Wales</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Blaenavon Industrial Landscape</site>
+  </row>
+  <row id="1028">
+    <region>Europe</region>
+    <location>West Yorkshire, England</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Saltaire</site>
+  </row>
+  <row id="1029">
+    <region>Europe</region>
+    <location>Dorset and East Devon, England</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Dorset and East Devon Coast</site>
+  </row>
+  <row id="1030">
+    <region>Europe</region>
+    <location>Derbyshire, England</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Derwent Valley Mills</site>
+  </row>
+  <row id="1084">
+    <region>Europe</region>
+    <location>London Borough of Richmond upon Thames, southwest Greater London</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Royal Botanic Gardens, Kew</site>
+  </row>
+  <row id="1150">
+    <region>Europe</region>
+    <location>Liverpool, England</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Liverpool – Maritime Mercantile City</site>
+  </row>
+  <row id="39">
+    <region>Africa</region>
+    <location>Arusha region</location>
+    <state>United Republic of Tanzania</state>
+    <site>Ngorongoro Conservation Area</site>
+  </row>
+  <row id="144">
+    <region>Africa</region>
+    <location>Lindi Region, District of Kilwa</location>
+    <state>United Republic of Tanzania</state>
+    <site>Ruins of Kilwa Kisiwani and Ruins of Songo Mnara</site>
+  </row>
+  <row id="156">
+    <region>Africa</region>
+    <location>Mara, Arusha, and Shinyanga Provinces</location>
+    <state>United Republic of Tanzania</state>
+    <site>Serengeti National Park</site>
+  </row>
+  <row id="173">
+    <region>Africa</region>
+    <location>Zanzibar</location>
+    <state>United Republic of Tanzania</state>
+    <site>Stone Town of Zanzibar</site>
+  </row>
+  <row id="199">
+    <region>Africa</region>
+    <location>Coast, Morogoro, Lindi, Mtwara and Ruvuma Regions</location>
+    <state>United Republic of Tanzania</state>
+    <site>Selous Game Reserve</site>
+  </row>
+  <row id="403">
+    <region>Africa</region>
+    <location>Kilimanjaro region</location>
+    <state>United Republic of Tanzania</state>
+    <site>Kilimanjaro National Park</site>
+  </row>
+  <row id="885">
+    <region>Asia</region>
+    <location>Kashkadarya region</location>
+    <state>Uzbekistan</state>
+    <site>Historic Centre of Shakhrisyabz</site>
+  </row>
+  <row id="658">
+    <region>Latin America</region>
+    <location>State of Falcon</location>
+    <state>Venezuela (Bolivarian Republic of)</state>
+    <site>Coro and its Port</site>
+  </row>
+  <row id="701">
+    <region>Latin America</region>
+    <location>Bolivar State</location>
+    <state>Venezuela (Bolivarian Republic of)</state>
+    <site>Canaima National Park</site>
+  </row>
+  <row id="986">
+    <region>Latin America</region>
+    <location>Municipality of Libertador, Caracas</location>
+    <state>Venezuela (Bolivarian Republic of)</state>
+    <site>Ciudad Universitaria de Caracas</site>
+  </row>
+  <row id="672">
+    <region>Asia</region>
+    <location>Province: Quang Ninh</location>
+    <state>Viet Nam</state>
+    <site>Ha Long Bay</site>
+  </row>
+  <row id="678">
+    <region>Asia</region>
+    <location>Province: Thua Thien - Hue</location>
+    <state>Viet Nam</state>
+    <site>Complex of Hué Monuments</site>
+  </row>
+  <row id="948">
+    <region>Asia</region>
+    <location>Hoi An Town, Quang Nam Province</location>
+    <state>Viet Nam</state>
+    <site>Hoi An Ancient Town</site>
+  </row>
+  <row id="949">
+    <region>Asia</region>
+    <location>Duy Phu Commune, Duy Xuyen District, Quang Nam Province</location>
+    <state>Viet Nam</state>
+    <site>My Son Sanctuary</site>
+  </row>
+  <row id="27">
+    <region>North America</region>
+    <location>Colorado</location>
+    <state>United States of America</state>
+    <site>Mesa Verde National Park</site>
+  </row>
+  <row id="28">
+    <region>North America</region>
+    <location>Northwest corner of the State of Wyoming and relatively small adjacent areas of the States of Montana and Idaho</location>
+    <state>United States of America</state>
+    <site>Yellowstone National Park</site>
+  </row>
+  <row id="75">
+    <region>North America</region>
+    <location>Counties of Coconino and Mohave in the State of Arizona</location>
+    <state>United States of America</state>
+    <site>Grand Canyon National Park</site>
+  </row>
+  <row id="76">
+    <region>North America</region>
+    <location>Southern tip of the Florida peninsula, along the Gulf of Mexico, State of Florida</location>
+    <state>United States of America</state>
+    <site>Everglades National Park</site>
+  </row>
+  <row id="78">
+    <region>North America</region>
+    <location>Philadelphia, Commonwealth of Pennsylvania</location>
+    <state>United States of America</state>
+    <site>Independence Hall</site>
+  </row>
+  <row id="134">
+    <region>North America</region>
+    <location>California</location>
+    <state>United States of America</state>
+    <site>Redwood National and State Parks</site>
+  </row>
+  <row id="150">
+    <region>North America</region>
+    <location>Counties of Barren, Edmonson, and Hart in the State of Kentucky</location>
+    <state>United States of America</state>
+    <site>Mammoth Cave National Park</site>
+  </row>
+  <row id="198">
+    <region>North America</region>
+    <location>St. Louis, Illinois</location>
+    <state>United States of America</state>
+    <site>Cahokia Mounds State Historic Site</site>
+  </row>
+  <row id="259">
+    <region>North America</region>
+    <location>Counties of Cocke, Blount, and Sevier in the State of Tennessee; and the counties of Swain and Haywood in the state of North Carolina</location>
+    <state>United States of America</state>
+    <site>Great Smoky Mountains National Park</site>
+  </row>
+  <row id="266">
+    <region>North America</region>
+    <location>San Juan, Puerto Rico</location>
+    <state>United States of America</state>
+    <site>La Fortaleza and San Juan National Historic Site in Puerto Rico</site>
+  </row>
+  <row id="307">
+    <region>North America</region>
+    <location>New York, New York</location>
+    <state>United States of America</state>
+    <site>Statue of Liberty</site>
+  </row>
+  <row id="308">
+    <region>North America</region>
+    <location>California</location>
+    <state>United States of America</state>
+    <site>Yosemite National Park</site>
+  </row>
+  <row id="353">
+    <region>North America</region>
+    <location>New Mexico</location>
+    <state>United States of America</state>
+    <site>Chaco Culture</site>
+  </row>
+  <row id="867">
+    <region>Europe</region>
+    <location>Lemmer, Lemsterland Municipality, Province of Friesland</location>
+    <state>Netherlands</state>
+    <site>Ir.D.F. Woudagemaal (D.F. Wouda Steam Pumping Station)</site>
+  </row>
+  <row id="899">
+    <region>Europe</region>
+    <location>Province of Noord-Holland</location>
+    <state>Netherlands</state>
+    <site>Droogmakerij de Beemster (Beemster Polder)</site>
+  </row>
+  <row id="965">
+    <region>Europe</region>
+    <location>City and Province of Utrecht</location>
+    <state>Netherlands</state>
+    <site>Rietveld Schröderhuis (Rietveld Schröder House)</site>
+  </row>
+  <row id="421">
+    <region>Pacific</region>
+    <location>Tongariro and Wanganui Regions, North Island</location>
+    <state>New Zealand</state>
+    <site>Tongariro National Park</site>
+  </row>
+  <row id="551">
+    <region>Pacific</region>
+    <location>Southwest of South Island</location>
+    <state>New Zealand</state>
+    <site>Te Wahipounamu – South West New Zealand</site>
+  </row>
+  <row id="877">
+    <region>Pacific</region>
+    <location>New Zealand Subantartic zone</location>
+    <state>New Zealand</state>
+    <site>New Zealand Sub-Antarctic Islands</site>
+  </row>
+  <row id="1143">
+    <region>Europe</region>
+    <location>Nordland, Vega</location>
+    <state>Norway</state>
+    <site>Vegaøyan -- The Vega Archipelago</site>
+  </row>
+  <row id="1195">
+    <region>Europe</region>
+    <location>Counties of Møre &amp; Romsdal and Sogn &amp; Fjordane</location>
+    <state>Norway</state>
+    <site>West Norwegian Fjords – Geirangerfjord and Nærøyfjord</site>
+  </row>
+  <row id="433">
+    <region>Arab States</region>
+    <location>Oasis of Bahla, 25 km west of Nazwa</location>
+    <state>Oman</state>
+    <site>Bahla Fort</site>
+  </row>
+  <row id="434">
+    <region>Arab States</region>
+    <location>Al Dhahira region</location>
+    <state>Oman</state>
+    <site>Archaeological Sites of Bat, Al-Khutm and Al-Ayn</site>
+  </row>
+  <row id="1010">
+    <region>Arab States</region>
+    <location>Dhofar Province</location>
+    <state>Oman</state>
+    <site>Land of Frankincense</site>
+  </row>
+  <row id="652">
+    <region>Pacific</region>
+    <location>Palawan Province</location>
+    <state>Philippines</state>
+    <site>Puerto-Princesa Subterranean River National Park</site>
+  </row>
+  <row id="192">
+    <region>Arab States</region>
+    <location>Hadramaut Governorate, in the Wadi Hadramaut, Seiyun District</location>
+    <state>Yemen</state>
+    <site>Old Walled City of Shibam</site>
+  </row>
+  <row id="385">
+    <region>Arab States</region>
+    <location>Governorate of the capital Sana’a</location>
+    <state>Yemen</state>
+    <site>Old City of Sana'a</site>
+  </row>
+  <row id="611">
+    <region>Arab States</region>
+    <location>Province d'al-Hudayda</location>
+    <state>Yemen</state>
+    <site>Historic Town of Zabid</site>
+  </row>
+  <row id="302">
+    <region>Africa</region>
+    <location>Urungwe District, Mashonaland North region</location>
+    <state>Zimbabwe</state>
+    <site>Mana Pools National Park, Sapi and Chewore Safari Areas</site>
+  </row>
+  <row id="306">
+    <region>Africa</region>
+    <location>Matebeleland, South Province</location>
+    <state>Zimbabwe</state>
+    <site>Matobo Hills</site>
+  </row>
+  <row id="364">
+    <region>Africa</region>
+    <location>Masvingo (Southern) Province</location>
+    <state>Zimbabwe</state>
+    <site>Great Zimbabwe National Monument</site>
+  </row>
+  <row id="365">
+    <region>Africa</region>
+    <location>Western Region, Matabeleland</location>
+    <state>Zimbabwe</state>
+    <site>Khami Ruins National Monument</site>
+  </row>
+  <row id="773">
+    <region>Europe</region>
+    <location>France: Midi-Pyrénées Region, Hautes-Pyrénées Déparetment; 1999 Extension: Commune of Gèdre&lt;br&gt;
+Spain:Autonomous Community of Aragón, Province of Huesca, Communes of Torla, Fanlo, Tella-Sin, Puértolas, Bielsa, and Broto</location>
+    <state>France</state>
+    <site>Pyrénées - Mont Perdu</site>
+  </row>
+  <row id="509">
+    <region>Africa</region>
+    <location>Livingstone District of Southern Province of the Republic of Zambia and Hwange District of Matabeleland North Province of Zimbabwe</location>
+    <state>Zambia</state>
+    <site>Mosi-oa-Tunya / Victoria Falls</site>
+  </row>
+  <row id="275">
+    <region>Latin America</region>
+    <location>State of Rio Grande do Sul, Brazil; Province of Misiones, Argentina</location>
+    <state>Brazil</state>
+    <site>Jesuit Missions of the Guaranis: San Ignacio Mini, Santa Ana, Nuestra Señora de Loreto and Santa Maria Mayor (Argentina), Ruins of Sao Miguel das Missoes (Brazil)</site>
+  </row>
+  <row id="772">
+    <region>Europe</region>
+    <location>State of Burgenland (AT) / County of Györ-Moson-Sopron (HU)</location>
+    <state>Austria</state>
+    <site>Fertö / Neusiedlersee Cultural Landscape</site>
+  </row>
+  <row id="772">
+    <region>Europe</region>
+    <location>State of Burgenland (AT) / County of Györ-Moson-Sopron (HU)</location>
+    <state>Hungary</state>
+    <site>Fertö / Neusiedlersee Cultural Landscape</site>
+  </row>
+  <row id="1187">
+    <region>Europe</region>
+    <location />
+    <state>Belarus</state>
+    <site>Struve Geodetic Arc</site>
+  </row>
+  <row id="33">
+    <region>Europe</region>
+    <location>Grodno Province (oblast) (BY) /  Podlasie Voivodship (PL)</location>
+    <state>Belarus</state>
+    <site>Belovezhskaya Pushcha / Bialowieza Forest</site>
+  </row>
+  <row id="1187">
+    <region>Europe</region>
+    <location />
+    <state>Russian Federation</state>
+    <site>Struve Geodetic Arc</site>
+  </row>
+  <row id="1187">
+    <region>Europe</region>
+    <location />
+    <state>Sweden</state>
+    <site>Struve Geodetic Arc</site>
+  </row>
+  <row id="1187">
+    <region>Europe</region>
+    <location />
+    <state>Ukraine</state>
+    <site>Struve Geodetic Arc</site>
+  </row>
+  <row id="769">
+    <region>Europe</region>
+    <location>Uvs Aimag, Zavhan Aimag, Huvsgul Aimag (Mongolia); Mongun-Taiga Kojuun, Ovur Kojuun, Tes-Khem Kojuun, Ersin Kojuun (Tuva)</location>
+    <state>Mongolia</state>
+    <site>Uvs Nuur Basin</site>
+  </row>
+  <row id="311">
+    <region>Europe</region>
+    <location>Province of Segovia, Autonomous Community of Castile-Leon</location>
+    <state>Spain</state>
+    <site>Old Town of Segovia and its Aqueduct</site>
+  </row>
+  <row id="312">
+    <region>Europe</region>
+    <location>Province and Autonomous Community of Asturias</location>
+    <state>Spain</state>
+    <site>Monuments of Oviedo and the Kingdom of the Asturias</site>
+  </row>
+  <row id="313">
+    <region>Europe</region>
+    <location>Province of Cordoba, Autonomous Community of Andalusia</location>
+    <state>Spain</state>
+    <site>Historic Centre of Cordoba</site>
+  </row>
+  <row id="314">
+    <region>Europe</region>
+    <location>Province of Granada, Autonomous Community of Andalusia</location>
+    <state>Spain</state>
+    <site>Alhambra, Generalife and Albayzín, Granada</site>
+  </row>
+  <row id="316">
+    <region>Europe</region>
+    <location>Province of Burgos, Autonomous Community of Castile-Leon</location>
+    <state>Spain</state>
+    <site>Burgos Cathedral</site>
+  </row>
+  <row id="318">
+    <region>Europe</region>
+    <location>San Lorenzo de El Escorial, Province and Autonomous Community of Madrid</location>
+    <state>Spain</state>
+    <site>Monastery and Site of the Escurial, Madrid</site>
+  </row>
+  <row id="384">
+    <region>Europe</region>
+    <location>Province of Cáceres, Autonomous Community of Extremadura</location>
+    <state>Spain</state>
+    <site>Old Town of Cáceres</site>
+  </row>
+  <row id="417">
+    <region>Europe</region>
+    <location>Balearic Islands</location>
+    <state>Spain</state>
+    <site>Ibiza, Biodiversity and Culture</site>
+  </row>
+  <row id="518">
+    <region>Europe</region>
+    <location>Vimbodí, Province of  Tarragona, Autonomous Community of Catalonia</location>
+    <state>Spain</state>
+    <site>Poblet Monastery</site>
+  </row>
+  <row id="522">
+    <region>Europe</region>
+    <location>Province of Jaen, Autonomous Community of Andalusia</location>
+    <state>Spain</state>
+    <site>Renaissance Monumental Ensembles of Úbeda and Baeza</site>
+  </row>
+  <row id="664">
+    <region>Europe</region>
+    <location>Province of Badajoz, Autonomous Community of Extremadura</location>
+    <state>Spain</state>
+    <site>Archaeological Ensemble of Mérida</site>
+  </row>
+  <row id="665">
+    <region>Europe</region>
+    <location>Province of Cáceres, Autonomous Community of Extremadura</location>
+    <state>Spain</state>
+    <site>Royal Monastery of Santa María de Guadalupe</site>
+  </row>
+  <row id="803">
+    <region>Europe</region>
+    <location>Province of Léon, Autonomous Community of Castile-Leon</location>
+    <state>Spain</state>
+    <site>Las Médulas</site>
+  </row>
+  <row id="804">
+    <region>Europe</region>
+    <location>Province of Barcelona, Autonomous Community of Catalonia</location>
+    <state>Spain</state>
+    <site>Palau de la Música Catalana and Hospital de Sant Pau, Barcelona</site>
+  </row>
+  <row id="805">
+    <region>Europe</region>
+    <location>San Millán de la Cogolla, Province and Autonomous Community of La Rioja</location>
+    <state>Spain</state>
+    <site>San Millán Yuso and Suso Monasteries</site>
+  </row>
+  <row id="874">
+    <region>Europe</region>
+    <location>Autonomous Communities of Andalusia, Aragón, Castille-La Mancha, Catalonia, Murcia and Valencia</location>
+    <state>Spain</state>
+    <site>Rock Art of the Mediterranean Basin on the Iberian Peninsula</site>
+  </row>
+  <row id="875">
+    <region>Europe</region>
+    <location>Province of Tarragona, Autonomous Community of Catalonia,</location>
+    <state>Spain</state>
+    <site>Archaeological Ensemble of Tárraco</site>
+  </row>
+  <row id="876">
+    <region>Europe</region>
+    <location>Province and Autonomous Community of Madrid</location>
+    <state>Spain</state>
+    <site>University and Historic Precinct of Alcalá de Henares</site>
+  </row>
+  <row id="348">
+    <region>Europe</region>
+    <location>Province of Ávila, Autonomous Community of Castile-Leon</location>
+    <state>Spain</state>
+    <site>Old Town of Ávila with its Extra-Muros Churches</site>
+  </row>
+  <row id="200">
+    <region>Asia</region>
+    <location>North Central Province, Anuradhapura District</location>
+    <state>Sri Lanka</state>
+    <site>Sacred City of Anuradhapura</site>
+  </row>
+  <row id="201">
+    <region>Asia</region>
+    <location>North Central Province, Polonnaruva District</location>
+    <state>Sri Lanka</state>
+    <site>Ancient City of Polonnaruwa</site>
+  </row>
+  <row id="202">
+    <region>Asia</region>
+    <location>Central Province,  Matale District</location>
+    <state>Sri Lanka</state>
+    <site>Ancient City of Sigiriya</site>
+  </row>
+  <row id="405">
+    <region>Asia</region>
+    <location>Sabaragamuwa and Southern Provinces</location>
+    <state>Sri Lanka</state>
+    <site>Sinharaja Forest Reserve</site>
+  </row>
+  <row id="450">
+    <region>Asia</region>
+    <location>Central Province</location>
+    <state>Sri Lanka</state>
+    <site>Sacred City of Kandy</site>
+  </row>
+  <row id="451">
+    <region>Asia</region>
+    <location>City of Galle, Southern Province</location>
+    <state>Sri Lanka</state>
+    <site>Old Town of Galle and its Fortifications</site>
+  </row>
+  <row id="1073">
+    <region>Arab States</region>
+    <location>Northern state, province of Meroe</location>
+    <state>Sudan</state>
+    <site>Gebel Barkal and the Sites of the Napatan Region</site>
+  </row>
+  <row id="940">
+    <region>Latin America</region>
+    <location>District of Paramaribo</location>
+    <state>Suriname</state>
+    <site>Historic Inner City of Paramaribo</site>
+  </row>
+  <row id="1017">
+    <region>Latin America</region>
+    <location>District Sipaliwini</location>
+    <state>Suriname</state>
+    <site>Central Suriname Nature Reserve</site>
+  </row>
+  <row id="555">
+    <region>Europe</region>
+    <location>Stockholm County (Region of Uppland)</location>
+    <state>Sweden</state>
+    <site>Birka and Hovgården</site>
+  </row>
+  <row id="556">
+    <region>Europe</region>
+    <location>Västmanland</location>
+    <state>Sweden</state>
+    <site>Engelsberg Ironworks</site>
+  </row>
+  <row id="557">
+    <region>Europe</region>
+    <location>Bohuslan</location>
+    <state>Sweden</state>
+    <site>Rock Carvings in Tanum</site>
+  </row>
+  <row id="491">
+    <region>Europe</region>
+    <location>Prefecture of Argolis, Region of the Peloponnesos</location>
+    <state>Greece</state>
+    <site>Sanctuary of Asklepios at Epidaurus</site>
+  </row>
+  <row id="493">
+    <region>Europe</region>
+    <location>Prefecture of Dodecanese, Region of the South Aegean</location>
+    <state>Greece</state>
+    <site>Medieval City of Rhodes</site>
+  </row>
+  <row id="511">
+    <region>Europe</region>
+    <location>Prefecture of Laconia, Region of the Peloponnesos</location>
+    <state>Greece</state>
+    <site>Archaeological Site of Mystras</site>
+  </row>
+  <row id="517">
+    <region>Europe</region>
+    <location>Prefecture of Ilia, Region of West Greece in the Western Peloponnese</location>
+    <state>Greece</state>
+    <site>Archaeological Site of Olympia</site>
+  </row>
+  <row id="530">
+    <region>Europe</region>
+    <location>Prefecture of Cyclades, Region of the South Aegean</location>
+    <state>Greece</state>
+    <site>Delos</site>
+  </row>
+  <row id="537">
+    <region>Europe</region>
+    <location>Regions of Attica, Central Greece, North Aegean</location>
+    <state>Greece</state>
+    <site>Monasteries of Daphni, Hosios Loukas and Nea Moni of Chios</site>
+  </row>
+  <row id="559">
+    <region>Europe</region>
+    <location>Province of Stockholm, Region of Ekero</location>
+    <state>Sweden</state>
+    <site>Royal Domain of Drottningholm</site>
+  </row>
+  <row id="731">
+    <region>Europe</region>
+    <location>Island region of Gotland</location>
+    <state>Sweden</state>
+    <site>Hanseatic Town of Visby</site>
+  </row>
+  <row id="762">
+    <region>Europe</region>
+    <location>County of Norrbotten (Norrbottens län)</location>
+    <state>Sweden</state>
+    <site>Church Village of Gammelstad, Luleå</site>
+  </row>
+  <row id="774">
+    <region>Europe</region>
+    <location>County of Norrbotten. Municipalities – rural districts – Gällivare, Jokkmokk and Arjeplog</location>
+    <state>Sweden</state>
+    <site>Laponian Area</site>
+  </row>
+  <row id="871">
+    <region>Europe</region>
+    <location>Blekinge County</location>
+    <state>Sweden</state>
+    <site>Naval Port of Karlskrona</site>
+  </row>
+  <row id="968">
+    <region>Europe</region>
+    <location>Kalmar County, Island of Öland</location>
+    <state>Sweden</state>
+    <site>Agricultural Landscape of Southern Öland</site>
+  </row>
+  <row id="1027">
+    <region>Europe</region>
+    <location>Town of Falun, Dalarna Province</location>
+    <state>Sweden</state>
+    <site>Mining Area of the Great Copper Mountain in Falun</site>
+  </row>
+  <row id="267">
+    <region>Europe</region>
+    <location>Canton of Berne</location>
+    <state>Switzerland</state>
+    <site>Old City of Berne</site>
+  </row>
+  <row id="268">
+    <region>Europe</region>
+    <location>Canton of St Gall, Town of St Gall</location>
+    <state>Switzerland</state>
+    <site>Convent of St Gall</site>
+  </row>
+  <row id="269">
+    <region>Europe</region>
+    <location>Canton des Grisons (Graubünden) Val Müstair</location>
+    <state>Switzerland</state>
+    <site>Benedictine Convent of St John at Müstair</site>
+  </row>
+  <row id="884">
+    <region>Europe</region>
+    <location>Bellinzone - Canton of Ticino</location>
+    <state>Switzerland</state>
+    <site>Three Castles, Defensive Wall and Ramparts of the Market-Town of Bellinzone</site>
+  </row>
+  <row id="849">
+    <region>Europe</region>
+    <location>Province of Çanakkale</location>
+    <state>Turkey</state>
+    <site>Archaeological Site of Troy</site>
+  </row>
+  <row id="374">
+    <region>Europe</region>
+    <location>Gwynedd, North Wales</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Castles and Town Walls of King Edward in Gwynedd</site>
+  </row>
+  <row id="299">
+    <region>Arab States</region>
+    <location>City and District of Tyre, Governorate of South Lebanon</location>
+    <state>Lebanon</state>
+    <site>Tyre</site>
+  </row>
+  <row id="850">
+    <region>Arab States</region>
+    <location>Qadisha Valley, Becharre District, Governorate of North Lebanon</location>
+    <state>Lebanon</state>
+    <site>Ouadi Qadisha (the Holy Valley) and the Forest of the Cedars of God (Horsh Arz el-Rab)</site>
+  </row>
+  <row id="183">
+    <region>Arab States</region>
+    <location>District of Khoms</location>
+    <state>Libyan Arab Jamahiriya</state>
+    <site>Archaeological Site of Leptis Magna</site>
+  </row>
+  <row id="184">
+    <region>Arab States</region>
+    <location>District of Zawia</location>
+    <state>Libyan Arab Jamahiriya</state>
+    <site>Archaeological Site of Sabratha</site>
+  </row>
+  <row id="190">
+    <region>Arab States</region>
+    <location>District of Ghebel Akhdar</location>
+    <state>Libyan Arab Jamahiriya</state>
+    <site>Archaeological Site of Cyrene</site>
+  </row>
+  <row id="287">
+    <region>Arab States</region>
+    <location>Fezzan</location>
+    <state>Libyan Arab Jamahiriya</state>
+    <site>Rock-Art Sites of Tadrart Acacus</site>
+  </row>
+  <row id="362">
+    <region>Arab States</region>
+    <location>Al Hamadah Al Hamra</location>
+    <state>Libyan Arab Jamahiriya</state>
+    <site>Old Town of Ghadamès</site>
+  </row>
+  <row id="541">
+    <region>Europe</region>
+    <location>City of Vilnius</location>
+    <state>Lithuania</state>
+    <site>Vilnius Historic Centre</site>
+  </row>
+  <row id="1090">
+    <region>Europe</region>
+    <location>Canton of Ticino</location>
+    <state>Switzerland</state>
+    <site>Monte San Giorgio</site>
+  </row>
+  <row id="1243">
+    <region>Europe</region>
+    <location>Region Lavaux, District Vaud
+
+</location>
+    <state>Switzerland</state>
+    <site>Lavaux, Vineyard Terraces</site>
+  </row>
+  <row id="20">
+    <region>Arab States</region>
+    <location>Administrative District of Damascus</location>
+    <state>Syrian Arab Republic</state>
+    <site>Ancient City of Damascus</site>
+  </row>
+  <row id="21">
+    <region>Arab States</region>
+    <location>Aleppo</location>
+    <state>Syrian Arab Republic</state>
+    <site>Ancient City of Aleppo</site>
+  </row>
+  <row id="22">
+    <region>Arab States</region>
+    <location>Governorate of Deraa</location>
+    <state>Syrian Arab Republic</state>
+    <site>Ancient City of Bosra</site>
+  </row>
+  <row id="23">
+    <region>Arab States</region>
+    <location>Province of Homs</location>
+    <state>Syrian Arab Republic</state>
+    <site>Site of Palmyra</site>
+  </row>
+  <row id="574">
+    <region>Asia</region>
+    <location>Sukhothai and Kamphaeng Phet Provinces</location>
+    <state>Thailand</state>
+    <site>Historic Town of Sukhothai and Associated Historic Towns</site>
+  </row>
+  <row id="575">
+    <region>Asia</region>
+    <location>Udon Thani Province</location>
+    <state>Thailand</state>
+    <site>Ban Chiang Archaeological Site</site>
+  </row>
+  <row id="576">
+    <region>Asia</region>
+    <location>Ayutthaya Province</location>
+    <state>Thailand</state>
+    <site>Historic City of Ayutthaya</site>
+  </row>
+  <row id="590">
+    <region>Asia</region>
+    <location>Provinces of Saraburi, Nakhon Nayok, Nakhon Rachisima, Prachinburi, Srakaew and Burirum</location>
+    <state>Thailand</state>
+    <site>Dong Phayayen-Khao Yai Forest Complex</site>
+  </row>
+  <row id="591">
+    <region>Asia</region>
+    <location>Kanchanaburi, Tak and Uthai Thani provinces</location>
+    <state>Thailand</state>
+    <site>Thungyai-Huai Kha Khaeng Wildlife Sanctuaries</site>
+  </row>
+  <row id="99">
+    <region>Europe</region>
+    <location>Ohrid (municipality)</location>
+    <state>the Former Yugoslav Republic of Macedonia</state>
+    <site>Natural and Cultural Heritage of the Ohrid region</site>
+  </row>
+  <row id="444">
+    <region>Arab States</region>
+    <location>Province de Ouarzazate</location>
+    <state>Morocco</state>
+    <site>Ksar of Ait-Ben-Haddou</site>
+  </row>
+  <row id="753">
+    <region>Arab States</region>
+    <location>Province of Essaouira, Tensift Region</location>
+    <state>Morocco</state>
+    <site>Medina of Essaouira (formerly Mogador)</site>
+  </row>
+  <row id="793">
+    <region>Arab States</region>
+    <location>region centre sud, Wilaya de Meknes</location>
+    <state>Morocco</state>
+    <site>Historic City of Meknes</site>
+  </row>
+  <row id="836">
+    <region>Arab States</region>
+    <location>Wilaya de Meknès - Province Meknès El Menzeh Meulay-Idriss Zerhoun</location>
+    <state>Morocco</state>
+    <site>Archaeological Site of Volubilis</site>
+  </row>
+  <row id="837">
+    <region>Arab States</region>
+    <location>Region Nord-Ouest, Wilaya de Tétouan, Province of Tétouan, Medina of Tétouan</location>
+    <state>Morocco</state>
+    <site>Medina of Tétouan (formerly known as Titawin)</site>
+  </row>
+  <row id="613">
+    <region>Latin America</region>
+    <location>Puerto Momotombo, Municipality of La Paz Centro, Department of León</location>
+    <state>Nicaragua</state>
+    <site>Ruins of León Viejo</site>
+  </row>
+  <row id="790">
+    <region>Latin America</region>
+    <location>Panama’ Province, Panama’ District</location>
+    <state>Panama</state>
+    <site>Archaeological Site of Panamá Viejo and Historic District of Panamá</site>
+  </row>
+  <row id="886">
+    <region>Asia</region>
+    <location>Mary Vilayet</location>
+    <state>Turkmenistan</state>
+    <site>State Historical and Cultural Park "Ancient Merv"</site>
+  </row>
+  <row id="1199">
+    <region>Asia</region>
+    <location>Dashoguz Vilayet (Province)</location>
+    <state>Turkmenistan</state>
+    <site>Kunya-Urgench</site>
+  </row>
+  <row id="1242">
+    <region>Asia</region>
+    <location>Bagyr settlement, Etrap of Rukhabad, Akhal Vilayet</location>
+    <state>Turkmenistan</state>
+    <site>Parthian Fortresses of Nisa</site>
+  </row>
+  <row id="682">
+    <region>Africa</region>
+    <location>Districts of Kabale, Kisoro and Rukungiri</location>
+    <state>Uganda</state>
+    <site>Bwindi Impenetrable National Park</site>
+  </row>
+  <row id="684">
+    <region>Africa</region>
+    <location>District of Kabarole, Kasese and Bundibugyo</location>
+    <state>Uganda</state>
+    <site>Rwenzori Mountains National Park</site>
+  </row>
+  <row id="1022">
+    <region>Africa</region>
+    <location>Kampala District</location>
+    <state>Uganda</state>
+    <site>Tombs of Buganda Kings at Kasubi</site>
+  </row>
+  <row id="8">
+    <region>Arab States</region>
+    <location>Bizerta District, 25 km southwest of Bizerta</location>
+    <state>Tunisia</state>
+    <site>Ichkeul National Park</site>
+  </row>
+  <row id="36">
+    <region>Arab States</region>
+    <location>Tunis</location>
+    <state>Tunisia</state>
+    <site>Medina of Tunis</site>
+  </row>
+  <row id="37">
+    <region>Arab States</region>
+    <location>District of Tunis</location>
+    <state>Tunisia</state>
+    <site>Site of Carthage</site>
+  </row>
+  <row id="38">
+    <region>Arab States</region>
+    <location>El-Mahdia</location>
+    <state>Tunisia</state>
+    <site>Amphitheatre of El Jem</site>
+  </row>
+  <row id="332">
+    <region>Arab States</region>
+    <location>Gouvernorat de Nabeul</location>
+    <state>Tunisia</state>
+    <site>Punic Town of Kerkuane and its Necropolis</site>
+  </row>
+  <row id="498">
+    <region>Arab States</region>
+    <location>Gouvernorat de Sousse</location>
+    <state>Tunisia</state>
+    <site>Medina of Sousse</site>
+  </row>
+  <row id="499">
+    <region>Arab States</region>
+    <location>Gouvernorat de Kairouan</location>
+    <state>Tunisia</state>
+    <site>Kairouan</site>
+  </row>
+  <row id="794">
+    <region>Arab States</region>
+    <location>Gouvernat de Beja</location>
+    <state>Tunisia</state>
+    <site>Dougga / Thugga</site>
+  </row>
+  <row id="387">
+    <region>Europe</region>
+    <location />
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>St Kilda</site>
+  </row>
+  <row id="425">
+    <region>Europe</region>
+    <location>Oxfordshire, England</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Blenheim Palace</site>
+  </row>
+  <row id="426">
+    <region>Europe</region>
+    <location>City of Westminster, London, England</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Westminster Palace, Westminster Abbey and Saint Margaret's Church</site>
+  </row>
+  <row id="428">
+    <region>Europe</region>
+    <location>Avon, England</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>City of Bath</site>
+  </row>
+  <row id="429">
+    <region>Europe</region>
+    <location>South Lanarkshire, Scotland</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>New Lanark</site>
+  </row>
+  <row id="487">
+    <region>Europe</region>
+    <location>Pitcairn Island group</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Henderson Island</site>
+  </row>
+  <row id="1127">
+    <region>Europe</region>
+    <location>State of Saxony (Sachsen) (DE) / Lubusz Voivodship (PL)</location>
+    <state>Poland</state>
+    <site>Muskauer Park / Park Muzakowski</site>
+  </row>
+  <row id="430">
+    <region>Europe</region>
+    <location />
+    <state>Germany</state>
+    <site>Frontiers of the Roman Empire</site>
+  </row>
+  <row id="430">
+    <region>Europe</region>
+    <location />
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Frontiers of the Roman Empire</site>
+  </row>
+  <row id="91">
+    <region>Europe</region>
+    <location>Province of Roma, Lazio region (IT) / Vatican City State (VA)
+</location>
+    <state>Italy</state>
+    <site>Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura</site>
+  </row>
+  <row id="564">
+    <region>Europe</region>
+    <location>City and County of Zamosc, Lublin Voivodship (formerly Zamosc Voivodship)</location>
+    <state>Poland</state>
+    <site>Old City of Zamosc</site>
+  </row>
+  <row id="835">
+    <region>Europe</region>
+    <location>City and County of Torun, Kuyavian-Pomeranian Voivodship</location>
+    <state>Poland</state>
+    <site>Medieval Town of Torun</site>
+  </row>
+  <row id="847">
+    <region>Europe</region>
+    <location>City and County of Malbork, Pomeranian Voivodship (formerly Elblag Voivodship)</location>
+    <state>Poland</state>
+    <site>Castle of the Teutonic Order in Malbork</site>
+  </row>
+  <row id="905">
+    <region>Europe</region>
+    <location>Lesser Poland (Malopolska).Voivodship (formerly Bielsko-Biala)</location>
+    <state>Poland</state>
+    <site>Kalwaria Zebrzydowska: the Mannerist Architectural and Park Landscape Complex and Pilgrimage Park</site>
+  </row>
+  <row id="1054">
+    <region>Europe</region>
+    <location>Jawor and Swidnica counties, Lower Silesian (Dolnoslaskie) Voivodship</location>
+    <state>Poland</state>
+    <site>Churches of Peace in Jawor and Swidnica</site>
+  </row>
+  <row id="1165">
+    <region>Europe</region>
+    <location>Silesia Region, Lower Silesian Voivodship</location>
+    <state>Poland</state>
+    <site>Centennial Hall in Wroclaw</site>
+  </row>
+  <row id="206">
+    <region>Europe</region>
+    <location>Région autonome des Açores</location>
+    <state>Portugal</state>
+    <site>Central Zone of the Town of Angra do Heroismo in the Azores</site>
+  </row>
+  <row id="263">
+    <region>Europe</region>
+    <location>City of Lisbon</location>
+    <state>Portugal</state>
+    <site>Monastery of the Hieronymites and Tower of Belém in Lisbon</site>
+  </row>
+  <row id="264">
+    <region>Europe</region>
+    <location>Batalha (Leiria)</location>
+    <state>Portugal</state>
+    <site>Monastery of Batalha</site>
+  </row>
+  <row id="265">
+    <region>Europe</region>
+    <location>Tomar (Santarem)</location>
+    <state>Portugal</state>
+    <site>Convent of Christ in Tomar</site>
+  </row>
+  <row id="361">
+    <region>Europe</region>
+    <location>Province: Alentejo,  District: Evora</location>
+    <state>Portugal</state>
+    <site>Historic Centre of Évora</site>
+  </row>
+  <row id="505">
+    <region>Europe</region>
+    <location>Alcobaça - Leiria</location>
+    <state>Portugal</state>
+    <site>Monastery of Alcobaça</site>
+  </row>
+  <row id="723">
+    <region>Europe</region>
+    <location>Sintra/Serra</location>
+    <state>Portugal</state>
+    <site>Cultural Landscape of Sintra</site>
+  </row>
+  <row id="866">
+    <region>Europe</region>
+    <location>Province of Trás-os-Montes e Alto Douro, District of Guarda</location>
+    <state>Portugal</state>
+    <site>Prehistoric Rock-Art Sites in the Côa Valley</site>
+  </row>
+  <row id="934">
+    <region>Europe</region>
+    <location>Island of Madeira</location>
+    <state>Portugal</state>
+    <site>Laurisilva of Madeira</site>
+  </row>
+  <row id="1031">
+    <region>Europe</region>
+    <location>Province of Minho, District of Braga</location>
+    <state>Portugal</state>
+    <site>Historic Centre of Guimarães</site>
+  </row>
+  <row id="1046">
+    <region>Europe</region>
+    <location>Douro Region, Trás-os-Montes e
+
+Alto Douro</location>
+    <state>Portugal</state>
+    <site>Alto Douro Wine Region</site>
+  </row>
+  <row id="1117">
+    <region>Europe</region>
+    <location>Azores</location>
+    <state>Portugal</state>
+    <site>Landscape of the Pico Island Vineyard Culture</site>
+  </row>
+  <row id="736">
+    <region>Asia</region>
+    <location>North Kyongsang Province</location>
+    <state>Republic of Korea</state>
+    <site>Seokguram Grotto and Bulguksa Temple</site>
+  </row>
+  <row id="737">
+    <region>Asia</region>
+    <location>South Kyongsang Province</location>
+    <state>Republic of Korea</state>
+    <site>Haeinsa Temple Janggyeong Panjeon, the Depositories for the &lt;I&gt;Tripitaka Koreana&lt;/I&gt; Woodblocks</site>
+  </row>
+  <row id="816">
+    <region>Asia</region>
+    <location>Seoul</location>
+    <state>Republic of Korea</state>
+    <site>Changdeokgung Palace Complex</site>
+  </row>
+  <row id="817">
+    <region>Asia</region>
+    <location>Kyonggi-do Province</location>
+    <state>Republic of Korea</state>
+    <site>Hwaseong Fortress</site>
+  </row>
+  <row id="976">
+    <region>Asia</region>
+    <location>Kyongju City, Kyongsangbuk-do Province</location>
+    <state>Republic of Korea</state>
+    <site>Gyeongju Historic Areas</site>
+  </row>
+  <row id="977">
+    <region>Asia</region>
+    <location>Koch’ang-gun County, Chollabuk-do Province; Hwasun-gun County, Chollanam-do Province; Kangwha-gun
+
+County, Inch’on Province</location>
+    <state>Republic of Korea</state>
+    <site>Gochang, Hwasun and Ganghwa Dolmen Sites</site>
+  </row>
+  <row id="1264">
+    <region>Asia</region>
+    <location />
+    <state>Republic of Korea</state>
+    <site>Jeju Volcanic Island and Lava Tubes</site>
+  </row>
+  <row id="588">
+    <region>Europe</region>
+    <location>Tulcea County, Dobruja Region</location>
+    <state>Romania</state>
+    <site>Danube Delta</site>
+  </row>
+  <row id="596">
+    <region>Europe</region>
+    <location>Counties of Alba, Brasov, Harghita, Mures, Sibiu, Region of Transylvania</location>
+    <state>Romania</state>
+    <site>Villages with Fortified Churches in Transylvania</site>
+  </row>
+  <row id="515">
+    <region>Europe</region>
+    <location>District of Bergstrasse, State of Hesse (Hessen)</location>
+    <state>Germany</state>
+    <site>Abbey and Altenmünster of Lorsch</site>
+  </row>
+  <row id="532">
+    <region>Europe</region>
+    <location>States of Brandenburg and Berlin</location>
+    <state>Germany</state>
+    <site>Palaces and Parks of Potsdam and Berlin</site>
+  </row>
+  <row id="534">
+    <region>Europe</region>
+    <location>State of Saxony-Anhalt (Sachsen-Anhalt)</location>
+    <state>Germany</state>
+    <site>Garden Kingdom of Dessau-Wörlitz</site>
+  </row>
+  <row id="535">
+    <region>Europe</region>
+    <location>State of Saxony-Anhalt (Sachsen-Anhalt)</location>
+    <state>Germany</state>
+    <site>Collegiate Church, Castle, and Old Town of Quedlinburg</site>
+  </row>
+  <row id="546">
+    <region>Europe</region>
+    <location>District of Enz, State of Baden-Württemberg</location>
+    <state>Germany</state>
+    <site>Maulbronn Monastery Complex</site>
+  </row>
+  <row id="623">
+    <region>Europe</region>
+    <location>District of Braunschweig, State of Lower Saxony (Niedersachsen)</location>
+    <state>Germany</state>
+    <site>Mines of Rammelsberg and Historic Town of Goslar</site>
+  </row>
+  <row id="595">
+    <region>Europe</region>
+    <location>Prefecture of Samos, Region of the North Aegean</location>
+    <state>Greece</state>
+    <site>Pythagoreion and Heraion of Samos</site>
+  </row>
+  <row id="598">
+    <region>Europe</region>
+    <location>County of Suceava, Region of Moldavia</location>
+    <state>Romania</state>
+    <site>Churches of Moldavia</site>
+  </row>
+  <row id="902">
+    <region>Europe</region>
+    <location>Mures County, Region of Transylvania</location>
+    <state>Romania</state>
+    <site>Historic Centre of Sighisoara</site>
+  </row>
+  <row id="904">
+    <region>Europe</region>
+    <location>Districts of  Bârsana,  Budesti, Desesti, Ieud, Sisesti, Poienile Izei, Târgu-Lapus; Maramures County, Region of Transylvania</location>
+    <state>Romania</state>
+    <site>Wooden Churches of Maramures</site>
+  </row>
+  <row id="906">
+    <region>Europe</region>
+    <location>Counties of Alba and Hunedoara, Region of Transylvania</location>
+    <state>Romania</state>
+    <site>Dacian Fortresses of the Orastie Mountains</site>
+  </row>
+  <row id="540">
+    <region>Europe</region>
+    <location>St. Petersburg region</location>
+    <state>Russian Federation</state>
+    <site>Historic Centre of Saint Petersburg and Related Groups of Monuments</site>
+  </row>
+  <row id="544">
+    <region>Europe</region>
+    <location>Karelian Autonomous S.S.R., Medvezhjegorskij Region</location>
+    <state>Russian Federation</state>
+    <site>Kizhi Pogost</site>
+  </row>
+  <row id="604">
+    <region>Europe</region>
+    <location />
+    <state>Russian Federation</state>
+    <site>Historic Monuments of Novgorod and Surroundings</site>
+  </row>
+  <row id="632">
+    <region>Europe</region>
+    <location>Arkhangelsky region, Solovetsky district.</location>
+    <state>Russian Federation</state>
+    <site>Cultural and Historic Ensemble of the Solovetsky Islands</site>
+  </row>
+  <row id="633">
+    <region>Europe</region>
+    <location>Vladimir region</location>
+    <state>Russian Federation</state>
+    <site>White Monuments of Vladimir and Suzdal</site>
+  </row>
+  <row id="634">
+    <region>Europe</region>
+    <location>Moscow, the South District</location>
+    <state>Russian Federation</state>
+    <site>Church of the Ascension, Kolomenskoye</site>
+  </row>
+  <row id="657">
+    <region>Europe</region>
+    <location>Moscow region, town Sergiev-Posad (ex Zagorsk)</location>
+    <state>Russian Federation</state>
+    <site>Architectural Ensemble of the Trinity Sergius Lavra in Sergiev Posad</site>
+  </row>
+  <row id="719">
+    <region>Europe</region>
+    <location>Komi Republic</location>
+    <state>Russian Federation</state>
+    <site>Virgin Komi Forests</site>
+  </row>
+  <row id="754">
+    <region>Europe</region>
+    <location>Irkutsk and Chita regions, Republic of Buryatia</location>
+    <state>Russian Federation</state>
+    <site>Lake Baikal</site>
+  </row>
+  <row id="766">
+    <region>Europe</region>
+    <location>Ternejski, Krasnoarmejski,
+
+Dalnegorski, and Pozharski Districts,
+
+Primorski Region</location>
+    <state>Russian Federation</state>
+    <site>Central Sikhote-Alin</site>
+  </row>
+  <row id="768">
+    <region>Europe</region>
+    <location>450 km southwest of Novosibirsk, in the Altai Republic</location>
+    <state>Russian Federation</state>
+    <site>Golden Mountains of Altai</site>
+  </row>
+  <row id="900">
+    <region>Europe</region>
+    <location>Krasnodar Region</location>
+    <state>Russian Federation</state>
+    <site>Western Caucasus</site>
+  </row>
+  <row id="980">
+    <region>Europe</region>
+    <location>City of Kazan, Republic of Tatarstan</location>
+    <state>Russian Federation</state>
+    <site>Historic and Architectural Complex of the Kazan Kremlin</site>
+  </row>
+  <row id="982">
+    <region>Europe</region>
+    <location>Vologda region</location>
+    <state>Russian Federation</state>
+    <site>Ensemble of the Ferrapontov Monastery</site>
+  </row>
+  <row id="1070">
+    <region>Europe</region>
+    <location>Dagestan, Eastern Caucasus, Western coast of Caspian Sea</location>
+    <state>Russian Federation</state>
+    <site>Citadel, Ancient City and Fortress Buildings of Derbent</site>
+  </row>
+  <row id="1097">
+    <region>Europe</region>
+    <location>City of Moscow</location>
+    <state>Russian Federation</state>
+    <site>Ensemble of the Novodevichy Convent</site>
+  </row>
+  <row id="1170">
+    <region>Europe</region>
+    <location>Yaroslavl Oblast</location>
+    <state>Russian Federation</state>
+    <site>Historical Centre of the City of Yaroslavl</site>
+  </row>
+  <row id="910">
+    <region>Caribbean</region>
+    <location>Parish of St Thomas, St Christopher 
+
+(St Kitts)</location>
+    <state>Saint Kitts and Nevis</state>
+    <site>Brimstone Hill Fortress National Park</site>
+  </row>
+  <row id="320">
+    <region>Europe</region>
+    <location />
+    <state>Spain</state>
+    <site>Works of Antoni Gaudí</site>
+  </row>
+  <row id="913">
+    <region>Asia</region>
+    <location>Tochigi Prefecture</location>
+    <state>Japan</state>
+    <site>Shrines and Temples of Nikko</site>
+  </row>
+  <row id="972">
+    <region>Asia</region>
+    <location>Okinawa Prefecture</location>
+    <state>Japan</state>
+    <site>Gusuku Sites and Related Properties of the Kingdom of Ryukyu</site>
+  </row>
+  <row id="1142">
+    <region>Asia</region>
+    <location>Mie, Nara and Wakayama Prefectures</location>
+    <state>Japan</state>
+    <site>Sacred Sites and Pilgrimage Routes in the Kii Mountain Range</site>
+  </row>
+  <row id="1193">
+    <region>Asia</region>
+    <location>Hokkaido prefecture</location>
+    <state>Japan</state>
+    <site>Shiretoko</site>
+  </row>
+  <row id="1012">
+    <region>Pacific</region>
+    <location>State of Sabah</location>
+    <state>Malaysia</state>
+    <site>Kinabalu Park</site>
+  </row>
+  <row id="1013">
+    <region>Pacific</region>
+    <location>northern Sarawak, island of Borneo</location>
+    <state>Malaysia</state>
+    <site>Gunung Mulu National Park</site>
+  </row>
+  <row id="116">
+    <region>Africa</region>
+    <location>Djenné Circle, Region of Mopti</location>
+    <state>Mali</state>
+    <site>Old Towns of Djenné</site>
+  </row>
+  <row id="119">
+    <region>Africa</region>
+    <location>Circle and Region of Tombouctou</location>
+    <state>Mali</state>
+    <site>Timbuktu</site>
+  </row>
+  <row id="516">
+    <region>Africa</region>
+    <location>Bandiagara Circle, Mopti Region</location>
+    <state>Mali</state>
+    <site>Cliff of Bandiagara (Land of the Dogons)</site>
+  </row>
+  <row id="1139">
+    <region>Africa</region>
+    <location>City, Circle and Region of Gao</location>
+    <state>Mali</state>
+    <site>Tomb of Askia</site>
+  </row>
+  <row id="130">
+    <region>Europe</region>
+    <location>Commune of Paola, Island of Malta</location>
+    <state>Malta</state>
+    <site>Hal Saflieni Hypogeum</site>
+  </row>
+  <row id="347">
+    <region>Europe</region>
+    <location>Province of A Coruña, Autonomous Community of Galicia</location>
+    <state>Spain</state>
+    <site>Santiago de Compostela (Old Town)</site>
+  </row>
+  <row id="378">
+    <region>Europe</region>
+    <location>Provinces of Teruel and Zaragoza, Autonomous Community of Aragon</location>
+    <state>Spain</state>
+    <site>Mudejar Architecture of Aragon</site>
+  </row>
+  <row id="379">
+    <region>Europe</region>
+    <location>Province of Toledo, Autonomous Community of Castile-La Mancha</location>
+    <state>Spain</state>
+    <site>Historic City of Toledo</site>
+  </row>
+  <row id="380">
+    <region>Europe</region>
+    <location>Island of La Gomera, Province of Santa Cruz de Tenerife, Canary Islands</location>
+    <state>Spain</state>
+    <site>Garajonay National Park</site>
+  </row>
+  <row id="381">
+    <region>Europe</region>
+    <location>Province of Salamanca, Autonomous Community of Castile-Leon</location>
+    <state>Spain</state>
+    <site>Old City of Salamanca</site>
+  </row>
+  <row id="929">
+    <region>Europe</region>
+    <location>Province of Santa Cruz de Tenerife, Canary Islands</location>
+    <state>Spain</state>
+    <site>San Cristóbal de La Laguna</site>
+  </row>
+  <row id="25">
+    <region>Africa</region>
+    <location>Delta of the River Senegal</location>
+    <state>Senegal</state>
+    <site>Djoudj National Bird Sanctuary</site>
+  </row>
+  <row id="26">
+    <region>Africa</region>
+    <location>Cape Verde Region</location>
+    <state>Senegal</state>
+    <site>Island of Gorée</site>
+  </row>
+  <row id="153">
+    <region>Africa</region>
+    <location>Eastern Senegal and Upper Casamance regions</location>
+    <state>Senegal</state>
+    <site>Niokolo-Koba National Park</site>
+  </row>
+  <row id="956">
+    <region>Africa</region>
+    <location>Region of Saint-Louis</location>
+    <state>Senegal</state>
+    <site>Island of Saint-Louis</site>
+  </row>
+  <row id="96">
+    <region>Europe</region>
+    <location>Vicinity of Novi Pazar, Raška District, Republic of Serbia</location>
+    <state>Serbia</state>
+    <site>Stari Ras and Sopocani</site>
+  </row>
+  <row id="389">
+    <region>Europe</region>
+    <location>Village of Studenica, Commune of Kraljevo, Raška District, Republic of Serbia</location>
+    <state>Serbia</state>
+    <site>Studenica Monastery</site>
+  </row>
+  <row id="669">
+    <region>Europe</region>
+    <location>Autonomous Communities of Aragon, Navarre, la Rioja, Castile-Leon and Galicia</location>
+    <state>Spain</state>
+    <site>Route of Santiago de Compostela</site>
+  </row>
+  <row id="554">
+    <region>Latin America</region>
+    <location>Basse Californie Sud, Municipality of Mulege</location>
+    <state>Mexico</state>
+    <site>Whale Sanctuary of El Vizcaino</site>
+  </row>
+  <row id="560">
+    <region>Latin America</region>
+    <location>Municipality of Casas Grandes, State of Chihuahua</location>
+    <state>Mexico</state>
+    <site>Archeological Zone of Paquimé, Casas Grandes</site>
+  </row>
+  <row id="585">
+    <region>Latin America</region>
+    <location>Michoacan. Mairie de Morelia</location>
+    <state>Mexico</state>
+    <site>Historic Centre of Morelia</site>
+  </row>
+  <row id="631">
+    <region>Latin America</region>
+    <location>Etat de Veracruz, municipalité de Papantla</location>
+    <state>Mexico</state>
+    <site>El Tajin, Pre-Hispanic City</site>
+  </row>
+  <row id="676">
+    <region>Latin America</region>
+    <location>Zacatecas State, Zacatecas Municipality</location>
+    <state>Mexico</state>
+    <site>Historic Centre of Zacatecas</site>
+  </row>
+  <row id="714">
+    <region>Latin America</region>
+    <location>State: Lower California Sud Municipality</location>
+    <state>Mexico</state>
+    <site>Rock Paintings of the Sierra de San Francisco</site>
+  </row>
+  <row id="791">
+    <region>Latin America</region>
+    <location>Etat de Yucatan, municipalites Muna et Santa Elena</location>
+    <state>Mexico</state>
+    <site>Pre-Hispanic Town of Uxmal</site>
+  </row>
+  <row id="792">
+    <region>Latin America</region>
+    <location>Etat Querétaro, municipalité de Querétaro</location>
+    <state>Mexico</state>
+    <site>Historic Monuments Zone of Querétaro</site>
+  </row>
+  <row id="815">
+    <region>Latin America</region>
+    <location>Jalisco, Guadalajara</location>
+    <state>Mexico</state>
+    <site>Hospicio Cabañas, Guadalajara</site>
+  </row>
+  <row id="862">
+    <region>Latin America</region>
+    <location>State of Veracruz, Tlacotalpan Municipality</location>
+    <state>Mexico</state>
+    <site>Historic Monuments Zone of Tlacotalpan</site>
+  </row>
+  <row id="1079">
+    <region>Latin America</region>
+    <location>State of Querétaro de Arteaga (Sierra Gorda region)</location>
+    <state>Mexico</state>
+    <site>Franciscan Missions in the Sierra Gorda of Querétaro</site>
+  </row>
+  <row id="1136">
+    <region>Latin America</region>
+    <location>Mexico City</location>
+    <state>Mexico</state>
+    <site>Luis Barragán House and Studio</site>
+  </row>
+  <row id="1209">
+    <region>Latin America</region>
+    <location>Valles Region, Jalisco State</location>
+    <state>Mexico</state>
+    <site>Agave Landscape and Ancient Industrial Facilities of Tequila</site>
+  </row>
+  <row id="759">
+    <region>Europe</region>
+    <location>Provinces of Noord-Holland (NH), Utrecht (UT)</location>
+    <state>Netherlands</state>
+    <site>Defence Line of Amsterdam</site>
+  </row>
+  <row id="818">
+    <region>Europe</region>
+    <location>Municipalities of Alblasserdam and Nieuw-Lekkerland, Province of Zuid-Holland</location>
+    <state>Netherlands</state>
+    <site>Mill Network at Kinderdijk-Elshout</site>
+  </row>
+  <row id="1182">
+    <region>Latin America</region>
+    <location>States of Baja California, Baja California Sur, Sinora, Sinaloa, and Nayarit</location>
+    <state>Mexico</state>
+    <site>Islands and Protected Areas of the Gulf of California</site>
+  </row>
+  <row id="1081">
+    <region>Europe</region>
+    <location>Orkhon-Kharkorin Region</location>
+    <state>Mongolia</state>
+    <site>Orkhon Valley Cultural Landscape</site>
+  </row>
+  <row id="100">
+    <region>Europe</region>
+    <location>Republic of Montenegro</location>
+    <state>Montenegro</state>
+    <site>Durmitor National Park</site>
+  </row>
+  <row id="125">
+    <region>Europe</region>
+    <location>Boka Kotorska (Bay of Kotor), City of Kotor and surrounding territory, Republic of Montenegro</location>
+    <state>Montenegro</state>
+    <site>Natural and Culturo-Historical Region of Kotor</site>
+  </row>
+  <row id="170">
+    <region>Arab States</region>
+    <location>City of Fez</location>
+    <state>Morocco</state>
+    <site>Medina of Fez</site>
+  </row>
+  <row id="1253">
+    <region>Europe</region>
+    <location>Eastern Serbia</location>
+    <state>Serbia</state>
+    <site>Gamzigrad-Romuliana, Palace of Galerius</site>
+  </row>
+  <row id="185">
+    <region>Africa</region>
+    <location />
+    <state>Seychelles</state>
+    <site>Aldabra Atoll</site>
+  </row>
+  <row id="261">
+    <region>Africa</region>
+    <location>Praslin Island, 50km north-east of Mahé.</location>
+    <state>Seychelles</state>
+    <site>Vallée de Mai Nature Reserve</site>
+  </row>
+  <row id="618">
+    <region>Europe</region>
+    <location>Town and District of Banská Štiavnica, Region of Banská Bystrica</location>
+    <state>Slovakia</state>
+    <site>Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity</site>
+  </row>
+  <row id="620">
+    <region>Europe</region>
+    <location>Town of Spišské Podhradie, Levoca District, Prešov Region (formerly Spiš region)</location>
+    <state>Slovakia</state>
+    <site>Spišský Hrad and its Associated Cultural Monuments</site>
+  </row>
+  <row id="622">
+    <region>Europe</region>
+    <location>Ružomberok District, Zilina Region</location>
+    <state>Slovakia</state>
+    <site>Vlkolínec</site>
+  </row>
+  <row id="973">
+    <region>Europe</region>
+    <location>Town and District of Bardejov, Prešov Region</location>
+    <state>Slovakia</state>
+    <site>Bardejov Town Conservation Reserve</site>
+  </row>
+  <row id="390">
+    <region>Europe</region>
+    <location>Villages of Škocjan pri Divaci, Matavun and Betanja, Communes of Divaca and Sežana, Region of Obalno-kraška</location>
+    <state>Slovenia</state>
+    <site>Škocjan Caves</site>
+  </row>
+  <row id="930">
+    <region>Europe</region>
+    <location>Province of Alicante, Autonomous Community of Valencia</location>
+    <state>Spain</state>
+    <site>Palmeral of Elche</site>
+  </row>
+  <row id="987">
+    <region>Europe</region>
+    <location>Province of Lugo, Autonomous Community of Galicia</location>
+    <state>Spain</state>
+    <site>Roman Walls of Lugo</site>
+  </row>
+  <row id="988">
+    <region>Europe</region>
+    <location>Province of Lleida, Autonomous Community of Catalonia</location>
+    <state>Spain</state>
+    <site>Catalan Romanesque Churches of the Vall de Boí</site>
+  </row>
+  <row id="989">
+    <region>Europe</region>
+    <location>Province of Burgos, Autonomous Community of Castile-Leon</location>
+    <state>Spain</state>
+    <site>Archaeological Site of Atapuerca</site>
+  </row>
+  <row id="1044">
+    <region>Europe</region>
+    <location>Province and Autonomous Community of Madrid</location>
+    <state>Spain</state>
+    <site>Aranjuez Cultural Landscape</site>
+  </row>
+  <row id="1217">
+    <region>Europe</region>
+    <location>Basque Country, Province of Bizjaia,</location>
+    <state>Spain</state>
+    <site>Vizcaya Bridge</site>
+  </row>
+  <row id="763">
+    <region>Europe</region>
+    <location>Breclav District, South Moravian Region</location>
+    <state>Czech Republic</state>
+    <site>Lednice-Valtice Cultural Landscape</site>
+  </row>
+  <row id="859">
+    <region>Europe</region>
+    <location>Olomouc Region</location>
+    <state>Czech Republic</state>
+    <site>Holy Trinity Column in Olomouc</site>
+  </row>
+  <row id="860">
+    <region>Europe</region>
+    <location>City and District of Kromeríž, Zlin Region</location>
+    <state>Czech Republic</state>
+    <site>Gardens and Castle at Kromeríž</site>
+  </row>
+  <row id="861">
+    <region>Europe</region>
+    <location>South Bohemian Region</location>
+    <state>Czech Republic</state>
+    <site>Holašovice Historical Village Reservation</site>
+  </row>
+  <row id="901">
+    <region>Europe</region>
+    <location>Pardubice Region</location>
+    <state>Czech Republic</state>
+    <site>Litomyšl Castle</site>
+  </row>
+  <row id="1052">
+    <region>Europe</region>
+    <location>South Moravian Region</location>
+    <state>Czech Republic</state>
+    <site>Tugendhat Villa in Brno</site>
+  </row>
+  <row id="1078">
+    <region>Europe</region>
+    <location>Trebíc district, Vysocina Region</location>
+    <state>Czech Republic</state>
+    <site>Jewish Quarter and St Procopius' Basilica in Trebíc</site>
+  </row>
+  <row id="599">
+    <region>Africa</region>
+    <location>Ilha de Mocambique District, Nampula Province</location>
+    <state>Mozambique</state>
+    <site>Island of Mozambique</site>
+  </row>
+  <row id="1255">
+    <region>Africa</region>
+    <location>Kunene Region</location>
+    <state>Namibia</state>
+    <site>Twyfelfontein or /Ui-//aes</site>
+  </row>
+  <row id="120">
+    <region>Asia</region>
+    <location>Solu-Khumbu District of the Sagarmatha Zone</location>
+    <state>Nepal</state>
+    <site>Sagarmatha National Park</site>
+  </row>
+  <row id="284">
+    <region>Asia</region>
+    <location>Chitwan District of the Narayani Zone</location>
+    <state>Nepal</state>
+    <site>Royal Chitwan National Park</site>
+  </row>
+  <row id="666">
+    <region>Asia</region>
+    <location>Lumbini Zone, Rupandehi District, Western Terai</location>
+    <state>Nepal</state>
+    <site>Lumbini, the Birthplace of the Lord Buddha</site>
+  </row>
+  <row id="121">
+    <region>Asia</region>
+    <location>Kathmandu Valley</location>
+    <state>Nepal</state>
+    <site>Kathmandu Valley</site>
+  </row>
+  <row id="739">
+    <region>Europe</region>
+    <location>Noordoostpolder, Province of Flevoland</location>
+    <state>Netherlands</state>
+    <site>Schokland and Surroundings</site>
+  </row>
+  <row id="19">
+    <region>Africa</region>
+    <location>Amhara Region</location>
+    <state>Ethiopia</state>
+    <site>Fasil Ghebbi, Gondar Region</site>
+  </row>
+  <row id="1189">
+    <region>Africa</region>
+    <location>Harari Region</location>
+    <state>Ethiopia</state>
+    <site>Harar Jugol, the Fortified Historic Town</site>
+  </row>
+  <row id="579">
+    <region>Europe</region>
+    <location>Region of Satakunta, Province of Western Finland</location>
+    <state>Finland</state>
+    <site>Bronze Age Burial Site of Sammallahdenmäki</site>
+  </row>
+  <row id="582">
+    <region>Europe</region>
+    <location>Region of Satakunta, Province of Western Finland (formerly Province of Turku-Pori)</location>
+    <state>Finland</state>
+    <site>Old Rauma</site>
+  </row>
+  <row id="583">
+    <region>Europe</region>
+    <location>Helsinki Harbour, Region of Uusimaa, Province of Southern Finland</location>
+    <state>Finland</state>
+    <site>Fortress of Suomenlinna</site>
+  </row>
+  <row id="584">
+    <region>Europe</region>
+    <location>Petäjävesi, Region of Central Finland, Province of Western Finland</location>
+    <state>Finland</state>
+    <site>Petäjävesi Old Church</site>
+  </row>
+  <row id="751">
+    <region>Europe</region>
+    <location>Municipalities of Jaala and Valkeala, Region of Kymenlaakso, Province of Southern Finland</location>
+    <state>Finland</state>
+    <site>Verla Groundwood and Board Mill</site>
+  </row>
+  <row id="868">
+    <region>Europe</region>
+    <location>Regions of Aquitaine, Auvergne, Basse-Normandie, Bourgogne, Centre, Champagne-Ardenne, Ile-de-France, Languedoc-Roussillon, Limousin, Midi-Pyrénées, Picardie, Poitou-Charentes, and Provence-Alpes-Côte d’Azur</location>
+    <state>France</state>
+    <site>Routes of Santiago de Compostela in France</site>
+  </row>
+  <row id="872">
+    <region>Europe</region>
+    <location>Department of Rhône, Region of Rhône-Alpes</location>
+    <state>France</state>
+    <site>Historic Site of Lyons</site>
+  </row>
+  <row id="873">
+    <region>Europe</region>
+    <location>Department of Seine-et-Marne, Ile-de-France</location>
+    <state>France</state>
+    <site>Provins, Town of Medieval Fairs</site>
+  </row>
+  <row id="932">
+    <region>Europe</region>
+    <location>Department of the Gironde, Region of Aquitaine</location>
+    <state>France</state>
+    <site>Jurisdiction of Saint-Emilion</site>
+  </row>
+  <row id="933">
+    <region>Europe</region>
+    <location>Departments of Loiret, Loir-et-Cher, Indre-et-Loire, and Maine-et-Loire, Regions of Centre and Pays de la Loire</location>
+    <state>France</state>
+    <site>The Loire Valley between Sully-sur-Loire and Chalonnes</site>
+  </row>
+  <row id="974">
+    <region>Europe</region>
+    <location>District of Freiburg, State of Baden-Württemberg</location>
+    <state>Germany</state>
+    <site>Monastic Island of Reichenau</site>
+  </row>
+  <row id="1158">
+    <region>Europe</region>
+    <location>Provinces of Rome and Viterbo, Region of Latium</location>
+    <state>Italy</state>
+    <site>Etruscan Necropolises of Cerveteri and Tarquinia</site>
+  </row>
+  <row id="1200">
+    <region>Europe</region>
+    <location>City and Province of Syracuse, Sicily</location>
+    <state>Italy</state>
+    <site>Syracuse and the Rocky Necropolis of Pantalica</site>
+  </row>
+  <row id="293">
+    <region>Arab States</region>
+    <location>District of Zahle, Beqaa Governorate</location>
+    <state>Lebanon</state>
+    <site>Anjar</site>
+  </row>
+  <row id="131">
+    <region>Europe</region>
+    <location>Island of Malta</location>
+    <state>Malta</state>
+    <site>City of Valletta</site>
+  </row>
+  <row id="780">
+    <region>Europe</region>
+    <location>Prefecture of Imathia, Region of Central Macedonia</location>
+    <state>Greece</state>
+    <site>Archaeological Site of Aigai (modern name Vergina)</site>
+  </row>
+  <row id="941">
+    <region>Europe</region>
+    <location>Prefecture of Argolis, Region of the Peloponnesos</location>
+    <state>Greece</state>
+    <site>Archaeological Sites of Mycenae and Tiryns</site>
+  </row>
+  <row id="942">
+    <region>Europe</region>
+    <location>Prefecture of Dodecanese, Region of the South Aegean</location>
+    <state>Greece</state>
+    <site>Historic Centre (Chorá) with the Monastery of Saint John "the Theologian" and the Cave of the Apocalypse on the Island of Pátmos</site>
+  </row>
+  <row id="978">
+    <region>Europe</region>
+    <location>Ionian Islands, Corfu Prefecture</location>
+    <state>Greece</state>
+    <site>Old Town of Corfu</site>
+  </row>
+  <row id="64">
+    <region>Latin America</region>
+    <location>Department of El Peten</location>
+    <state>Guatemala</state>
+    <site>Tikal National Park</site>
+  </row>
+  <row id="132">
+    <region>Europe</region>
+    <location>Islands of Gozo and Malta</location>
+    <state>Malta</state>
+    <site>Megalithic Temples of Malta</site>
+  </row>
+  <row id="506">
+    <region>Arab States</region>
+    <location>Nouadhibou and Azefal</location>
+    <state>Mauritania</state>
+    <site>Banc d'Arguin National Park</site>
+  </row>
+  <row id="750">
+    <region>Arab States</region>
+    <location>Oudane, Chinguetti: region de l’Adrar; Tichitt:  region du Tagant; Oualata:  region du Hodh Echchargut</location>
+    <state>Mauritania</state>
+    <site>Ancient &lt;I&gt;Ksour&lt;/I&gt; of Ouadane, Chinguetti, Tichitt and Oualata</site>
+  </row>
+  <row id="1227">
+    <region>Africa</region>
+    <location>Port Louis District</location>
+    <state>Mauritius</state>
+    <site>Aapravasi Ghat</site>
+  </row>
+  <row id="410">
+    <region>Latin America</region>
+    <location>Quintana Roo, Cozumel et Felipe Carrillo Puerto</location>
+    <state>Mexico</state>
+    <site>Sian Ka'an</site>
+  </row>
+  <row id="573">
+    <region>Africa</region>
+    <location>Départment d’Agades, arrondissement d’Arlit</location>
+    <state>Niger</state>
+    <site>Air and Ténéré Natural Reserves</site>
+  </row>
+  <row id="749">
+    <region>Africa</region>
+    <location>Départment  de Tillaberi, arrondisement de Say</location>
+    <state>Niger</state>
+    <site>W National Park of Niger</site>
+  </row>
+  <row id="938">
+    <region>Africa</region>
+    <location>Madagali Local Government Area, Adamawa State</location>
+    <state>Nigeria</state>
+    <site>Sukur Cultural Landscape</site>
+  </row>
+  <row id="1118">
+    <region>Africa</region>
+    <location>Osogbo, Osun State</location>
+    <state>Nigeria</state>
+    <site>Osun-Osogbo Sacred Grove</site>
+  </row>
+  <row id="55">
+    <region>Europe</region>
+    <location>Municipality of Røros, Sør Trøndelag County</location>
+    <state>Norway</state>
+    <site>Røros Mining Town</site>
+  </row>
+  <row id="58">
+    <region>Europe</region>
+    <location />
+    <state>Norway</state>
+    <site>Urnes Stave Church</site>
+  </row>
+  <row id="59">
+    <region>Europe</region>
+    <location>City of Bergen, County of Hordaland</location>
+    <state>Norway</state>
+    <site>Bryggen</site>
+  </row>
+  <row id="758">
+    <region>Europe</region>
+    <location>County of Györ-Moson-Sopron</location>
+    <state>Hungary</state>
+    <site>Millenary Benedictine Abbey of Pannonhalma and its Natural Environment</site>
+  </row>
+  <row id="853">
+    <region>Europe</region>
+    <location>County of Baranya</location>
+    <state>Hungary</state>
+    <site>Early Christian Necropolis of Pécs (Sopianae)</site>
+  </row>
+  <row id="1063">
+    <region>Europe</region>
+    <location>County of Borsod-Abaúj-Zemplén</location>
+    <state>Hungary</state>
+    <site>Tokaj Wine Region Historic Cultural Landscape</site>
+  </row>
+  <row id="1152">
+    <region>Europe</region>
+    <location>Bláskógabyggð municipality, district of Arnessysla</location>
+    <state>Iceland</state>
+    <site>Þingvellir National Park</site>
+  </row>
+  <row id="232">
+    <region>Asia</region>
+    <location>Delhi</location>
+    <state>India</state>
+    <site>Humayun's Tomb, Delhi</site>
+  </row>
+  <row id="233">
+    <region>Asia</region>
+    <location>Delhi</location>
+    <state>India</state>
+    <site>Qutb Minar and its Monuments, Delhi</site>
+  </row>
+  <row id="1138">
+    <region>Latin America</region>
+    <location>Provinces of Veraguas and Chiriquí</location>
+    <state>Panama</state>
+    <site>Coiba National Park and its Special Zone of Marine Protection</site>
+  </row>
+  <row id="648">
+    <region>Latin America</region>
+    <location>Department d’Itapua, region Orientale</location>
+    <state>Paraguay</state>
+    <site>Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangue</site>
+  </row>
+  <row id="273">
+    <region>Latin America</region>
+    <location>City of Cuzco</location>
+    <state>Peru</state>
+    <site>City of Cuzco</site>
+  </row>
+  <row id="274">
+    <region>Latin America</region>
+    <location>Left bank of the Vilcanota river, between its tributaries the Kusichaca and Aobamba rivers, in the department of Cuzco, Urubamba Province, District of Macchu Picchu</location>
+    <state>Peru</state>
+    <site>Historic Sanctuary of Machu Picchu</site>
+  </row>
+  <row id="330">
+    <region>Latin America</region>
+    <location>Ancash Department, Huari Province, Chavin District</location>
+    <state>Peru</state>
+    <site>Chavin (Archaeological Site)</site>
+  </row>
+  <row id="333">
+    <region>Latin America</region>
+    <location>Department Ancash, Provincia: recuay, Carhuas, Huaráz, Yungay, Pomabamba, Mariscal Luzuriaga, Huari, Corongo, Sihuas y Bolognesi</location>
+    <state>Peru</state>
+    <site>Huascarán National Park</site>
+  </row>
+  <row id="1042">
+    <region>Europe</region>
+    <location>Western Galilee</location>
+    <state>Israel</state>
+    <site>Old City of Acre</site>
+  </row>
+  <row id="1096">
+    <region>Europe</region>
+    <location>Dan Metropolitan Area, Tel-Aviv, Jaffa</location>
+    <state>Israel</state>
+    <site>White City of Tel-Aviv -- the Modern Movement</site>
+  </row>
+  <row id="1107">
+    <region>Europe</region>
+    <location>Negev Region</location>
+    <state>Israel</state>
+    <site>Incense Route - Desert Cities in the Negev</site>
+  </row>
+  <row id="1108">
+    <region>Europe</region>
+    <location>Megido, Upper Galilee and Beer Sheba regions</location>
+    <state>Israel</state>
+    <site>Biblical Tels - Megiddo, Hazor, Beer Sheba</site>
+  </row>
+  <row id="93">
+    <region>Europe</region>
+    <location>Province of Milano, Lombardy</location>
+    <state>Italy</state>
+    <site>Church and Dominican Convent of Santa Maria delle Grazie with "The Last Supper" by Leonardo da Vinci</site>
+  </row>
+  <row id="717">
+    <region>Europe</region>
+    <location>City and Province of Siena, Tuscany</location>
+    <state>Italy</state>
+    <site>Historic Centre of Siena</site>
+  </row>
+  <row id="726">
+    <region>Europe</region>
+    <location>City and Province of Naples, Campania</location>
+    <state>Italy</state>
+    <site>Historic Centre of Naples</site>
+  </row>
+  <row id="730">
+    <region>Europe</region>
+    <location>Province of Bergamo, Lombardy</location>
+    <state>Italy</state>
+    <site>Crespi d'Adda</site>
+  </row>
+  <row id="733">
+    <region>Europe</region>
+    <location>City and Province of Ferrara, Emilia-Romagna Region</location>
+    <state>Italy</state>
+    <site>Ferrara, City of the Renaissance, and its Po Delta</site>
+  </row>
+  <row id="787">
+    <region>Europe</region>
+    <location>Province of Bari, Puglia Region</location>
+    <state>Italy</state>
+    <site>The &lt;I&gt;Trulli&lt;/I&gt; of Alberobello</site>
+  </row>
+  <row id="788">
+    <region>Europe</region>
+    <location>City and Province of Ravenna, Emilia-Romagna Region</location>
+    <state>Italy</state>
+    <site>Early Christian Monuments of Ravenna</site>
+  </row>
+  <row id="830">
+    <region>Europe</region>
+    <location>Province of Salerno, Campania</location>
+    <state>Italy</state>
+    <site>Costiera Amalfitana</site>
+  </row>
+  <row id="831">
+    <region>Europe</region>
+    <location>Province of Agrigento, Sicily</location>
+    <state>Italy</state>
+    <site>Archaeological Area of Agrigento</site>
+  </row>
+  <row id="832">
+    <region>Europe</region>
+    <location>Piazza Armerina, Province of Enna, Sicily</location>
+    <state>Italy</state>
+    <site>Villa Romana del Casale</site>
+  </row>
+  <row id="833">
+    <region>Europe</region>
+    <location>Province of Medio Campidano, Sardinia</location>
+    <state>Italy</state>
+    <site>Su Nuraxi di Barumini</site>
+  </row>
+  <row id="842">
+    <region>Europe</region>
+    <location>Province of Salerno, Campania</location>
+    <state>Italy</state>
+    <site>Cilento and Vallo di Diano National Park with the Archeological sites of Paestum and Velia, and the Certosa di Padula</site>
+  </row>
+  <row id="907">
+    <region>Europe</region>
+    <location>Province of Rome, Region of Latium</location>
+    <state>Italy</state>
+    <site>Villa Adriana (Tivoli)</site>
+  </row>
+  <row id="1024">
+    <region>Europe</region>
+    <location>Provinces of Catania, Ragusa, and Syracuse, Sicily</location>
+    <state>Italy</state>
+    <site>Late Baroque Towns of the Val di Noto (South-Eastern Sicily)</site>
+  </row>
+  <row id="1025">
+    <region>Europe</region>
+    <location>Province of Rome, Region of Latium</location>
+    <state>Italy</state>
+    <site>Villa d'Este, Tivoli</site>
+  </row>
+  <row id="1026">
+    <region>Europe</region>
+    <location>Province of Siena, Tuscany</location>
+    <state>Italy</state>
+    <site>Val d'Orcia</site>
+  </row>
+  <row id="1068">
+    <region>Europe</region>
+    <location>Regions of Lombardy and Piedmont</location>
+    <state>Italy</state>
+    <site>&lt;I&gt;Sacri Monti&lt;/I&gt; of Piedmont and Lombardy</site>
+  </row>
+  <row id="395">
+    <region>Europe</region>
+    <location>City and Province of Pisa, Tuscany</location>
+    <state>Italy</state>
+    <site>Piazza del Duomo, Pisa</site>
+  </row>
+  <row id="660">
+    <region>Asia</region>
+    <location>Nara Prefecture</location>
+    <state>Japan</state>
+    <site>Buddhist Monuments in the Horyu-ji Area</site>
+  </row>
+  <row id="914">
+    <region>Africa</region>
+    <location>KwaZulu-Natal</location>
+    <state>South Africa</state>
+    <site>Greater St Lucia Wetland Park</site>
+  </row>
+  <row id="915">
+    <region>Africa</region>
+    <location>Gauteng, Limpopo and North-west provinces</location>
+    <state>South Africa</state>
+    <site>Fossil Hominid Sites of Sterkfontein, Swartkrans, Kromdraai, and Environs</site>
+  </row>
+  <row id="916">
+    <region>Africa</region>
+    <location>Western Cape Province</location>
+    <state>South Africa</state>
+    <site>Robben Island</site>
+  </row>
+  <row id="685">
+    <region>Europe</region>
+    <location>Provinces of Huelva and Sevilla, Autonomous Community of Andalusia</location>
+    <state>Spain</state>
+    <site>Doñana National Park</site>
+  </row>
+  <row id="781">
+    <region>Europe</region>
+    <location>Province of Cuenca, Autonomous Community of Castile-La Mancha</location>
+    <state>Spain</state>
+    <site>Historic Walled Town of Cuenca</site>
+  </row>
+  <row id="1002">
+    <region>Asia</region>
+    <location>Yi county, Huangshan city, Anhui Province</location>
+    <state>China</state>
+    <site>Ancient Villages in Southern Anhui – Xidi and Hongcun</site>
+  </row>
+  <row id="1003">
+    <region>Asia</region>
+    <location>Luoyang City, Henan Province</location>
+    <state>China</state>
+    <site>Longmen Grottoes</site>
+  </row>
+  <row id="1004">
+    <region>Asia</region>
+    <location>Nanjing City, Jiangsu Province (Xiaoling Tomb); Changping District, Beijing (Ming Tombs)</location>
+    <state>China</state>
+    <site>Imperial Tombs of the Ming and Qing Dynasties</site>
+  </row>
+  <row id="1039">
+    <region>Asia</region>
+    <location>Datong City, Shanxi Province</location>
+    <state>China</state>
+    <site>Yungang Grottoes</site>
+  </row>
+  <row id="697">
+    <region>Europe</region>
+    <location>Jelling Commune, County of Vejle</location>
+    <state>Denmark</state>
+    <site>Jelling Mounds, Runic Stones and Church</site>
+  </row>
+  <row id="81">
+    <region>Europe</region>
+    <location>Department of Eure-et-Loire, Centre Region</location>
+    <state>France</state>
+    <site>Chartres Cathedral</site>
+  </row>
+  <row id="83">
+    <region>Europe</region>
+    <location>Department of Yvelines,  Ile-de-France</location>
+    <state>France</state>
+    <site>Palace and Park of Versailles</site>
+  </row>
+  <row id="1149">
+    <region>Europe</region>
+    <location>West coast of Greenland, Bay of Disko Bugt (bight), Municipality of Ilulissat</location>
+    <state>Denmark</state>
+    <site>Ilulissat Icefjord</site>
+  </row>
+  <row id="814">
+    <region>Caribbean</region>
+    <location>South central part of the island</location>
+    <state>Dominica</state>
+    <site>Morne Trois Pitons National Park</site>
+  </row>
+  <row id="526">
+    <region>Caribbean</region>
+    <location>Distrito Nacional</location>
+    <state>Dominican Republic</state>
+    <site>Colonial City of Santo Domingo</site>
+  </row>
+  <row id="1">
+    <region>Latin America</region>
+    <location>Cantons: San Cristobal, Santa Cruz and Isabela, Province of Galapagos</location>
+    <state>Ecuador</state>
+    <site>Galápagos Islands</site>
+  </row>
+  <row id="2">
+    <region>Latin America</region>
+    <location>Province of Pinchinada, City and Canton of Quito</location>
+    <state>Ecuador</state>
+    <site>City of Quito</site>
+  </row>
+  <row id="85">
+    <region>Europe</region>
+    <location>Communes of Les Eyzies de Tayac, Tursac, Montignac-sur-Vézère, Saint-Leon-sur-Vézère, Marquay, Manaurie-Rouffignac and Saint-Cirq-du Bugue, Department of the Dordogne, Region of Aquitaine</location>
+    <state>France</state>
+    <site>Prehistoric Sites and Decorated Caves of the Vézère Valley</site>
+  </row>
+  <row id="160">
+    <region>Europe</region>
+    <location>Department of Seine-et-Marne, Ile-de-France</location>
+    <state>France</state>
+    <site>Palace and Park of Fontainebleau</site>
+  </row>
+  <row id="162">
+    <region>Europe</region>
+    <location>Department of Somme, Picardie Region</location>
+    <state>France</state>
+    <site>Amiens Cathedral</site>
+  </row>
+  <row id="164">
+    <region>Europe</region>
+    <location>Department of Bouches-du-Rhône, Region of Provence-Alpes-Côte-d’Azur</location>
+    <state>France</state>
+    <site>Arles, Roman and Romanesque Monuments</site>
+  </row>
+  <row id="203">
+    <region>Europe</region>
+    <location>Department of Doubs, Franche-Comté Region</location>
+    <state>France</state>
+    <site>Royal Saltworks of Arc-et-Senans</site>
+  </row>
+  <row id="228">
+    <region>Europe</region>
+    <location>Department of Vacluse, Region of Provence-Alpes-Côte-d’Azur</location>
+    <state>France</state>
+    <site>Historic Centre of Avignon: Papal Palace, Episcopal Ensemble and Avignon Bridge</site>
+  </row>
+  <row id="84">
+    <region>Europe</region>
+    <location>Department of Yonne, Bourgogne Region</location>
+    <state>France</state>
+    <site>Vézelay, Church and Hill</site>
+  </row>
+  <row id="1147">
+    <region>Africa</region>
+    <location>Ogoué-Ivindo and Ogoué-Lolo Provinces</location>
+    <state>Gabon</state>
+    <site>Ecosystem and Relict Cultural Landscape of Lopé-Okanda</site>
+  </row>
+  <row id="761">
+    <region>Africa</region>
+    <location>Lower Niumi and Upper Niumi districts&lt;br&gt;
+
+ and Banjul Municipality</location>
+    <state>Gambia</state>
+    <site>James Island and Related Sites</site>
+  </row>
+  <row id="708">
+    <region>Europe</region>
+    <location>City of Mtskheta, Region of Mtskheta-Mtianeti</location>
+    <state>Georgia</state>
+    <site>Historical Monuments of Mtskheta</site>
+  </row>
+  <row id="709">
+    <region>Europe</region>
+    <location>Village of Chajashi, Mestia district, Region of Samegrelo-Zemo Svateni</location>
+    <state>Georgia</state>
+    <site>Upper Svaneti</site>
+  </row>
+  <row id="710">
+    <region>Europe</region>
+    <location>City of Kutaisi, Region of Imereti</location>
+    <state>Georgia</state>
+    <site>Bagrati Cathedral and Gelati Monastery</site>
+  </row>
+  <row id="138">
+    <region>Asia</region>
+    <location>Sind</location>
+    <state>Pakistan</state>
+    <site>Archaeological Ruins at Moenjodaro</site>
+  </row>
+  <row id="139">
+    <region>Asia</region>
+    <location>Province of Punjab</location>
+    <state>Pakistan</state>
+    <site>Taxila</site>
+  </row>
+  <row id="140">
+    <region>Asia</region>
+    <location>North West Frontier Province</location>
+    <state>Pakistan</state>
+    <site>Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol</site>
+  </row>
+  <row id="143">
+    <region>Asia</region>
+    <location>Province of Sind</location>
+    <state>Pakistan</state>
+    <site>Historical Monuments of Thatta</site>
+  </row>
+  <row id="171">
+    <region>Asia</region>
+    <location>Lahore, Punjab</location>
+    <state>Pakistan</state>
+    <site>Fort and Shalamar Gardens in Lahore</site>
+  </row>
+  <row id="586">
+    <region>Asia</region>
+    <location>Jhelum City, Punjab</location>
+    <state>Pakistan</state>
+    <site>Rohtas Fort</site>
+  </row>
+  <row id="135">
+    <region>Latin America</region>
+    <location>Province of Colon - Distric of Cristobal</location>
+    <state>Panama</state>
+    <site>Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo</site>
+  </row>
+  <row id="159">
+    <region>Latin America</region>
+    <location>Province of Darien</location>
+    <state>Panama</state>
+    <site>Darien National Park</site>
+  </row>
+  <row id="1007">
+    <region>Africa</region>
+    <location>Western Cape Province, Eastern Cape Province</location>
+    <state>South Africa</state>
+    <site>Cape Floral Region Protected Areas</site>
+  </row>
+  <row id="1099">
+    <region>Africa</region>
+    <location>Northern Province</location>
+    <state>South Africa</state>
+    <site>Mapungubwe Cultural Landscape</site>
+  </row>
+  <row id="1162">
+    <region>Africa</region>
+    <location>Northwest and Free State provinces</location>
+    <state>South Africa</state>
+    <site>Vredefort Dome</site>
+  </row>
+  <row id="1265">
+    <region>Africa</region>
+    <location>Northern Cape</location>
+    <state>South Africa</state>
+    <site>Richtersveld Cultural and Botanical Landscape</site>
+  </row>
+  <row id="800">
+    <region>Africa</region>
+    <location>Districts of Meru, Nyeri, Kirnyaga and Embu in Eastern and Central Provinces</location>
+    <state>Kenya</state>
+    <site>Mount Kenya National Park/Natural Forest</site>
+  </row>
+  <row id="801">
+    <region>Africa</region>
+    <location />
+    <state>Kenya</state>
+    <site>Lake Turkana National Parks</site>
+  </row>
+  <row id="1055">
+    <region>Africa</region>
+    <location>Coast Province, Lamu District</location>
+    <state>Kenya</state>
+    <site>Lamu Old Town</site>
+  </row>
+  <row id="479">
+    <region>Asia</region>
+    <location>Province of Luang Prabang</location>
+    <state>Lao People's Democratic Republic</state>
+    <site>Town of Luang Prabang</site>
+  </row>
+  <row id="481">
+    <region>Asia</region>
+    <location>Champasak Province</location>
+    <state>Lao People's Democratic Republic</state>
+    <site>Vat Phou and Associated Ancient Settlements within the Champasak Cultural Landscape</site>
+  </row>
+  <row id="852">
+    <region>Europe</region>
+    <location>City of Riga</location>
+    <state>Latvia</state>
+    <site>Historic Centre of Riga</site>
+  </row>
+  <row id="662">
+    <region>Asia</region>
+    <location>Kamiyaku-cho and Yaku-cho, Kumage-gun Kagoshima Prefecture</location>
+    <state>Japan</state>
+    <site>Yakushima</site>
+  </row>
+  <row id="663">
+    <region>Asia</region>
+    <location>Ajigasawa-machi, Nishitsugaru-gun, Aomori Prefecture; Fukaura-machi, Nishitsugaru-gun, Aomori Prefecture; Iwasaki-mura, Nishitsugaru-gun, Aomori Prefecture; Fujisato-machi, Yamamoto-gun, Akita Prefecture</location>
+    <state>Japan</state>
+    <site>Shirakami-Sanchi</site>
+  </row>
+  <row id="688">
+    <region>Asia</region>
+    <location>Kyoto and Shiga prefectures</location>
+    <state>Japan</state>
+    <site>Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities)</site>
+  </row>
+  <row id="734">
+    <region>Asia</region>
+    <location>Gifu and Toyama prefectures</location>
+    <state>Japan</state>
+    <site>Historic Villages of Shirakawa-go and Gokayama</site>
+  </row>
+  <row id="775">
+    <region>Asia</region>
+    <location>Hiroshima Prefecture</location>
+    <state>Japan</state>
+    <site>Hiroshima Peace Memorial (Genbaku Dome)</site>
+  </row>
+  <row id="776">
+    <region>Asia</region>
+    <location>Hiroshima Prefecture</location>
+    <state>Japan</state>
+    <site>Itsukushima Shinto Shrine</site>
+  </row>
+  <row id="653">
+    <region>Pacific</region>
+    <location>Palawan , Region 4</location>
+    <state>Philippines</state>
+    <site>Tubbataha Reef Marine Park</site>
+  </row>
+  <row id="677">
+    <region>Pacific</region>
+    <location>Immaculate Conception: District of Intramuros, City of Manila
+
+Nuestra Senora: Municipality of Santa Maria, Province of Ilocos Sur
+
+San Agustin: Municipality of Paoay, Province of Ilocos Norte
+
+Santo Tomas: Municipality of Miag-ao, Province of Iloilo</location>
+    <state>Philippines</state>
+    <site>Baroque Churches of the Philippines</site>
+  </row>
+  <row id="722">
+    <region>Pacific</region>
+    <location>Ifugao Province, Cordillera Region, Luzon Island</location>
+    <state>Philippines</state>
+    <site>Rice Terraces of the Philippine Cordilleras</site>
+  </row>
+  <row id="29">
+    <region>Europe</region>
+    <location>City and County of Cracow, Lesser Poland (Malopolska) Voivodship</location>
+    <state>Poland</state>
+    <site>Cracow's Historic Centre</site>
+  </row>
+  <row id="30">
+    <region>Europe</region>
+    <location>City and County of Warsaw, Masovian Voivodship</location>
+    <state>Poland</state>
+    <site>Historic Centre of Warsaw</site>
+  </row>
+  <row id="31">
+    <region>Europe</region>
+    <location>Oswiecim County, Lesser Poland (Malopolska) Voivodship (formerly Bielsko-Biala)</location>
+    <state>Poland</state>
+    <site>Auschwitz Birkenau &lt;br /&gt;&lt;small&gt;German Nazi Concentration and Extermination Camp (1940-1945)&lt;/small&gt;</site>
+  </row>
+  <row id="975">
+    <region>Europe</region>
+    <location>State of North Rhine-Westphalia (Nordrhein-Westfalen)</location>
+    <state>Germany</state>
+    <site>Zollverein Coal Mine Industrial Complex in Essen</site>
+  </row>
+  <row id="1066">
+    <region>Europe</region>
+    <location>States of Rhineland-Palatinate (Rheinland-Pfalz) and  Hesse (Hessen)
+</location>
+    <state>Germany</state>
+    <site>Upper Middle Rhine Valley</site>
+  </row>
+  <row id="1067">
+    <region>Europe</region>
+    <location>State of Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern)</location>
+    <state>Germany</state>
+    <site>Historic Centres of Stralsund and Wismar</site>
+  </row>
+  <row id="1087">
+    <region>Europe</region>
+    <location>Bremen (city-state)</location>
+    <state>Germany</state>
+    <site>Town Hall and Roland on the Marketplace of Bremen</site>
+  </row>
+  <row id="65">
+    <region>Latin America</region>
+    <location>Department of Sacatepéquez, Panchoy Valley</location>
+    <state>Guatemala</state>
+    <site>Antigua Guatemala</site>
+  </row>
+  <row id="234">
+    <region>Asia</region>
+    <location>State of Goa</location>
+    <state>India</state>
+    <site>Churches and Convents of Goa</site>
+  </row>
+  <row id="149">
+    <region>Latin America</region>
+    <location>Department of Izabal</location>
+    <state>Guatemala</state>
+    <site>Archaeological Park and Ruins of Quirigua</site>
+  </row>
+  <row id="180">
+    <region>Caribbean</region>
+    <location>Département du Nord</location>
+    <state>Haiti</state>
+    <site>National History Park – Citadel, Sans Souci, Ramiers</site>
+  </row>
+  <row id="286">
+    <region>Europe</region>
+    <location>Vatican City State</location>
+    <state>Holy See</state>
+    <site>Vatican City</site>
+  </row>
+  <row id="129">
+    <region>Latin America</region>
+    <location>Copán; westernmost part of the country</location>
+    <state>Honduras</state>
+    <site>Maya Site of Copan</site>
+  </row>
+  <row id="196">
+    <region>Latin America</region>
+    <location>Northeast of the country in the area known as the “Mosquitia Hondureña”</location>
+    <state>Honduras</state>
+    <site>Río Plátano Biosphere Reserve</site>
+  </row>
+  <row id="400">
+    <region>Europe</region>
+    <location>Budapest</location>
+    <state>Hungary</state>
+    <site>Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue</site>
+  </row>
+  <row id="401">
+    <region>Europe</region>
+    <location>County of Nógrád</location>
+    <state>Hungary</state>
+    <site>Old Village of Hollókö and its Surroundings</site>
+  </row>
+  <row id="1156">
+    <region>Europe</region>
+    <location>State of Saxony (Sachsen)</location>
+    <state>Germany</state>
+    <site>Dresden Elbe Valley</site>
+  </row>
+  <row id="34">
+    <region>Africa</region>
+    <location>Volta, Greater Accra, Central and Western Regions</location>
+    <state>Ghana</state>
+    <site>Forts and Castles, Volta, Greater Accra, Central and Western Regions</site>
+  </row>
+  <row id="35">
+    <region>Africa</region>
+    <location>Asante Region</location>
+    <state>Ghana</state>
+    <site>Asante Traditional Buildings</site>
+  </row>
+  <row id="392">
+    <region>Europe</region>
+    <location>Prefectures of Messenia, Arcadia, and Ilia in the  Western Peloponnese</location>
+    <state>Greece</state>
+    <site>Temple of Apollo Epicurius at Bassae</site>
+  </row>
+  <row id="393">
+    <region>Europe</region>
+    <location>Prefecture of Phokis, Region of Central Greece</location>
+    <state>Greece</state>
+    <site>Archaeological Site of Delphi</site>
+  </row>
+  <row id="404">
+    <region>Europe</region>
+    <location>Prefecture and Region of Attica</location>
+    <state>Greece</state>
+    <site>Acropolis, Athens</site>
+  </row>
+  <row id="454">
+    <region>Europe</region>
+    <location>Autonomous region of Mount Athos</location>
+    <state>Greece</state>
+    <site>Mount Athos</site>
+  </row>
+  <row id="239">
+    <region>Asia</region>
+    <location>State of Karnataka, Bijapur District, Badami Taluk</location>
+    <state>India</state>
+    <site>Group of Monuments at Pattadakal</site>
+  </row>
+  <row id="240">
+    <region>Asia</region>
+    <location>State of Madhya Pradesh</location>
+    <state>India</state>
+    <site>Khajuraho Group of Monuments</site>
+  </row>
+  <row id="241">
+    <region>Asia</region>
+    <location>Karnataka, Bellary District</location>
+    <state>India</state>
+    <site>Group of Monuments at Hampi</site>
+  </row>
+  <row id="242">
+    <region>Asia</region>
+    <location>Maharashtra State, Aurangabad District , Soyagon Taluka, Lenapur Village</location>
+    <state>India</state>
+    <site>Ajanta Caves</site>
+  </row>
+  <row id="243">
+    <region>Asia</region>
+    <location>Maharashtra State, Aurangabad District, Khulatabad Taluk , Verul Village</location>
+    <state>India</state>
+    <site>Ellora Caves</site>
+  </row>
+  <row id="244">
+    <region>Asia</region>
+    <location>Maharashtra State, District Kolaba (Island of Elephanta)</location>
+    <state>India</state>
+    <site>Elephanta Caves</site>
+  </row>
+  <row id="246">
+    <region>Asia</region>
+    <location>State of Orissa, Puri District</location>
+    <state>India</state>
+    <site>Sun Temple, Konârak</site>
+  </row>
+  <row id="699">
+    <region>Europe</region>
+    <location>Luxemburg</location>
+    <state>Luxembourg</state>
+    <site>City of Luxembourg: its Old Quarters and Fortifications</site>
+  </row>
+  <row id="494">
+    <region>Africa</region>
+    <location>Centre Ouest, dans le Fivondronana d’Antsalova et le Faritany de Mahajanga</location>
+    <state>Madagascar</state>
+    <site>Tsingy de Bemaraha Strict Nature Reserve</site>
+  </row>
+  <row id="950">
+    <region>Africa</region>
+    <location>Municipality of Ambohimanga
+
+Rova, Province of Antananarivo
+
+Avaradrano</location>
+    <state>Madagascar</state>
+    <site>Royal Hill of Ambohimanga</site>
+  </row>
+  <row id="1257">
+    <region>Africa</region>
+    <location />
+    <state>Madagascar</state>
+    <site>Rainforests of the Atsinanana</site>
+  </row>
+  <row id="289">
+    <region>Africa</region>
+    <location>Central and Southern Regions</location>
+    <state>Malawi</state>
+    <site>Lake Malawi National Park</site>
+  </row>
+  <row id="476">
+    <region>Africa</region>
+    <location>Dedza District, Central Region</location>
+    <state>Malawi</state>
+    <site>Chongoni Rock-Art Area</site>
+  </row>
+  <row id="1211">
+    <region>Europe</region>
+    <location>Liguria Region, Genoa Province</location>
+    <state>Italy</state>
+    <site>Genoa: &lt;i&gt;Le Strade Nuove&lt;/i&gt; and the system of the&lt;i&gt; Palazzi dei Rolli&lt;/i&gt;</site>
+  </row>
+  <row id="1246">
+    <region>Asia</region>
+    <location>Shimane Prefecture, Ohda City District</location>
+    <state>Japan</state>
+    <site>Iwami Ginzan Silver Mine and its Cultural Landscape</site>
+  </row>
+  <row id="411">
+    <region>Latin America</region>
+    <location>State of Chiapas, Municipality of Palenque</location>
+    <state>Mexico</state>
+    <site>Pre-Hispanic City and National Park of Palenque</site>
+  </row>
+  <row id="895">
+    <region>Latin America</region>
+    <location>State of Campeche</location>
+    <state>Mexico</state>
+    <site>Historic Fortified Town of Campeche</site>
+  </row>
+  <row id="939">
+    <region>Latin America</region>
+    <location>Municipalities of Temixco and 
+
+Miacatlan, Morelos State</location>
+    <state>Mexico</state>
+    <site>Archaeological Monuments Zone of Xochicalco</site>
+  </row>
+  <row id="703">
+    <region>Asia</region>
+    <location>Chengde City, Hebei Province</location>
+    <state>China</state>
+    <site>Mountain Resort and its Outlying Temples, Chengde</site>
+  </row>
+  <row id="704">
+    <region>Asia</region>
+    <location>Qufu City, Shandong Province</location>
+    <state>China</state>
+    <site>Temple and Cemetery of Confucius and the Kong Family Mansion in Qufu</site>
+  </row>
+  <row id="705">
+    <region>Asia</region>
+    <location>Danjiangkou City, Hubei Province</location>
+    <state>China</state>
+    <site>Ancient Building Complex in the Wudang Mountains</site>
+  </row>
+  <row id="743">
+    <region>Latin America</region>
+    <location>Department of Cauca, in the jurisdiction of the municipality of Inza, in the “corregimiento” of San Andres de Pisimbalá</location>
+    <state>Colombia</state>
+    <site>National Archeological Park of Tierradentro</site>
+  </row>
+  <row id="260">
+    <region>Latin America</region>
+    <location>Provinces of Morona Santiago, Chimborazo and Tungurahua</location>
+    <state>Ecuador</state>
+    <site>Sangay National Park</site>
+  </row>
+  <row id="229">
+    <region>Europe</region>
+    <location>Department of Meurthe-et-Moselle, Lorraine Region</location>
+    <state>France</state>
+    <site>Place Stanislas, Place de la Carrière and Place d'Alliance in Nancy</site>
+  </row>
+  <row id="744">
+    <region>Latin America</region>
+    <location>Department of Huila: Municipalities of San Augustin and San José de Isnos</location>
+    <state>Colombia</state>
+    <site>San Agustín Archeological Park</site>
+  </row>
+  <row id="1216">
+    <region>Latin America</region>
+    <location>Valle del Cauca Region</location>
+    <state>Colombia</state>
+    <site>Malpelo Fauna and Flora Sanctuary</site>
+  </row>
+  <row id="820">
+    <region>Latin America</region>
+    <location>Province of Puntarenas, South Eastern Tropical Pacific</location>
+    <state>Costa Rica</state>
+    <site>Cocos Island National Park</site>
+  </row>
+  <row id="928">
+    <region>Latin America</region>
+    <location>Guanacaste and Alajuela provinces</location>
+    <state>Costa Rica</state>
+    <site>Area de Conservación Guanacaste</site>
+  </row>
+  <row id="195">
+    <region>Africa</region>
+    <location>Southwest region, Guiglo and Sassandra Districts</location>
+    <state>Côte d'Ivoire</state>
+    <site>Taï National Park</site>
+  </row>
+  <row id="863">
+    <region>Latin America</region>
+    <location>Province of Azuay</location>
+    <state>Ecuador</state>
+    <site>Historic Centre of Santa Ana de los Ríos de Cuenca</site>
+  </row>
+  <row id="86">
+    <region>Arab States</region>
+    <location>Governorate of Giza</location>
+    <state>Egypt</state>
+    <site>Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur</site>
+  </row>
+  <row id="87">
+    <region>Arab States</region>
+    <location>Governorate of Qina</location>
+    <state>Egypt</state>
+    <site>Ancient Thebes with its Necropolis</site>
+  </row>
+  <row id="88">
+    <region>Arab States</region>
+    <location>Governorate of Aswan</location>
+    <state>Egypt</state>
+    <site>Nubian Monuments from Abu Simbel to Philae</site>
+  </row>
+  <row id="89">
+    <region>Arab States</region>
+    <location>Governorate of al-Qahirah (Cairo)</location>
+    <state>Egypt</state>
+    <site>Historic Cairo</site>
+  </row>
+  <row id="90">
+    <region>Arab States</region>
+    <location>Mariut desert, District of Burg al-Arab, Gouvernate of Al Iskandariyah (Alexandria)</location>
+    <state>Egypt</state>
+    <site>Abu Mena</site>
+  </row>
+  <row id="3">
+    <region>Europe</region>
+    <location>State of North Rhine-Westphalia (Nordrhein-Westfalen)</location>
+    <state>Germany</state>
+    <site>Aachen Cathedral</site>
+  </row>
+  <row id="455">
+    <region>Europe</region>
+    <location>Prefecture of Trikala, Region of Thessaly</location>
+    <state>Greece</state>
+    <site>Meteora</site>
+  </row>
+  <row id="258">
+    <region>Europe</region>
+    <location>Departments of Corse du Sud and Haute Corse, Corsica</location>
+    <state>France</state>
+    <site>Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve</site>
+  </row>
+  <row id="345">
+    <region>Europe</region>
+    <location>Department of Aude, Languedoc-Roussillon Region</location>
+    <state>France</state>
+    <site>Historic Fortified City of Carcassonne</site>
+  </row>
+  <row id="495">
+    <region>Europe</region>
+    <location>Department of Bas-Rhin, Alsace Region</location>
+    <state>France</state>
+    <site>Strasbourg – Grande île</site>
+  </row>
+  <row id="600">
+    <region>Europe</region>
+    <location>Ile de France</location>
+    <state>France</state>
+    <site>Paris, Banks of the Seine</site>
+  </row>
+  <row id="601">
+    <region>Europe</region>
+    <location>Department of Marne, Champagne Ardenne Region</location>
+    <state>France</state>
+    <site>Cathedral of Notre-Dame, Former Abbey of Saint-Remi and Palace of Tau, Reims</site>
+  </row>
+  <row id="635">
+    <region>Europe</region>
+    <location>Department of Cher, Centre Region</location>
+    <state>France</state>
+    <site>Bourges Cathedral</site>
+  </row>
+  <row id="168">
+    <region>Europe</region>
+    <location>State of Rhineland-Palatinate (Rheinland-Pfalz)</location>
+    <state>Germany</state>
+    <site>Speyer Cathedral</site>
+  </row>
+  <row id="169">
+    <region>Europe</region>
+    <location>District of Lower Franconia, State of Bavaria (Bayern)</location>
+    <state>Germany</state>
+    <site>Würzburg Residence with the Court Gardens and Residence Square</site>
+  </row>
+  <row id="187">
+    <region>Europe</region>
+    <location>District of Hanover, State of Lower Saxony (Niedersachsen)</location>
+    <state>Germany</state>
+    <site>St Mary's Cathedral and St Michael's Church at Hildesheim</site>
+  </row>
+  <row id="271">
+    <region>Europe</region>
+    <location>Town of Steingaden, District of Weilheim-Schongau, Region of Upper Bavaria, State of Bavaria (Bayern)</location>
+    <state>Germany</state>
+    <site>Pilgrimage Church of Wies</site>
+  </row>
+  <row id="272">
+    <region>Europe</region>
+    <location>State of Schleswig-Holstein</location>
+    <state>Germany</state>
+    <site>Hanseatic City of Lübeck</site>
+  </row>
+  <row id="288">
+    <region>Europe</region>
+    <location>State of North Rhine-Westphalia (Nordrhein-Westfalen)</location>
+    <state>Germany</state>
+    <site>Castles of Augustusburg and Falkenlust at Brühl</site>
+  </row>
+  <row id="292">
+    <region>Europe</region>
+    <location>State of North Rhine-Westphalia (Nordrhein-Westfalen)</location>
+    <state>Germany</state>
+    <site>Cologne Cathedral</site>
+  </row>
+  <row id="79">
+    <region>Europe</region>
+    <location>District of Paphos</location>
+    <state>Cyprus</state>
+    <site>Paphos</site>
+  </row>
+  <row id="351">
+    <region>Europe</region>
+    <location>Troodos Region, Districts of Nicosia and Limassol</location>
+    <state>Cyprus</state>
+    <site>Painted Churches in the Troodos Region</site>
+  </row>
+  <row id="848">
+    <region>Europe</region>
+    <location>District of Larnaca</location>
+    <state>Cyprus</state>
+    <site>Choirokoitia</site>
+  </row>
+  <row id="616">
+    <region>Europe</region>
+    <location>Prague (Hlavní mesto Praha)</location>
+    <state>Czech Republic</state>
+    <site>Historic Centre of Prague</site>
+  </row>
+  <row id="617">
+    <region>Europe</region>
+    <location>South Bohemian Region</location>
+    <state>Czech Republic</state>
+    <site>Historic Centre of Ceský Krumlov</site>
+  </row>
+  <row id="621">
+    <region>Europe</region>
+    <location>Vysocina Region</location>
+    <state>Czech Republic</state>
+    <site>Historic Centre of Telc</site>
+  </row>
+  <row id="690">
+    <region>Europe</region>
+    <location>South Moravian Region</location>
+    <state>Czech Republic</state>
+    <site>Pilgrimage Church of St John of Nepomuk at Zelená Hora</site>
+  </row>
+  <row id="148">
+    <region>Arab States</region>
+    <location>Jerusalem District</location>
+    <state>Jerusalem (Site proposed by Jordan)</state>
+    <site>Old City of Jerusalem and its Walls</site>
+  </row>
+  <row id="326">
+    <region>Arab States</region>
+    <location>Ma’an Governorate</location>
+    <state>Jordan</state>
+    <site>Petra</site>
+  </row>
+  <row id="327">
+    <region>Arab States</region>
+    <location>Eastern desert – Az Zarqa' Governorate</location>
+    <state>Jordan</state>
+    <site>Quseir Amra</site>
+  </row>
+  <row id="1093">
+    <region>Arab States</region>
+    <location>Madaba Governorate</location>
+    <state>Jordan</state>
+    <site>Um er-Rasas (Kastrom Mefa'a)</site>
+  </row>
+  <row id="1103">
+    <region>Asia</region>
+    <location>South Kazakhstan Oblast, City of Turkestan</location>
+    <state>Kazakhstan</state>
+    <site>Mausoleum of Khoja Ahmed Yasawi</site>
+  </row>
+  <row id="294">
+    <region>Arab States</region>
+    <location>City and District of Baalbek, Beqaa Governorate</location>
+    <state>Lebanon</state>
+    <site>Baalbek</site>
+  </row>
+  <row id="63">
+    <region>Africa</region>
+    <location>Province of North-Kivu and Orientale province</location>
+    <state>Democratic Republic of the Congo</state>
+    <site>Virunga National Park</site>
+  </row>
+  <row id="136">
+    <region>Africa</region>
+    <location>Orientale Province</location>
+    <state>Democratic Republic of the Congo</state>
+    <site>Garamba National Park</site>
+  </row>
+  <row id="137">
+    <region>Africa</region>
+    <location>Provinces of South-Kivu and Maniena</location>
+    <state>Democratic Republic of the Congo</state>
+    <site>Kahuzi-Biega National Park</site>
+  </row>
+  <row id="280">
+    <region>Africa</region>
+    <location>Provinces of Equateur, Bandundu and Kasaï Oriental and Occidental
+</location>
+    <state>Democratic Republic of the Congo</state>
+    <site>Salonga National Park</site>
+  </row>
+  <row id="718">
+    <region>Africa</region>
+    <location>Orientale Province</location>
+    <state>Democratic Republic of the Congo</state>
+    <site>Okapi Wildlife Reserve</site>
+  </row>
+  <row id="695">
+    <region>Europe</region>
+    <location>Island of Sjaelland, County and City of Roskilde</location>
+    <state>Denmark</state>
+    <site>Roskilde Cathedral</site>
+  </row>
+  <row id="696">
+    <region>Europe</region>
+    <location>Island of Sjaelland, City of Helsingör, County of  Frederiksborg</location>
+    <state>Denmark</state>
+    <site>Kronborg Castle</site>
+  </row>
+  <row id="412">
+    <region>Latin America</region>
+    <location>District Federal.  Delegations: Cuauhtemoc, Venustiano Carranza et Xochimilco</location>
+    <state>Mexico</state>
+    <site>Historic Centre of Mexico City and Xochimilco</site>
+  </row>
+  <row id="414">
+    <region>Latin America</region>
+    <location>Municipalities of Teotihuacan De Arista and San Martin De Las Piramides</location>
+    <state>Mexico</state>
+    <site>Pre-Hispanic City of Teotihuacan</site>
+  </row>
+  <row id="415">
+    <region>Latin America</region>
+    <location>Etat de Oaxaca de Juarez, municipalites de Oaxaca, Xoxocotlan et Cuilapan</location>
+    <state>Mexico</state>
+    <site>Historic Centre of Oaxaca and Archaeological Site of Monte Albán</site>
+  </row>
+  <row id="416">
+    <region>Latin America</region>
+    <location>Etat de Puebla, municipalites de Puebla, San Pedro Cholula et San Andres Cholula</location>
+    <state>Mexico</state>
+    <site>Historic Centre of Puebla</site>
+  </row>
+  <row id="482">
+    <region>Latin America</region>
+    <location>Etat de: Guanajuato.   Municipalite:  Guanajuato</location>
+    <state>Mexico</state>
+    <site>Historic Town of Guanajuato and Adjacent Mines</site>
+  </row>
+  <row id="1187">
+    <region>Europe</region>
+    <location />
+    <state>Estonia</state>
+    <site>Struve Geodetic Arc</site>
+  </row>
+  <row id="1187">
+    <region>Europe</region>
+    <location />
+    <state>Finland</state>
+    <site>Struve Geodetic Arc</site>
+  </row>
+  <row id="1187">
+    <region>Europe</region>
+    <location />
+    <state>Latvia</state>
+    <site>Struve Geodetic Arc</site>
+  </row>
+  <row id="994">
+    <region>Europe</region>
+    <location>Klaipeda Region, Neringa and Klaipeda (Lithuania);
+
+ Kaliningrad Region, Zelenogradsk District (Russian
+
+Federation)</location>
+    <state>Russian Federation</state>
+    <site>Curonian Spit</site>
+  </row>
+  <row id="1186">
+    <region>Arab States</region>
+    <location>Faiyum Governorate</location>
+    <state>Egypt</state>
+    <site>Wadi Al-Hitan (Whale Valley)</site>
+  </row>
+  <row id="675">
+    <region>Latin America</region>
+    <location>Department of La Libertad, Canton Joya de Ceren, jurisdiction of San Juan Opico</location>
+    <state>El Salvador</state>
+    <site>Joya de Cerén Archaeological Site</site>
+  </row>
+  <row id="822">
+    <region>Europe</region>
+    <location>County of Harju</location>
+    <state>Estonia</state>
+    <site>Historic Centre (Old Town) of Tallinn</site>
+  </row>
+  <row id="9">
+    <region>Africa</region>
+    <location>Gondar Region</location>
+    <state>Ethiopia</state>
+    <site>Simien National Park</site>
+  </row>
+  <row id="10">
+    <region>Africa</region>
+    <location>Afar region</location>
+    <state>Ethiopia</state>
+    <site>Lower Valley of the Awash</site>
+  </row>
+  <row id="12">
+    <region>Africa</region>
+    <location>Sodo woreda, Gurage zone, Southern Nation Nationalities &amp; Peoples Region</location>
+    <state>Ethiopia</state>
+    <site>Tiya</site>
+  </row>
+  <row id="250">
+    <region>Asia</region>
+    <location />
+    <state>India</state>
+    <site>Great Living Chola Temples</site>
+  </row>
+  <row id="251">
+    <region>Asia</region>
+    <location>Uttar Pradesh, Agra District</location>
+    <state>India</state>
+    <site>Agra Fort</site>
+  </row>
+  <row id="252">
+    <region>Asia</region>
+    <location>Uttar Pradesh, Agra District</location>
+    <state>India</state>
+    <site>Taj Mahal</site>
+  </row>
+  <row id="255">
+    <region>Asia</region>
+    <location>Uttar Pradesh, Agra District</location>
+    <state>India</state>
+    <site>Fatehpur Sikri</site>
+  </row>
+  <row id="335">
+    <region>Asia</region>
+    <location>State of Uttaranchal</location>
+    <state>India</state>
+    <site>Nanda Devi and Valley of Flowers National Parks</site>
+  </row>
+  <row id="337">
+    <region>Asia</region>
+    <location>State of Assam</location>
+    <state>India</state>
+    <site>Kaziranga National Park</site>
+  </row>
+  <row id="340">
+    <region>Asia</region>
+    <location>State of Rajasthan, 50 km west of Agra</location>
+    <state>India</state>
+    <site>Keoladeo National Park</site>
+  </row>
+  <row id="452">
+    <region>Asia</region>
+    <location>West Bengal</location>
+    <state>India</state>
+    <site>Sundarbans National Park</site>
+  </row>
+  <row id="524">
+    <region>Asia</region>
+    <location>Madhya Pradesh</location>
+    <state>India</state>
+    <site>Buddhist Monuments at Sanchi</site>
+  </row>
+  <row id="925">
+    <region>Asia</region>
+    <location>Madhya Pradesh</location>
+    <state>India</state>
+    <site>Rock Shelters of Bhimbetka</site>
+  </row>
+  <row id="944">
+    <region>Asia</region>
+    <location>States of West Bengal and Tamil Nadu</location>
+    <state>India</state>
+    <site>Mountain Railways of India</site>
+  </row>
+  <row id="1056">
+    <region>Asia</region>
+    <location>State of Bihar, Eastern India</location>
+    <state>India</state>
+    <site>Mahabodhi Temple Complex at Bodh Gaya</site>
+  </row>
+  <row id="592">
+    <region>Pacific</region>
+    <location>Regency of Magelang, Province of Central Java</location>
+    <state>Indonesia</state>
+    <site>Borobudur Temple Compounds</site>
+  </row>
+  <row id="113">
+    <region>Asia</region>
+    <location>Khuzestan</location>
+    <state>Iran (Islamic Republic of)</state>
+    <site>Tchogha Zanbil</site>
+  </row>
+  <row id="114">
+    <region>Asia</region>
+    <location>Fars</location>
+    <state>Iran (Islamic Republic of)</state>
+    <site>Persepolis</site>
+  </row>
+  <row id="115">
+    <region>Asia</region>
+    <location>Esfahan</location>
+    <state>Iran (Islamic Republic of)</state>
+    <site>Meidan Emam, Esfahan</site>
+  </row>
+  <row id="1077">
+    <region>Asia</region>
+    <location>Western Azerbaijan Province</location>
+    <state>Iran (Islamic Republic of)</state>
+    <site>Takht-e Soleyman</site>
+  </row>
+  <row id="1106">
+    <region>Asia</region>
+    <location>Pars Province</location>
+    <state>Iran (Islamic Republic of)</state>
+    <site>Pasargadae</site>
+  </row>
+  <row id="1188">
+    <region>Asia</region>
+    <location>Zanjan province</location>
+    <state>Iran (Islamic Republic of)</state>
+    <site>Soltaniyeh</site>
+  </row>
+  <row id="806">
+    <region>Europe</region>
+    <location>States of Upper Austria, Styria and Salzburg</location>
+    <state>Austria</state>
+    <site>Hallstatt-Dachstein Salzkammergut Cultural Landscape</site>
+  </row>
+  <row id="931">
+    <region>Europe</region>
+    <location>State of Styria</location>
+    <state>Austria</state>
+    <site>City of Graz - Historic Centre</site>
+  </row>
+  <row id="970">
+    <region>Europe</region>
+    <location>Towns of Krems and Melk, Lower Austria</location>
+    <state>Austria</state>
+    <site>Wachau Cultural Landscape</site>
+  </row>
+  <row id="1033">
+    <region>Europe</region>
+    <location>Vienna</location>
+    <state>Austria</state>
+    <site>Historic Centre of Vienna</site>
+  </row>
+  <row id="958">
+    <region>Europe</region>
+    <location>Apsheron peninsula</location>
+    <state>Azerbaijan</state>
+    <site>Walled City of Baku with the Shirvanshah's Palace and Maiden Tower</site>
+  </row>
+  <row id="1076">
+    <region>Europe</region>
+    <location>Garadagh District and Apsheron District, Baku City Administrative Territory</location>
+    <state>Azerbaijan</state>
+    <site>Gobustan Rock Art Cultural Landscape</site>
+  </row>
+  <row id="945">
+    <region>Asia</region>
+    <location>City of Mumbai, Maharashtra State</location>
+    <state>India</state>
+    <site>Chhatrapati Shivaji Terminus (formerly Victoria Terminus)</site>
+  </row>
+  <row id="1101">
+    <region>Asia</region>
+    <location>Gujarat state, district of Panchmahal</location>
+    <state>India</state>
+    <site>Champaner-Pavagadh Archaeological Park</site>
+  </row>
+  <row id="231">
+    <region>Asia</region>
+    <location>New Delhi State, Central District, New Delhi</location>
+    <state>India</state>
+    <site>Red Fort Complex</site>
+  </row>
+  <row id="94">
+    <region>Europe</region>
+    <location>Province of Brescia, Lombardy</location>
+    <state>Italy</state>
+    <site>Rock Drawings in Valcamonica</site>
+  </row>
+  <row id="946">
+    <region>Europe</region>
+    <location>Herzegovina-Neretva Canton</location>
+    <state>Bosnia and Herzegovina</state>
+    <site>Old Bridge Area of the Old City of Mostar</site>
+  </row>
+  <row id="1260">
+    <region>Europe</region>
+    <location>Republika Srpska, Sarajevo Macro Region</location>
+    <state>Bosnia and Herzegovina</state>
+    <site>Mehmed Paša Sokolovic Bridge in Višegrad</site>
+  </row>
+  <row id="1021">
+    <region>Africa</region>
+    <location>The Ngamiland District, north-west
+
+Botswana</location>
+    <state>Botswana</state>
+    <site>Tsodilo</site>
+  </row>
+  <row id="124">
+    <region>Latin America</region>
+    <location>State of Minas Gerais</location>
+    <state>Brazil</state>
+    <site>Historic Town of Ouro Preto</site>
+  </row>
+  <row id="189">
+    <region>Latin America</region>
+    <location>State of Pernambuco, North-East Region of Brazil</location>
+    <state>Brazil</state>
+    <site>Historic Centre of the Town of Olinda</site>
+  </row>
+  <row id="993">
+    <region>Latin America</region>
+    <location>State of Goiás</location>
+    <state>Brazil</state>
+    <site>Historic Centre of the Town of Goiás</site>
+  </row>
+  <row id="998">
+    <region>Latin America</region>
+    <location>State of Amazonas</location>
+    <state>Brazil</state>
+    <site>Central Amazon Conservation Complex</site>
+  </row>
+  <row id="999">
+    <region>Latin America</region>
+    <location>Southwest of the State of Mato Grosso and Northwest of the State of Mato Grosso do Sul, adjacent to the Brazil/Bolivian borders</location>
+    <state>Brazil</state>
+    <site>Pantanal Conservation Area</site>
+  </row>
+  <row id="1000">
+    <region>Latin America</region>
+    <location>Pernambuco and Rio Grande do Norte States</location>
+    <state>Brazil</state>
+    <site>Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves</site>
+  </row>
+  <row id="1035">
+    <region>Latin America</region>
+    <location>Central Brazil Plateau, State of Goiás</location>
+    <state>Brazil</state>
+    <site>Cerrado Protected Areas: Chapada dos Veadeiros and Emas National Parks</site>
+  </row>
+  <row id="42">
+    <region>Europe</region>
+    <location>Boyana district, Sofia</location>
+    <state>Bulgaria</state>
+    <site>Boyana Church</site>
+  </row>
+  <row id="359">
+    <region>Europe</region>
+    <location>Razgrad Province</location>
+    <state>Bulgaria</state>
+    <site>Thracian Tomb of Sveshtari</site>
+  </row>
+  <row id="668">
+    <region>Asia</region>
+    <location>Province Siem Reap</location>
+    <state>Cambodia</state>
+    <site>Angkor</site>
+  </row>
+  <row id="407">
+    <region>Africa</region>
+    <location>Provinces du Sud et de l’Est (Départments: du Dja-et-LOBO pour la partie Ouest, du Haut-Nyong pour la partie Est)</location>
+    <state>Cameroon</state>
+    <site>Dja Faunal Reserve</site>
+  </row>
+  <row id="4">
+    <region>North America</region>
+    <location>Province of Newfoundland and Labrador</location>
+    <state>Canada</state>
+    <site>L’Anse aux Meadows National Historic Site</site>
+  </row>
+  <row id="24">
+    <region>North America</region>
+    <location>Northwest Territories</location>
+    <state>Canada</state>
+    <site>Nahanni National Park</site>
+  </row>
+  <row id="71">
+    <region>North America</region>
+    <location>Province of Alberta</location>
+    <state>Canada</state>
+    <site>Dinosaur Provincial Park</site>
+  </row>
+  <row id="157">
+    <region>North America</region>
+    <location>Province of British Columbia</location>
+    <state>Canada</state>
+    <site>SGang Gwaay</site>
+  </row>
+  <row id="256">
+    <region>North America</region>
+    <location>Northwest Territories and Alberta</location>
+    <state>Canada</state>
+    <site>Wood Buffalo National Park</site>
+  </row>
+  <row id="300">
+    <region>North America</region>
+    <location>Province of Quebec, City of Quebec</location>
+    <state>Canada</state>
+    <site>Historic District of Old Québec</site>
+  </row>
+  <row id="304">
+    <region>North America</region>
+    <location>Provinces of British Columbia and Alberta</location>
+    <state>Canada</state>
+    <site>Canadian Rocky Mountain Parks</site>
+  </row>
+  <row id="419">
+    <region>North America</region>
+    <location>Provinces of Newfoundland and Labrador</location>
+    <state>Canada</state>
+    <site>Gros Morne National Park</site>
+  </row>
+  <row id="686">
+    <region>North America</region>
+    <location>Gaspé Peninsula, Province of Quebec</location>
+    <state>Canada</state>
+    <site>Miguasha National Park</site>
+  </row>
+  <row id="741">
+    <region>North America</region>
+    <location>Nova Scotia</location>
+    <state>Canada</state>
+    <site>Old Town Lunenburg</site>
+  </row>
+  <row id="475">
+    <region>Africa</region>
+    <location>Bamingui-Bangoran</location>
+    <state>Central African Republic</state>
+    <site>Manovo-Gounda St Floris National Park</site>
+  </row>
+  <row id="715">
+    <region>Latin America</region>
+    <location>Easter Island province of the Valparaíso Region</location>
+    <state>Chile</state>
+    <site>Rapa Nui National Park</site>
+  </row>
+  <row id="959">
+    <region>Latin America</region>
+    <location>Fifth Region, Province Valparaíso</location>
+    <state>Chile</state>
+    <site>Historic Quarter of the Seaport City of Valparaíso</site>
+  </row>
+  <row id="971">
+    <region>Latin America</region>
+    <location>Municipalities of Castro, Chonchi, Dalcahue, Puqueldón, Quemchi, and Quinchao, Chiloé Province, X Region de los Lagos</location>
+    <state>Chile</state>
+    <site>Churches of Chiloé</site>
+  </row>
+  <row id="881">
+    <region>Asia</region>
+    <location>Tiantan Park, Beijing</location>
+    <state>China</state>
+    <site>Temple of Heaven: an Imperial Sacrificial Altar in Beijing</site>
+  </row>
+  <row id="227">
+    <region>Africa</region>
+    <location>Northeast region, Bouna and Ferkessedougou prefectures, Bouna, Kong, Nassian and Tehin sub-prefectures</location>
+    <state>Côte d'Ivoire</state>
+    <site>Comoé National Park</site>
+  </row>
+  <row id="95">
+    <region>Europe</region>
+    <location>County of Dubrovnik-Neretva, Adriatic Coast</location>
+    <state>Croatia</state>
+    <site>Old City of Dubrovnik</site>
+  </row>
+  <row id="97">
+    <region>Europe</region>
+    <location>County of Split-Dalmatia</location>
+    <state>Croatia</state>
+    <site>Historical Complex of Split with the Palace of Diocletian</site>
+  </row>
+  <row id="98">
+    <region>Europe</region>
+    <location>County of Lika-Senj, 10km east of Bihac</location>
+    <state>Croatia</state>
+    <site>Plitvice Lakes National Park</site>
+  </row>
+  <row id="809">
+    <region>Europe</region>
+    <location>County of Istria</location>
+    <state>Croatia</state>
+    <site>Episcopal Complex of the Euphrasian Basilica in the Historic Centre of Porec</site>
+  </row>
+  <row id="810">
+    <region>Europe</region>
+    <location>County of Split-Dalmatia</location>
+    <state>Croatia</state>
+    <site>Historic City of Trogir</site>
+  </row>
+  <row id="15">
+    <region>Africa</region>
+    <location>Tigrai Region</location>
+    <state>Ethiopia</state>
+    <site>Aksum</site>
+  </row>
+  <row id="17">
+    <region>Africa</region>
+    <location>Southern Nation Nationalities &amp; Peoples Region</location>
+    <state>Ethiopia</state>
+    <site>Lower Valley of the Omo</site>
+  </row>
+  <row id="1214">
+    <region>Latin America</region>
+    <location>Libertador General Bernardo O'Higgins Region, Province of Cachapoal, Municipality of Machali</location>
+    <state>Chile</state>
+    <site>Sewell Mining Town</site>
+  </row>
+  <row id="437">
+    <region>Asia</region>
+    <location>Spanning the cities of Tai’an and Jinan in central Shandong Province with the main peak in the city of Tai’an</location>
+    <state>China</state>
+    <site>Mount Taishan</site>
+  </row>
+  <row id="438">
+    <region>Asia</region>
+    <location>Liaoning, Jilin, Hebei, Beijing, Tianjin, Shanxi, Inner Mongolia, Shaanxi, Ningxia, Gansu, Xinjiang, Shandong, Henan, Hubei, Hunan, Sichuan, Qinghai provinces, municipalities and autonomous Regions</location>
+    <state>China</state>
+    <site>The Great Wall</site>
+  </row>
+  <row id="911">
+    <region>Asia</region>
+    <location>Wuyishan City, Fujian Province</location>
+    <state>China</state>
+    <site>Mount Wuyi</site>
+  </row>
+  <row id="912">
+    <region>Asia</region>
+    <location>Dazu County, Chongqing Municipality</location>
+    <state>China</state>
+    <site>Dazu Rock Carvings</site>
+  </row>
+  <row id="440">
+    <region>Asia</region>
+    <location>Dunhuang County, Gansu Province.  At the eastern foot of Mount Mingsha, 25 kilometres southeast of the County seat.</location>
+    <state>China</state>
+    <site>Mogao Caves</site>
+  </row>
+  <row id="441">
+    <region>Asia</region>
+    <location>Lintong County, Shaanxi Province</location>
+    <state>China</state>
+    <site>Mausoleum of the First Qin Emperor</site>
+  </row>
+  <row id="449">
+    <region>Asia</region>
+    <location>Fangshanxian County, Beijing Municipality</location>
+    <state>China</state>
+    <site>Peking Man Site at Zhoukoudian</site>
+  </row>
+  <row id="547">
+    <region>Asia</region>
+    <location>City of Huangshan, Anhui Province</location>
+    <state>China</state>
+    <site>Mount Huangshan</site>
+  </row>
+  <row id="637">
+    <region>Asia</region>
+    <location>Nanping County, Sichuan Province</location>
+    <state>China</state>
+    <site>Jiuzhaigou Valley Scenic and Historic Interest Area</site>
+  </row>
+  <row id="638">
+    <region>Asia</region>
+    <location>Songpan County, Sichuan Province</location>
+    <state>China</state>
+    <site>Huanglong Scenic and Historic Interest Area</site>
+  </row>
+  <row id="608">
+    <region>Pacific</region>
+    <location>Provinces of Banten (formerly West Java) and Lampung</location>
+    <state>Indonesia</state>
+    <site>Ujung Kulon National Park</site>
+  </row>
+  <row id="609">
+    <region>Pacific</region>
+    <location>East Nusa Tenggara Province</location>
+    <state>Indonesia</state>
+    <site>Komodo National Park</site>
+  </row>
+  <row id="642">
+    <region>Pacific</region>
+    <location>Province of Central Java</location>
+    <state>Indonesia</state>
+    <site>Prambanan Temple Compounds</site>
+  </row>
+  <row id="955">
+    <region>Pacific</region>
+    <location>Province of Papua (formerly Irian Jaya)</location>
+    <state>Indonesia</state>
+    <site>Lorentz National Park</site>
+  </row>
+  <row id="789">
+    <region>Europe</region>
+    <location>Province of Siena, Tuscany</location>
+    <state>Italy</state>
+    <site>Historic Centre of the City of Pienza</site>
+  </row>
+  <row id="908">
+    <region>Europe</region>
+    <location>Mediterranean Sea - Southern Tyrrhenian Sea</location>
+    <state>Italy</state>
+    <site>Isole Eolie (Aeolian Islands)</site>
+  </row>
+  <row id="778">
+    <region>Asia</region>
+    <location>Jiujiang City,  Jiangxi Province</location>
+    <state>China</state>
+    <site>Lushan National Park</site>
+  </row>
+  <row id="779">
+    <region>Asia</region>
+    <location>Eimeishan City, Sichuan Province</location>
+    <state>China</state>
+    <site>Mount Emei Scenic Area, including Leshan Giant Buddha Scenic Area</site>
+  </row>
+  <row id="811">
+    <region>Asia</region>
+    <location>Lijiang's old town  (including the Dayan old town, Basha housing cluster and Shuhe housing cluster)</location>
+    <state>China</state>
+    <site>Old Town of Lijiang</site>
+  </row>
+  <row id="812">
+    <region>Asia</region>
+    <location>Ping Yao County, Shan Xi Province</location>
+    <state>China</state>
+    <site>Ancient City of Ping Yao</site>
+  </row>
+  <row id="813">
+    <region>Asia</region>
+    <location>Suzhou City, Jiangsu Province</location>
+    <state>China</state>
+    <site>Classical Gardens of Suzhou</site>
+  </row>
+  <row id="880">
+    <region>Asia</region>
+    <location>10 km northwest of Beijing</location>
+    <state>China</state>
+    <site>Summer Palace, an Imperial Garden in Beijing</site>
+  </row>
+  <row id="1256">
+    <region>Europe</region>
+    <location>Department of Gironde, Region of Aquitaine</location>
+    <state>France</state>
+    <site>Bordeaux, Port of the Moon</site>
+  </row>
+  <row id="165">
+    <region>Europe</region>
+    <location>Department of Côte d'Or, Burgundy Region</location>
+    <state>France</state>
+    <site>Cistercian Abbey of Fontenay</site>
+  </row>
+  <row id="344">
+    <region>Europe</region>
+    <location>Departement of Gard, Languedoc-Roussillon Region</location>
+    <state>France</state>
+    <site>Pont du Gard (Roman Aqueduct)</site>
+  </row>
+  <row id="230">
+    <region>Europe</region>
+    <location>Department of Vienne, Poitou-Charentes Region</location>
+    <state>France</state>
+    <site>Abbey Church of Saint-Savin sur Gartempe</site>
+  </row>
+  <row id="163">
+    <region>Europe</region>
+    <location>Department of Vacluse, Region of Provence-Alpes-Côte-d’Azur</location>
+    <state>France</state>
+    <site>Roman Theatre and its Surroundings and the "Triumphal Arch" of Orange</site>
+  </row>
+  <row id="80">
+    <region>Europe</region>
+    <location>Department of Manche, Region of Basse-Normandie</location>
+    <state>France</state>
+    <site>Mont-Saint-Michel and its Bay</site>
+  </row>
+  <row id="1208">
+    <region>Asia</region>
+    <location>Kerman Province, Bam District</location>
+    <state>Iran (Islamic Republic of)</state>
+    <site>Bam and its Cultural Landscape</site>
+  </row>
+  <row id="277">
+    <region>Arab States</region>
+    <location>Governorate of Ninawa</location>
+    <state>Iraq</state>
+    <site>Hatra</site>
+  </row>
+  <row id="1130">
+    <region>Arab States</region>
+    <location>Governorate of Salah ad Din</location>
+    <state>Iraq</state>
+    <site>Ashur (Qal'at Sherqat)</site>
+  </row>
+  <row id="276">
+    <region>Arab States</region>
+    <location>Samarra Township, Salah al-Din Governorate</location>
+    <state>Iraq</state>
+    <site>Samarra Archaeological City</site>
+  </row>
+  <row id="659">
+    <region>Europe</region>
+    <location>County Meath</location>
+    <state>Ireland</state>
+    <site>Archaeological Ensemble of the Bend of the Boyne</site>
+  </row>
+  <row id="757">
+    <region>Europe</region>
+    <location>County Kerry</location>
+    <state>Ireland</state>
+    <site>Skellig Michael</site>
+  </row>
+  <row id="1110">
+    <region>Asia</region>
+    <location>Macao Special Administrative Region</location>
+    <state>China</state>
+    <site>Historic Centre of Macao</site>
+  </row>
+  <row id="1114">
+    <region>Asia</region>
+    <location>Henan Province</location>
+    <state>China</state>
+    <site>Yin Xu</site>
+  </row>
+  <row id="1135">
+    <region>Asia</region>
+    <location>Huanren County, Liaoning Province and Ji’an, Jilin Province</location>
+    <state>China</state>
+    <site>Capital Cities and Tombs of the Ancient Koguryo Kingdom</site>
+  </row>
+  <row id="1008">
+    <region>Caribbean</region>
+    <location>Santiago and Guantanamo Provinces, South-Eastern Region</location>
+    <state>Cuba</state>
+    <site>Archaeological Landscape of the First Coffee Plantations in the South-East of Cuba</site>
+  </row>
+  <row id="193">
+    <region>Arab States</region>
+    <location>Commune and Wilaya (province) of Tipasa</location>
+    <state>Algeria</state>
+    <site>Tipasa</site>
+  </row>
+  <row id="194">
+    <region>Arab States</region>
+    <location>Commune of Timgad, Wilaya (province) of Batna</location>
+    <state>Algeria</state>
+    <site>Timgad</site>
+  </row>
+  <row id="565">
+    <region>Arab States</region>
+    <location>City and Wilaya (province) of Algiers</location>
+    <state>Algeria</state>
+    <site>Kasbah of Algiers</site>
+  </row>
+  <row id="1160">
+    <region>Europe</region>
+    <location>Part of Communes of Encamp, Andorra la Vella, Saint Julia de Loria and Escaldes-Engordany</location>
+    <state>Andorra</state>
+    <site>Madriu-Perafita-Claror Valley</site>
+  </row>
+  <row id="145">
+    <region>Latin America</region>
+    <location>Santa Cruz</location>
+    <state>Argentina</state>
+    <site>Los Glaciares</site>
+  </row>
+  <row id="303">
+    <region>Latin America</region>
+    <location>Province: Misiones - Region: Nord-Est</location>
+    <state>Argentina</state>
+    <site>Iguazu National Park</site>
+  </row>
+  <row id="937">
+    <region>Latin America</region>
+    <location>Province of Chubut. Patagonia</location>
+    <state>Argentina</state>
+    <site>Península Valdés</site>
+  </row>
+  <row id="966">
+    <region>Latin America</region>
+    <location>Provinces of San Juan and La Rioja</location>
+    <state>Argentina</state>
+    <site>Ischigualasto / Talampaya Natural Parks</site>
+  </row>
+  <row id="995">
+    <region>Latin America</region>
+    <location>Province of Cordoba</location>
+    <state>Argentina</state>
+    <site>Jesuit Block and Estancias of Córdoba</site>
+  </row>
+  <row id="1116">
+    <region>Latin America</region>
+    <location>Province of Juyuy</location>
+    <state>Argentina</state>
+    <site>Quebrada de Humahuaca</site>
+  </row>
+  <row id="777">
+    <region>Europe</region>
+    <location>Villages of Haghpat and Sanahin, Lorri Region</location>
+    <state>Armenia</state>
+    <site>Monasteries of Haghpat and Sanahin</site>
+  </row>
+  <row id="960">
+    <region>Europe</region>
+    <location>Kotayk' Region, near the village of Goght</location>
+    <state>Armenia</state>
+    <site>Monastery of Geghard and the Upper Azat Valley</site>
+  </row>
+  <row id="147">
+    <region>Pacific</region>
+    <location>Northern territory</location>
+    <state>Australia</state>
+    <site>Kakadu National Park</site>
+  </row>
+  <row id="154">
+    <region>Pacific</region>
+    <location>Off the east coast of the Queensland mainland</location>
+    <state>Australia</state>
+    <site>Great Barrier Reef</site>
+  </row>
+  <row id="167">
+    <region>Pacific</region>
+    <location>Balranald and Wentworth shires, New South Wales</location>
+    <state>Australia</state>
+    <site>Willandra Lakes Region</site>
+  </row>
+  <row id="181">
+    <region>Pacific</region>
+    <location>State of Tasmania</location>
+    <state>Australia</state>
+    <site>Tasmanian Wilderness</site>
+  </row>
+  <row id="186">
+    <region>Pacific</region>
+    <location>New South Wales</location>
+    <state>Australia</state>
+    <site>Lord Howe Island Group</site>
+  </row>
+  <row id="368">
+    <region>Pacific</region>
+    <location>States of New South Wales and Queensland</location>
+    <state>Australia</state>
+    <site>Gondwana Rainforests of Australia</site>
+  </row>
+  <row id="447">
+    <region>Pacific</region>
+    <location>Northern territory</location>
+    <state>Australia</state>
+    <site>Ulu&lt;U&gt;r&lt;/U&gt;u-Kata Tju&lt;U&gt;t&lt;/U&gt;a National Park</site>
+  </row>
+  <row id="577">
+    <region>Pacific</region>
+    <location>Territory of Heard Island and McDonald Islands</location>
+    <state>Australia</state>
+    <site>Heard and McDonald Islands</site>
+  </row>
+  <row id="578">
+    <region>Pacific</region>
+    <location>State of Western Australia</location>
+    <state>Australia</state>
+    <site>Shark Bay, Western Australia</site>
+  </row>
+  <row id="629">
+    <region>Pacific</region>
+    <location>State of Tasmania</location>
+    <state>Australia</state>
+    <site>Macquarie Island</site>
+  </row>
+  <row id="630">
+    <region>Pacific</region>
+    <location>State of Queensland</location>
+    <state>Australia</state>
+    <site>Fraser Island</site>
+  </row>
+  <row id="698">
+    <region>Pacific</region>
+    <location>States of Queensland and South Australia</location>
+    <state>Australia</state>
+    <site>Australian Fossil Mammal Sites (Riversleigh / Naracoorte)</site>
+  </row>
+  <row id="1009">
+    <region>Europe</region>
+    <location>Province of Hainaut, Wallonia Region</location>
+    <state>Belgium</state>
+    <site>Notre-Dame Cathedral in Tournai</site>
+  </row>
+  <row id="1094">
+    <region>Pacific</region>
+    <location>Western Australia</location>
+    <state>Australia</state>
+    <site>Purnululu National Park</site>
+  </row>
+  <row id="1131">
+    <region>Pacific</region>
+    <location>Melbourne, Victoria</location>
+    <state>Australia</state>
+    <site>Royal Exhibition Building and Carlton Gardens</site>
+  </row>
+  <row id="166">
+    <region>Pacific</region>
+    <location>New South Wales</location>
+    <state>Australia</state>
+    <site>Sydney Opera House</site>
+  </row>
+  <row id="784">
+    <region>Europe</region>
+    <location>Salzburg</location>
+    <state>Austria</state>
+    <site>Historic Centre of the City of Salzburg</site>
+  </row>
+  <row id="785">
+    <region>Europe</region>
+    <location>Between Gloggnitz, State of Lower Austria and Simmering, State of Styria</location>
+    <state>Austria</state>
+    <site>Semmering Railway</site>
+  </row>
+  <row id="1248">
+    <region>Asia</region>
+    <location />
+    <state>China</state>
+    <site>South China Karst</site>
+  </row>
+  <row id="1112">
+    <region>Asia</region>
+    <location>Guangdong Province</location>
+    <state>China</state>
+    <site>Kaiping Diaolou and Villages</site>
+  </row>
+  <row id="285">
+    <region>Latin America</region>
+    <location>Bolivar Department</location>
+    <state>Colombia</state>
+    <site>Port, Fortresses and Group of Monuments, Cartagena</site>
+  </row>
+  <row id="711">
+    <region>Latin America</region>
+    <location>Provinces of Antioquia and Choco’</location>
+    <state>Colombia</state>
+    <site>Los Katíos National Park</site>
+  </row>
+  <row id="742">
+    <region>Latin America</region>
+    <location>Bolívar Department</location>
+    <state>Colombia</state>
+    <site>Historic Centre of Santa Cruz de Mompox</site>
+  </row>
+  <row id="174">
+    <region>Europe</region>
+    <location>City and Province of Florence, Tuscany</location>
+    <state>Italy</state>
+    <site>Historic Centre of Florence</site>
+  </row>
+  <row id="394">
+    <region>Europe</region>
+    <location>Province of Venezia, Veneto Region</location>
+    <state>Italy</state>
+    <site>Venice and its Lagoon</site>
+  </row>
+  <row id="398">
+    <region>Europe</region>
+    <location>Communes of Andria and Corato, Province of Bari, Puglia Region</location>
+    <state>Italy</state>
+    <site>Castel del Monte</site>
+  </row>
+  <row id="549">
+    <region>Europe</region>
+    <location>Provinces of Caserta and Benevento, Campania</location>
+    <state>Italy</state>
+    <site>18th-Century Royal Palace at Caserta with the Park, the Aqueduct of Vanvitelli, and the San Leucio Complex</site>
+  </row>
+  <row id="550">
+    <region>Europe</region>
+    <location>Province of Siena, Tuscany</location>
+    <state>Italy</state>
+    <site>Historic Centre of San Gimignano</site>
+  </row>
+  <row id="670">
+    <region>Europe</region>
+    <location>City and Province of Matera, Region of Basilicata</location>
+    <state>Italy</state>
+    <site>The Sassi and the Park of the Rupestrian Churches of Matera</site>
+  </row>
+  <row id="321">
+    <region>Asia</region>
+    <location>Khulna District</location>
+    <state>Bangladesh</state>
+    <site>Historic Mosque City of Bagerhat</site>
+  </row>
+  <row id="322">
+    <region>Asia</region>
+    <location>Naogaon Subdivision of Rajshahi District</location>
+    <state>Bangladesh</state>
+    <site>Ruins of the Buddhist Vihara at Paharpur</site>
+  </row>
+  <row id="798">
+    <region>Asia</region>
+    <location>South-Western Region (Khulna Division)</location>
+    <state>Bangladesh</state>
+    <site>The Sundarbans</site>
+  </row>
+  <row id="625">
+    <region>Europe</region>
+    <location>Grodno Province (oblast), Korelichi District</location>
+    <state>Belarus</state>
+    <site>Mir Castle Complex</site>
+  </row>
+  <row id="309">
+    <region>Latin America</region>
+    <location>Bahia State, north-east region of Brazil</location>
+    <state>Brazil</state>
+    <site>Historic Centre of Salvador de Bahia</site>
+  </row>
+  <row id="43">
+    <region>Europe</region>
+    <location>Village of Madara, Province of Shumen</location>
+    <state>Bulgaria</state>
+    <site>Madara Rider</site>
+  </row>
+  <row id="855">
+    <region>Europe</region>
+    <location>Flanders Region, Provinces of Antwerp, Limburg, Eastern Flanders, Western Flanders, and Flemish Brabant</location>
+    <state>Belgium</state>
+    <site>Flemish Béguinages</site>
+  </row>
+  <row id="856">
+    <region>Europe</region>
+    <location>Province of Hainaut, Wallonia Region</location>
+    <state>Belgium</state>
+    <site>The Four Lifts on the Canal du Centre and their Environs, La Louvière and Le Roeulx (Hainault)</site>
+  </row>
+  <row id="857">
+    <region>Europe</region>
+    <location>City of Brussels, Brussels-Capital Region</location>
+    <state>Belgium</state>
+    <site>La Grand-Place, Brussels</site>
+  </row>
+  <row id="996">
+    <region>Europe</region>
+    <location>Province of West Flanders</location>
+    <state>Belgium</state>
+    <site>Historic Centre of Brugge</site>
+  </row>
+  <row id="1005">
+    <region>Europe</region>
+    <location>City of Brussels, Brussels-Capital Region</location>
+    <state>Belgium</state>
+    <site>Major Town Houses of the Architect Victor Horta (Brussels)</site>
+  </row>
+  <row id="1006">
+    <region>Europe</region>
+    <location>Province of Hainaut, Wallonia Region</location>
+    <state>Belgium</state>
+    <site>Neolithic Flint Mines at Spiennes (Mons)</site>
+  </row>
+  <row id="764">
+    <region>Latin America</region>
+    <location>Belize District (sites I, II, III), Stann Creek District ( IV,V,VI), Toledo District (VII)</location>
+    <state>Belize</state>
+    <site>Belize Barrier Reef Reserve System</site>
+  </row>
+  <row id="323">
+    <region>Africa</region>
+    <location>Province du Zou</location>
+    <state>Benin</state>
+    <site>Royal Palaces of Abomey</site>
+  </row>
+  <row id="420">
+    <region>Latin America</region>
+    <location>Potosi, Province of Potosi</location>
+    <state>Bolivia</state>
+    <site>City of Potosí</site>
+  </row>
+  <row id="529">
+    <region>Latin America</region>
+    <location>Department of Santa Cruz</location>
+    <state>Bolivia</state>
+    <site>Jesuit Missions of the Chiquitos</site>
+  </row>
+  <row id="566">
+    <region>Latin America</region>
+    <location>Department de Chuquisaca, Province Oropeza</location>
+    <state>Bolivia</state>
+    <site>Historic City of Sucre</site>
+  </row>
+  <row id="567">
+    <region>Latin America</region>
+    <location>Province of Ingavi, Department of La Paz</location>
+    <state>Bolivia</state>
+    <site>Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture</site>
+  </row>
+  <row id="883">
+    <region>Latin America</region>
+    <location>Province of Florida, Department of Santa Cruz</location>
+    <state>Bolivia</state>
+    <site>Fuerte de Samaipata</site>
+  </row>
+  <row id="334">
+    <region>Latin America</region>
+    <location>State of Minas Gerais, City of Congohas</location>
+    <state>Brazil</state>
+    <site>Sanctuary of Bom Jesus do Congonhas</site>
+  </row>
+  <row id="355">
+    <region>Latin America</region>
+    <location>Paraná State</location>
+    <state>Brazil</state>
+    <site>Iguaçu National Park</site>
+  </row>
+  <row id="445">
+    <region>Latin America</region>
+    <location>Federal District</location>
+    <state>Brazil</state>
+    <site>Brasilia</site>
+  </row>
+  <row id="606">
+    <region>Latin America</region>
+    <location>Sud-est de Etat du Piaui – Communes de Sao Raimundo Nonato, Sao Joao do Piaui et Canto do Butriti</location>
+    <state>Brazil</state>
+    <site>Serra da Capivara National Park</site>
+  </row>
+  <row id="821">
+    <region>Latin America</region>
+    <location>Maranhão State, Brasil’s North-East Region</location>
+    <state>Brazil</state>
+    <site>Historic Centre of São Luís</site>
+  </row>
+  <row id="890">
+    <region>Latin America</region>
+    <location>State of Minas Gerais</location>
+    <state>Brazil</state>
+    <site>Historic Centre of the Town of Diamantina</site>
+  </row>
+  <row id="892">
+    <region>Latin America</region>
+    <location>Atlantic Coast, states of Bahia and Espirito Santo, northeast Brazil</location>
+    <state>Brazil</state>
+    <site>Discovery Coast Atlantic Forest Reserves</site>
+  </row>
+  <row id="44">
+    <region>Europe</region>
+    <location>Kazanlak, Province of Stara Zagora</location>
+    <state>Bulgaria</state>
+    <site>Thracian Tomb of Kazanlak</site>
+  </row>
+  <row id="45">
+    <region>Europe</region>
+    <location>Village of Ivanovo, 16 km from the town of Ruse, Province of Ruse</location>
+    <state>Bulgaria</state>
+    <site>Rock-Hewn Churches of Ivanovo</site>
+  </row>
+  <row id="216">
+    <region>Europe</region>
+    <location>On the slopes of Rila, the highest Balkan Peninsula Mountain, in the valley of the Rilska River, 29 km east of the Sofia-Thessaloniki Highway. Rila, Kyustendil Province</location>
+    <state>Bulgaria</state>
+    <site>Rila Monastery</site>
+  </row>
+  <row id="217">
+    <region>Europe</region>
+    <location>Burgas Province</location>
+    <state>Bulgaria</state>
+    <site>Ancient City of Nessebar</site>
+  </row>
+  <row id="219">
+    <region>Europe</region>
+    <location>Village of Srebarna, Province of Silistra; 16 km west of the town of Silistra and 1 km south of the Danube</location>
+    <state>Bulgaria</state>
+    <site>Srebarna Nature Reserve</site>
+  </row>
+  <row id="797">
+    <region>Europe</region>
+    <location>City and Province of Verona, Veneto Region</location>
+    <state>Italy</state>
+    <site>City of Verona</site>
+  </row>
+  <row id="823">
+    <region>Europe</region>
+    <location>Province of Torino, Piedmont Region</location>
+    <state>Italy</state>
+    <site>Residences of the Royal House of Savoy</site>
+  </row>
+  <row id="824">
+    <region>Europe</region>
+    <location>City and Province of Padova, Veneto Region,</location>
+    <state>Italy</state>
+    <site>Botanical Garden (Orto Botanico), Padua</site>
+  </row>
+  <row id="825">
+    <region>Europe</region>
+    <location>Province of Udine, Friuli-Venezia Giulia Region</location>
+    <state>Italy</state>
+    <site>Archaeological Area and the Patriarchal Basilica of Aquileia</site>
+  </row>
+  <row id="826">
+    <region>Europe</region>
+    <location>Province of La Spezia, Liguria Region</location>
+    <state>Italy</state>
+    <site>Portovenere, Cinque Terre, and the Islands (Palmaria, Tino and Tinetto)</site>
+  </row>
+  <row id="827">
+    <region>Europe</region>
+    <location>City and Province of Modena, Emilia-Romagna Region</location>
+    <state>Italy</state>
+    <site>Cathedral, Torre Civica and Piazza Grande, Modena</site>
+  </row>
+  <row id="828">
+    <region>Europe</region>
+    <location>Province of Pesaro, Marche Region</location>
+    <state>Italy</state>
+    <site>Historic Centre of Urbino</site>
+  </row>
+  <row id="204">
+    <region>Caribbean</region>
+    <location>Province of Ciudad de la Habana</location>
+    <state>Cuba</state>
+    <site>Old Havana and its Fortifications</site>
+  </row>
+  <row id="460">
+    <region>Caribbean</region>
+    <location>Province of Sancti Spiritus</location>
+    <state>Cuba</state>
+    <site>Trinidad and the Valley de los Ingenios</site>
+  </row>
+  <row id="839">
+    <region>Caribbean</region>
+    <location>Guantánamo and Holguín Provinces</location>
+    <state>Cuba</state>
+    <site>Alejandro de Humboldt National Park</site>
+  </row>
+  <row id="840">
+    <region>Caribbean</region>
+    <location>Province of Pinar del Rio</location>
+    <state>Cuba</state>
+    <site>Viñales Valley</site>
+  </row>
+  <row id="841">
+    <region>Caribbean</region>
+    <location>Provincia de Santiago de Cuba</location>
+    <state>Cuba</state>
+    <site>San Pedro de la Roca Castle, Santiago de Cuba</site>
+  </row>
+  <row id="889">
+    <region>Caribbean</region>
+    <location>Desembarco del Granma National Park, south-east corner of the the Republic of Cuba</location>
+    <state>Cuba</state>
+    <site>Desembarco del Granma National Park</site>
+  </row>
+  <row id="687">
+    <region>Europe</region>
+    <location>State of Saarland</location>
+    <state>Germany</state>
+    <site>Völklingen Ironworks</site>
+  </row>
+  <row id="720">
+    <region>Europe</region>
+    <location>District of Dramstadt-Dieburg, State of Hesse (Hessen)</location>
+    <state>Germany</state>
+    <site>Messel Pit Fossil Site</site>
+  </row>
+  <row id="729">
+    <region>Europe</region>
+    <location>States of Saxony-Anhalt (Sachsen-Anhalt) and Thuringia (Thüringen)</location>
+    <state>Germany</state>
+    <site>Bauhaus and its Sites in Weimar and Dessau</site>
+  </row>
+  <row id="783">
+    <region>Europe</region>
+    <location>States of Saxony-Anhalt (Sachsen-Anhalt) and Thuringia (Thüringen)</location>
+    <state>Germany</state>
+    <site>Luther Memorials in Eisleben and Wittenberg</site>
+  </row>
+  <row id="846">
+    <region>Europe</region>
+    <location>State of Thuringia (Thüringen)</location>
+    <state>Germany</state>
+    <site>Classical Weimar</site>
+  </row>
+  <row id="896">
+    <region>Europe</region>
+    <location>Berlin (city-state)</location>
+    <state>Germany</state>
+    <site>Museumsinsel (Museum Island), Berlin</site>
+  </row>
+  <row id="897">
+    <region>Europe</region>
+    <location>Eisenach, State of Thuringia (Thüringen)</location>
+    <state>Germany</state>
+    <site>Wartburg Castle</site>
+  </row>
+  <row id="211">
+    <region>Asia</region>
+    <location>Shahrak District, Ghur Province</location>
+    <state>Afghanistan</state>
+    <site>Minaret and Archaeological Remains of Jam</site>
+  </row>
+  <row id="569">
+    <region>Europe</region>
+    <location>County and District of Gjirokastër</location>
+    <state>Albania</state>
+    <site>Museum-City of Gjirokastra</site>
+  </row>
+  <row id="570">
+    <region>Europe</region>
+    <location>District of Sarandë, County of Vlorë</location>
+    <state>Albania</state>
+    <site>Butrint</site>
+  </row>
+  <row id="102">
+    <region>Arab States</region>
+    <location>Commune of Maadid "Bechara", Wilaya (province) of M'Sila</location>
+    <state>Algeria</state>
+    <site>Al Qal'a of Beni Hammad</site>
+  </row>
+  <row id="179">
+    <region>Arab States</region>
+    <location>Wilayas (provinces) of Illizi and Tamanghasset</location>
+    <state>Algeria</state>
+    <site>Tassili n'Ajjer</site>
+  </row>
+  <row id="188">
+    <region>Arab States</region>
+    <location>Wilaya (province) of Ghardaïa</location>
+    <state>Algeria</state>
+    <site>M'Zab Valley</site>
+  </row>
+</worldheritage>

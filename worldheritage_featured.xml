@@ -1,0 +1,102 @@
+<worldheritage promo="UNESCO">
+  <row id="326" unique="370" trans="0" lat="30.33056000" long="35.44333000">
+    <criteria>(i)(iii)(iv)</criteria>
+    <inscribeDate>1985</inscribeDate>
+    <code>jo</code>
+    <region>Arab States</region>
+    <location>Ma’an Governorate</location>
+    <state>Jordan</state>
+    <site>Petra</site>
+    <description>Inhabited since prehistoric times, this Nabataean caravan-city, situated between the Red Sea and the Dead Sea, was an important crossroads between Arabia, Egypt and Syria-Phoenicia. Petra is half-built, half-carved into the rock, and is surrounded by mountains riddled with passages and gorges. It is one of the world's most famous archaeological sites, where ancient Eastern traditions blend with Hellenistic architecture.</description>
+  </row>
+  <row id="274" unique="305" trans="0" lat="-13.11666667" long="-72.58333333">
+    <criteria>(i)(iii)(vii)(ix)</criteria>
+    <inscribeDate>1983</inscribeDate>
+    <code>pe</code>
+    <region>Latin America</region>
+    <location>Left bank of the Vilcanota river, between its tributaries the Kusichaca and Aobamba rivers, in the department of Cuzco, Urubamba Province, District of Macchu Picchu</location>
+    <state>Peru</state>
+    <site>Historic Sanctuary of Machu Picchu</site>
+    <description>Machu Picchu stands 2,430 m above sea-level, in the middle of a tropical mountain forest, in an extraordinarily beautiful setting. It was probably the most amazing urban creation of the Inca Empire at its height; its giant walls, terraces and ramps seem as if they have been cut naturally in the continuous rock escarpments. The natural setting, on the eastern slopes of the Andes, encompasses the upper Amazon basin with its rich diversity of flora and fauna.</description>
+  </row>  
+  <row id="307" unique="346" trans="0" lat="40.68944444" long="-74.04472222">
+        <criteria>(i)(vi)</criteria>
+        <inscribeDate>1984</inscribeDate>
+        <code>us</code>
+        <region>North America</region>
+        <location>New York, New York</location>
+        <state>United States of America</state>
+        <site>Statue of Liberty</site>
+        <description>Made in Paris by the French sculptor Bartholdi, in collaboration with Gustave Eiffel (who was responsible for the steel framework), this towering monument to liberty was a gift from France on the centenary of American independence in 1886. Standing at the entrance to New York Harbour, it has welcomed millions of immigrants to the United States ever since.</description>
+  </row>
+  <row id="488" unique="567" trans="0" lat="51.50805556" long="-0.07611111">
+    <criteria>(ii)(iv)</criteria>
+    <inscribeDate>1988</inscribeDate>
+    <code>gb</code>
+    <region>Europe</region>
+    <location>London Borough of Tower Hamlets, England</location>
+    <state>United Kingdom of Great Britain and Northern Ireland</state>
+    <site>Tower of London</site>
+    <description>The massive White Tower is a typical example of Norman military architecture, whose influence was felt throughout the kingdom. It was built on the Thames by William the Conqueror to protect London and assert his power. The Tower of London – an imposing fortress with many layers of history, which has become one of the symbols of royalty – was built around the White Tower.</description>
+  </row>
+  <row id="252" unique="282" trans="0" lat="27.17417000" long="78.04222000">
+    <criteria>(i)</criteria>
+    <inscribeDate>1983</inscribeDate>
+    <code>in</code>
+    <region>Asia</region>
+    <location>Uttar Pradesh, Agra District</location>
+    <state>India</state>
+    <site>Taj Mahal</site>
+    <description>An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage.</description>
+  </row>
+  <row id="154" unique="172" trans="0" lat="-18.28611111" long="147.70000000">
+    <criteria>(vii)(viii)(ix)(x)</criteria>
+    <inscribeDate>1981</inscribeDate>
+    <code>au</code>
+    <region>Pacific</region>
+    <location>Off the east coast of the Queensland mainland</location>
+    <state>Australia</state>
+    <site>Great Barrier Reef</site>
+    <description>The Great Barrier Reef is a site of remarkable variety and beauty on the north-east coast of Australia. It contains the world’s largest collection of coral reefs, with 400 types of coral, 1,500 species of fish and 4,000 types of mollusc. It also holds great scientific interest as the habitat of species such as the dugong (‘sea cow’) and the large green turtle, which are threatened with extinction.</description>
+  </row>
+  <row id="151" unique="169" trans="0" lat="47.74833333" long="-123.44888890">
+    <criteria>(vii)(ix)</criteria>
+    <inscribeDate>1981</inscribeDate>
+    <code>us</code>
+    <region>North America</region>
+    <location>State of Washington</location>
+    <state>United States of America</state>
+    <site>Olympic National Park</site>
+    <description>Located in the north-west of Washington State, Olympic National Park is renowned for the diversity of its ecosystems. Glacier-clad peaks interspersed with extensive alpine meadows are surrounded by an extensive old growth forest, among which is the best example of intact and protected temperate rainforest in the Pacific Northwest. Eleven major river systems drain the Olympic mountains, offering some of the best habitat for anadromous fish species in the country. The park also includes 100 km of wilderness coastline, the longest undeveloped coast in the contiguous United States, and is rich in native and endemic animal and plant species, including critical populations of the endangered northern spotted owl, marbled murrelet and bull trout.</description>
+  </row>
+  <row id="814" unique="962" trans="0" lat="15.26666667" long="-61.28333333">
+    <criteria>(viii)(x)</criteria>
+    <inscribeDate>1997</inscribeDate>
+    <code>dm</code>
+    <region>Caribbean</region>
+    <location>South central part of the island</location>
+    <state>Dominica</state>
+    <site>Morne Trois Pitons National Park</site>
+    <description>Luxuriant natural tropical forest blends with scenic volcanic features of great scientific interest in this national park centred on the 1,342-m-high volcano known as Morne Trois Pitons. With its precipitous slopes and deeply incised valleys, 50 fumaroles, hot springs, three freshwater lakes, a &amp;#39;boiling lake&amp;#39; and five volcanoes, located on the park&amp;#39;s nearly 7,000 ha, together with the richest biodiversity in the Lesser Antilles, Morne Trois Pitons National Park presents a rare combination of natural features of World Heritage value.</description>
+  </row>
+  <row id="410" unique="473" trans="0" lat="19.38333000" long="-87.79167000">
+    <criteria>(vii)(x)</criteria>
+    <inscribeDate>1987</inscribeDate>
+    <code>mx</code>
+    <region>Latin America</region>
+    <location>Quintana Roo, Cozumel et Felipe Carrillo Puerto</location>
+    <state>Mexico</state>
+    <site>Sian Ka'an</site>
+    <description>In the language of the Mayan peoples who once inhabited this region, Sian Ka'an means 'Origin of the Sky'. Located on the east coast of the Yucatán peninsula, this biosphere reserve contains tropical forests, mangroves and marshes, as well as a large marine section intersected by a barrier reef. It provides a habitat for a remarkably rich flora and a fauna comprising more than 300 species of birds, as well as a large number of the region's characteristic terrestrial vertebrates, which cohabit in the diverse environment formed by its complex hydrological system.</description>
+  </row>
+  <row id="688" unique="814" trans="0" lat="34.98055556" long="135.76944440">
+    <criteria>(ii)(iv)</criteria>
+    <inscribeDate>1994</inscribeDate>
+    <code>jp</code>
+    <region>Asia</region>
+    <location>Kyoto and Shiga prefectures</location>
+    <state>Japan</state>
+    <site>Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities)</site>
+    <description>Built in A.D. 794 on the model of the capitals of ancient China, Kyoto was the imperial capital of Japan from its foundation until the middle of the 19th century. As the centre of Japanese culture for more than 1,000 years, Kyoto illustrates the development of Japanese wooden architecture, particularly religious architecture, and the art of Japanese gardens, which has influenced landscape gardening the world over.</description>
+  </row>                 
+</worldheritage>

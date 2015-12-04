@@ -1,0 +1,451 @@
+
+
+/* Custom InfoBox Style Rendering */
+
+#PushpinBalloonContainer {
+    height:180px;
+    border:solid 1px #b4c6d8;
+    padding:3px 0px 3px 3px;
+}
+
+#myGrid {
+    padding:2px 0px 2px 0px;
+    margin-top:0px;   
+}
+
+.customInfoBox-noBeak,.customInfoBox-with-rightBeak,.customInfoBox-with-leftBeak {
+    /*border:0 solid #b4c6d8;*/
+    color:#4985c7;
+    /* Currently now displaying the pop-up */
+    
+    
+    display:block;
+    font-size:1.0em;
+    position:absolute;
+    z-index:20000 !important;
+    background:transparent; 
+    width:90px!important;
+    left:0px;
+    
+    
+    
+    /* the top and bottom settings are both hacks to overcome the 
+       behavior in //10.95.1.5 environment   */
+    /*top: 624.138px !important;*/
+    
+    /*top:124.138px !important;*/
+    /*bottom:auto;*/
+    
+    /*top:790px !important;*/
+}
+
+.customInfoBox-with-rightBeak {padding:0 19px 0 0;}
+.customInfoBox-with-leftBeak {padding:0 0 0 19px;}
+.customInfoBox-noBeak {padding:0 4px;}
+.customInfoBox-body {
+    /*border:1px solid #cccccc !important;*/
+    border-bottom-color:transparent !important;
+    border-top-color:transparent !important;
+    border-left-color:transparent !important;
+    border-right-color:transparent !important;
+    border-bottom-style:hidden !important;
+    border-top-style:hidden !important;
+    border-left-style:hidden !important;
+    border-right-style:hidden !important;
+    border-bottom-style:none !important;
+    border-top-style:none !important;
+    border-left-style:none !important;
+    border-right-style:none !important;
+    left:-3px;
+    overflow:visible !important;
+    position:relative;
+    top:-3px;
+    width:308px;
+    height:200px;
+    background:transparent !important;
+    /*background-color:#ffffff;*/
+    background-image:url(http://media.expedia.com/media/content/expus/graphics/promos/deals/wh_map-bubble-bkgd_lg.gif);
+    background-repeat:no-repeat;
+}
+.customInfoBox-shadow 
+{
+    float:left;
+    position:relative;
+    background-color:#dae1eb !important;
+    background-color:Transparent !important;
+    /*background-color:#fdf9e4;*/
+    color:#4985c7 !important;
+    /*filter:alpha(opacity=95);*/
+}
+.customInfoBox-previewArea {
+    width:100%;
+    margin-top:-4px;
+    /*background-image:url(http://media.expedia.com/media/content/expus/graphics/promos/deals/wh_map-bubble-bkgd_lg.gif);
+    background-repeat:no-repeat;*/ 
+}
+.customInfoBox-previewArea p {font-size:1.0em;margin:0 0 0 0;padding:0 2px 0px 0; color:#4985c7;}
+.customInfoBox-previewArea div.firstChild {margin:0;overflow:hidden; color:#4985c7;}
+.customInfoBox-previewArea .title {
+    color:#4985c7 !important;
+    font-size:1.1em;
+    font-weight:bold;
+    margin:0 0 12px;
+    padding:0 0 0 0;
+}
+.customInfoBox-previewArea .ero-previewArea-image {
+    display:block;
+    float:left;
+    height:80px;
+    padding:3px 10px 5px 0;
+    position:relative;
+    width:80px;
+ }
+.customInfoBox-actionsBackground 
+{
+    margin:4px;
+    /*background:#E4EDF3;*/
+}
+.customInfoBox-beak,.customInfoBox-progressAnimation {visibility:inherit !important; z-index:3000 !important;}
+.customInfoBox-actions {padding:4px 8px 0}
+* html .customInfoBox-actions {padding-top:4px}
+.customInfoBox-actions ul {list-style-image:none;margin:0;padding:0;
+list-style:none outside none}
+.customInfoBox-actions ul a,.customInfoBox-actions ul a:link,
+.customInfoBox-actions ul a:visited {color:#0088E4;text-decoration:none}
+.customInfoBox-actions ul a:hover {text-decoration:underline}
+.customInfoBox-actions ul li {margin-bottom:4px}
+.customInfoBox-paddingHack {font-size:8px;height:8px;width:1px}
+.customInfoBox-beak {height:34px;position:absolute;top:10px;width:19px}
+.customInfoBox-with-leftBeak .customInfoBox-beak {background:transparent
+url(http://media.expedia.com/media/content/expus/graphics/promos/deals/wh_beakLeft.gif)
+no-repeat scroll 0;left:0}
+.customInfoBox-with-rightBeak .customInfoBox-beak {background:transparent
+url(http://media.expedia.com/media/content/expus/graphics/promos/deals/wh_beakRight.gif)
+no-repeat scroll 0;right:4px}
+.customInfoBox-noBeak .customInfoBox-beak {display:none}
+.customInfoBox-progressAnimation {font-size:0;height:3px;overflow:hidden;position:absolute;
+width:13px;z-index:500}
+.customInfoBox-progressAnimation div {font-size:0;height:100%;position:absolute;width:3px;
+background:#54CE43}
+.customInfoBox-progressAnimation div.frame0 {left:-3px}
+.customInfoBox-progressAnimation div.frame1 {left:0}
+.customInfoBox-progressAnimation div.frame2 {left:5px}
+.customInfoBox-progressAnimation div.frame3 {left:10px}
+.MSVE_modeCell {display:none;}
+.MSVE_navAction_separator {display:none;}
+
+
+
+
+/* Hide the dashboard leaving only the Zoom with the + and - */
+
+#MSVE_threeDNotification {display:none! important;}
+#MSVE_obliqueNotification {display:none! important;}
+#MSVE_navAction_header {display:none;}
+#MSVE_dashboardContainer {background-image:none! important; background-color:Transparent! important; border-style:hidden! important; border-width:0px 0px 0px 0px;}
+#MSVE_mapViewRow {border-style:hidden! important;}
+#MSVE_navAction_mapViewCell {border-style:hidden! important;}
+#MSVE_navAction_ObliqueMapView {display:none! important;}
+#myMap_dashboard {
+    position:absolute !important;
+    top:-9px !important; 
+    left:-9px !important;
+}
+.MSVE_header MSVE_with3D {background-image:none! important; background-color:Transparent! important; border-style:hidden! important;}
+.MSVE_MapMode {background-image:none! important; background-color:Transparent! important; border-style:hidden! important;}
+.MSVE_ObliqueMapView_disabled {background-image:none! important; background-color:Transparent! important; border-style:hidden! important;}
+.MSVE_OrthoMapView {background-image:none! important; background-color:Transparent! important; border-style:hidden! important;}
+.MSVE_OrthoView {background-image:none! important; background-color:Transparent !important; border-style:hidden !important; border-bottom-style:none !important; border-right-style:none !important; border-top-style:none !important; border-left-style:none !important;}
+.MSVE_MapStyle {background-image:none! important; background-color:Transparent! important; border-style:hidden! important; display:block;}
+.MSVE_MapStyle ms_pseudoHover {background-image:none! important; background-color:Transparent! important; border-style:hidden! important;}
+.MSVE_OrthoView {border-style:hidden! important;}
+
+/*version 6 dashboard*/
+/*.MSVE_ZoomBar {
+    display:block;
+    filter:alpha(opacity=100);
+    opacity:1.0;
+}*/
+.MSVE_ZoomBar_plus {
+    filter:alpha(opacity=100);
+    opacity:1.0;
+}
+.MSVE_ZoomBar_minus {
+    filter:alpha(opacity=100);
+    opacity:1.0;
+}
+
+#MSVE_navAction_leftBar {display:block;}
+
+/*
+#MSVE_navAction_compassBackground {display:none;}
+#MSVE_navAction_topBackground {display:none;}
+#MSVE_navAction_compassWrapper {display:block;}
+#MSVE_navAction_FlatlandMapMode {display:none;}
+#MSVE_navAction_View3DMapMode {display:none;}
+#MSVE_navAction_separator2 {display:none;}
+#MSVE_navAction_separator0 {display:none;}*/
+#MSVE_navAction_toggleGlyphInner {display:block;}
+
+
+/* Copyright, Logo, and ScaleBar */
+
+.MSVE_Copyright MSVE_CopyrightForeground {display:none! important;}
+.MSVE_Copyright MSVE_CopyrightBackground {display:none! important;}
+.MSVE_PoweredByLogo MSVE_PoweredByLogo_ie {}
+.MSVE_ScaleBar MSVE_ScaleBarForeground {display:none! important;}
+.MSVE_ScaleBar MSVE_ScaleBarBackground {display:none! important;}
+.MSVE_ScaleBarLabel MSVE_ScaleBarLabelForeground {display:none! important;}
+.MSVE_ScaleBarLabel MSVE_ScaleBarLabelBackground {display:none! important;}
+
+.ero-beak {display:block;}
+.ero-actions {padding:0 0 0 0 !important;}
+.ero-paddingHack {height:10px !important;}
+.ero-actionsBackground {margin:0 0 0 0 !important;}
+.ero-leftBeak { position:absolute !important; bottom:-120px !important; z-index:1500 !important;}
+
+.VE_Pushpin_Popup_Title {
+    color:#4985c7 !important;
+    font-family:Arial !important;
+    font-weight:bold !important;
+    font-size:12px !important;
+    display:none;
+}
+.VE_Pushpin_Popup_Body {
+    padding-left:3px;
+    padding-top:3px;
+    width:300px !important;
+}
+.VEAPI_Pushpin {
+    text-decoration:none;
+}
+.ero-body {
+    width:300px !important;
+    height:200px !important;    
+}
+.ero-previewArea p {
+    margin-top:-4px !important;
+    }
+#MSVE_OrthoZoomBar {
+    filter:alpha(opacity=90);
+    opacity:0.9;
+    }
+#suitcase {
+    margin-top:-18px !important;
+    margin-right:2px !important;
+    }
+.customIcon {
+    width:23px;
+    height:26px;
+    background-image:url(http://media.expedia.com/media/content/expus/graphics/promos/deals/wh_pinicon_off.gif);
+    background-repeat:no-repeat;
+    color: #ffffff;
+    text-align:center;
+    text-decoration:none;
+    font-family:verdana;
+    font-weight:bold; 
+    font-size:11px; 
+    padding-top: 3px; 
+    cursor:hand;  
+    }
+ html>body .customIcon
+    {
+    }
+ 
+.customIconhover {
+    width:23px;
+    height:26px;
+    background-image:url(http://media.expedia.com/media/content/expus/graphics/promos/deals/wh_pinicon_on.gif);
+    background-repeat:no-repeat;
+    color: #cc6600;
+    text-align:center;
+    text-decoration:none;
+    font-family:verdana;
+    font-weight:bold; 
+    font-size:11px; 
+    padding-top: 3px; 
+    cursor:hand;
+    }    
+  html>body .customIconhover
+    {
+    }
+.pinImgOff {
+    width:29px;
+    height:32px;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='http://media.expedia.com/media/content/expus/graphics/promos/deals/wh_pinicon_off.png', sizingMethod='scale'); 
+    color: #ffffff;
+    text-align:center;
+    font-size:11px;
+    font-weight:bold;
+    padding-top: 3px;
+    cursor:pointer;
+}
+
+.pinImgOn {
+    width:29px;
+    height:32px;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='http://media.expedia.com/media/content/expus/graphics/promos/deals/wh_pinicon_on.png', sizingMethod='scale');
+    color: #cc6600;
+    text-align:center;
+    font-size:11px;
+    font-weight:bold;
+    padding-top: 3px;
+    cursor:pointer;
+}
+html>body .pinImgOff {
+    background-image:url(http://media.expedia.com/media/content/expus/graphics/promos/deals/wh_pinicon_off.gif);
+    background-repeat:no-repeat;
+    width:23px;
+    height:26px;
+    }
+html>body .pinImgOn {
+    background-image:url(http://media.expedia.com/media/content/expus/graphics/promos/deals/wh_pinicon_on.gif);
+    background-repeat:no-repeat;
+    width:23px;
+    height:26px;
+    }  
+#preloader {
+    color: #cc6600;
+    font-size:11px;
+    font-weight:bold; 
+    vertical-align: middle;  
+}
+.explaination {
+    color: #333333;
+    font-family: Trebuchet MS,arial,sans-serif;
+    font-size: 11px;
+    font-weight:normal;
+    border-bottom:dashed 1px #d5d6d7;
+    }
+.buttons {
+    color: #333333;
+    font-family: Trebuchet MS,arial,sans-serif;
+    font-size: 11px;
+    font-weight:normal;
+    }
+.wrapper {
+    border:solid 1px #cccccc;
+    }
+.mapWrapper {
+    border-left:solid 1px #f2f2f4; 
+    border-top:solid 1px #f2f2f4; 
+    border-bottom:solid 1px #f2f2f4;
+    }
+.mapHeadline {
+    text-align:left; 
+    padding-right:0px; 
+    padding-left:0px; 
+    margin-top:0px; 
+    margin-bottom:0px; 
+    font-weight:normal; 
+    color:#264466; 
+    font-family:Trebuchet MS, Arial, Sans-Serif; 
+    font-size:17px;
+    }
+#mapContainer {
+    width:437px; 
+    height:435px; 
+    border:solid 1px #cccccc; 
+    margin-top:0px;
+    }    
+#myMap {
+    position:relative; 
+    width:435px; 
+    height:433px; 
+    margin:2px 2px 2px 2px;
+    }
+.gridWrapper {
+    padding-left:0px; 
+    border-right:solid 1px #f2f2f4; 
+    border-top:solid 1px #f2f2f4; 
+    border-bottom:solid 1px #f2f2f4;
+    }    
+.regions {
+    width:150px; 
+    height:22px; 
+    color: #333333;
+    font-family: Trebuchet MS,arial,sans-serif;
+    font-size: 11px;
+    font-weight:normal; 
+    border: #cccccc; 
+    border-style: solid; 
+    border-top-width: 1px; 
+    border-right-width: 1px; 
+    border-bottom-width: 1px; 
+    border-left-width: 1px;
+    }       
+.subregions {
+    width:150px; 
+    height:22px; 
+    color: #333333;
+    font-family: Trebuchet MS,arial,sans-serif;
+    font-size: 11px;
+    font-weight:normal; 
+    border: #cccccc; 
+    border-style: solid; 
+    border-top-width: 1px; 
+    border-right-width: 1px; 
+    border-bottom-width: 1px; 
+    border-left-width: 1px;
+    }    
+.spacer {
+    padding-left:20px; 
+    padding-right:20px;
+    }        
+.mapArrow {
+    width:14px;
+    height:18px;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='http://media.expedia.com/media/content/expus/graphics/promos/deals/wh_map_arrow.png', sizingMethod='scale');
+    padding-top: 3px;
+    cursor:pointer;
+} 
+.mapArrowOn {
+    width:14px;
+    height:18px;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='http://media.expedia.com/media/content/expus/graphics/promos/deals/wh_map_arrow_on.png', sizingMethod='scale');
+    padding-top: 3px;
+    cursor:pointer;
+}    
+html>body .mapArrow {
+    background-image:url(map_arrow.gif);
+    background-repeat:no-repeat;
+    width:12px;
+    height:16px;
+} 
+html>body .mapArrowOn {
+    background-image:url(map_arrow_on.gif);
+    background-repeat:no-repeat;
+    width:12px;
+    height:16px;
+}    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

@@ -1,0 +1,772 @@
+<worldheritage promo="UNESCO">
+  <row id="509" unique="593" trans="1" lat="-17.92453000" long="25.85539000">
+    <criteria>(vii)(viii)</criteria>
+    <inscribeDate>1989</inscribeDate>
+    <code>zw</code>
+    <region>Africa</region>
+    <location>Hwange District of Matabeleland North Province of Zimbabwe</location>
+    <state>Zimbabwe</state>
+    <site>Mosi-oa-Tunya / Victoria Falls</site>
+    <description>These are among the most spectacular waterfalls in the world. The Zambezi river, which is more than 2 km wide at this point, plunges noisily down a series of basalt gorges and raises an iridescent mist that can be seen more than 20 km away.</description>
+  </row>
+   <row id="509" unique="593" trans="1" lat="-17.92453000" long="25.85539000">
+    <criteria>(vii)(viii)</criteria>
+    <inscribeDate>1989</inscribeDate>
+    <code>zm</code>
+    <region>Africa</region>
+    <location>Livingstone District of Southern Province of the Republic of Zambia</location>
+    <state>Zambia</state>
+    <site>Mosi-oa-Tunya / Victoria Falls</site>
+    <description>These are among the most spectacular waterfalls in the world. The Zambezi river, which is more than 2 km wide at this point, plunges noisily down a series of basalt gorges and raises an iridescent mist that can be seen more than 20 km away.</description>
+  </row>
+  <row id="15" unique="18" trans="0" lat="14.13019000" long="38.71861000">
+    <criteria>(i)(iv)</criteria>
+    <inscribeDate>1980</inscribeDate>
+    <code>et</code>
+    <region>Africa</region>
+    <location>Tigrai Region</location>
+    <state>Ethiopia</state>
+    <site>Aksum</site>
+    <description>The ruins of the ancient city of Aksum are found close to Ethiopia's northern border. They mark the location of the heart of ancient Ethiopia, when the Kingdom of Aksum was the most powerful state between the Eastern Roman Empire and Persia. The massive ruins, dating from between the 1st and the 13th century A.D., include monolithic obelisks, giant stelae, royal tombs and the ruins of ancient castles. Long after its political decline in the 10th century, Ethiopian emperors continued to be crowned in Aksum.</description>
+  </row>
+  <row id="1147" unique="1547" trans="0" lat="-0.50000000" long="11.50000000">
+    <criteria>(iii)(iv)(ix)(x)</criteria>
+    <inscribeDate>2007</inscribeDate>
+    <code>ga</code>
+    <region>Africa</region>
+    <location>Ogoué-Ivindo and Ogoué-Lolo Provinces</location>
+    <state>Gabon</state>
+    <site>Ecosystem and Relict Cultural Landscape of Lopé-Okanda</site>
+    <description>The Ecosystem and Relict Cultural Landscape of Lopé-Okanda demonstrates an unusual interface between dense and well conserved tropical rainforest and relict savannah environments with a great diversity of species, including endangered large mammals, and habitats. The site illustrates ecological and biological processes in terms of species and habitat adaptation to post-glacial climatic changes. It contains evidence of the successive passages of different peoples who have left extensive and comparatively well preserved remains of habitation around hilltops, caves and shelters, evidence of iron-working and a remarkable collection of some 1,800 petroglyphs, or rock carvings. The property's collection of Neolithic and Iron Age sites, together with the rock art found there, reflects a major migration route of Bantu and other peoples from West Africa along the River Ogooué valley to the north of the dense evergreen Congo forests and to central east and southern Africa, that has shaped the development of the whole of sub-Saharan Africa. This is Gabon's first World Heritage site.</description>
+  </row>
+  <row id="1227" unique="1404" trans="0" lat="-20.15863889" long="57.50316667">
+    <criteria>(vi)</criteria>
+    <inscribeDate>2006</inscribeDate>
+    <code>mu</code>
+    <region>Africa</region>
+    <location>Port Louis District</location>
+    <state>Mauritius</state>
+    <site>Aapravasi Ghat</site>
+    <description>In the district of Port Louis, lies the 1,640 m2 site where the modern indentured labour diaspora began. In 1834, the British Government selected the island of Mauritius to be the first site for what it called ‘the great experiment’ in the use of ‘free’ labour to replace slaves. Between 1834 and 1920, almost half a million indentured labourers arrived from India at Aapravasi Ghat to work in the sugar plantations of Mauritius, or to be transferred to Reunion Island, Australia, southern and eastern Africa or the Caribbean. The buildings of Aapravasi Ghat are among the earliest explicit manifestations of what was to become a global economic system and one of the greatest migrations in history.</description>
+  </row>
+  <row id="1118" unique="1298" trans="0" lat="7.75556000" long="4.55222000">
+    <criteria>(ii)(iii)(vi)</criteria>
+    <inscribeDate>2005</inscribeDate>
+    <code>ng</code>
+    <region>Africa</region>
+    <location>Osogbo, Osun State</location>
+    <state>Nigeria</state>
+    <site>Osun-Osogbo Sacred Grove</site>
+    <description>The dense forest of the Osun Sacred Grove, on the outskirts of the city of Osogbo, is one of the last remnants of primary high forest in southern Nigeria. Regarded as the abode of the goddess of fertility Osun, one of the pantheon of Yoruba gods, the landscape of the grove and its meandering river is dotted with sanctuaries and shrines, sculptures and art works in honour of Osun and other deities. The sacred grove, which is now seen as a symbol of identity for all Yoruba people, is probably the last in Yoruba culture. It testifies to the once widespread practice of establishing sacred groves outside all settlements.</description>
+  </row>
+  <row id="956" unique="1561" trans="0" lat="16.02778000" long="-16.50444000">
+    <criteria>(ii)(iv)</criteria>
+    <inscribeDate>2000</inscribeDate>
+    <code>sn</code>
+    <region>Africa</region>
+    <location>Region of Saint-Louis</location>
+    <state>Senegal</state>
+    <site>Island of Saint-Louis</site>
+    <description>Founded as a French colonial settlement in the 17th century, Saint-Louis was urbanised in the mid-19th century. It was the capital of Senegal from 1872 to 1957 and played an important cultural and economic role in the whole of West Africa. The location of the town on an island at the mouth of the Senegal River, its regular town plan, the system of quays, and the characteristic colonial architecture give Saint-Louis its distinctive appearance and identity.</description>
+  </row>
+  <row id="25" unique="28" trans="0" lat="16.50000000" long="-16.16667000">
+    <criteria>(vii)(x)</criteria>
+    <inscribeDate>1981</inscribeDate>
+    <code>sn</code>
+    <region>Africa</region>
+    <location>Delta of the River Senegal</location>
+    <state>Senegal</state>
+    <site>Djoudj National Bird Sanctuary</site>
+    <description>Situated in the Senegal River delta, the Djoudj Sanctuary is a wetland of 16,000 ha, comprising a large lake surrounded by streams, ponds and backwaters. It forms a living but fragile sanctuary for some 1.5 million birds, such as the white pelican, the purple heron, the African spoonbill, the great egret and the cormorant.</description>
+  </row>
+  <row id="26" unique="29" trans="0" lat="14.66722000" long="-17.40083000">
+    <criteria>(vi)</criteria>
+    <inscribeDate>1978</inscribeDate>
+    <code>sn</code>
+    <region>Africa</region>
+    <location>Cape Verde Region</location>
+    <state>Senegal</state>
+    <site>Island of Gorée</site>
+    <description>The island of Gorée lies off the coast of Senegal, opposite Dakar. From the 15th to the 19th century, it was the largest slave-trading centre on the African coast. Ruled in succession by the Portuguese, Dutch, English and French, its architecture is characterized by the contrast between the grim slave-quarters and the elegant houses of the slave traders. Today it continues to serve as a reminder of human exploitation and as a sanctuary for reconciliation.</description>
+  </row>
+  <row id="153" unique="171" trans="0" lat="13.06667000" long="-12.71667000">
+    <criteria>(x)</criteria>
+    <inscribeDate>1981</inscribeDate>
+    <code>sn</code>
+    <region>Africa</region>
+    <location>Eastern Senegal and Upper Casamance regions</location>
+    <state>Senegal</state>
+    <site>Niokolo-Koba National Park</site>
+    <description>Located in a well-watered area along the banks of the Gambia river, the gallery forests and savannahs of Niokolo-Koba National Park have a very rich fauna, among them Derby elands (largest of the antelopes), chimpanzees, lions, leopards and a large population of elephants, as well as many birds, reptiles and amphibians.</description>
+  </row>
+  <row id="1162" unique="1342" trans="0" lat="-26.86000000" long="27.26000000">
+    <criteria>(viii)</criteria>
+    <inscribeDate>2005</inscribeDate>
+    <code>za</code>
+    <region>Africa</region>
+    <location>Northwest and Free State provinces</location>
+    <state>South Africa</state>
+    <site>Vredefort Dome</site>
+    <description>Vredefort Dome, approximately 120 km south-west of Johannesburg, is a representative part of a larger meteorite impact structure, or astrobleme. Dating back 2,023 million years, it is the oldest astrobleme yet found on Earth. With a radius of 190 km, it is also the largest and the most deeply eroded. Vredefort Dome bears witness to the world’s greatest known single energy release event, which had devastating global effects including, according to some scientists, major evolutionary changes. It provides critical evidence of the Earth’s geological history and is crucial to understanding of the evolution of the planet. Despite the importance of impact sites to the planet’s history, geological activity on the Earth’s surface has led to the disappearance of evidence from most of them, and Vredefort is the only example to provide a full geological profile of an astrobleme below the crater floor.</description>
+  </row>
+  <row id="914" unique="1067" trans="0" lat="-27.83889000" long="32.55000000">
+    <criteria>(vii)(ix)(x)</criteria>
+    <inscribeDate>1999</inscribeDate>
+    <code>za</code>
+    <region>Africa</region>
+    <location>KwaZulu-Natal</location>
+    <state>South Africa</state>
+    <site>Greater St Lucia Wetland Park</site>
+    <description>The ongoing fluvial, marine and aeolian processes in the site have produced a variety of landforms, including coral reefs, long sandy beaches, coastal dunes, lake systems, swamps, and extensive reed and papyrus wetlands. The interplay of the park's environmental heterogeneity with major floods and coastal storms and a transitional geographic location between subtropical and tropical Africa has resulted in exceptional species diversity and ongoing speciation. The mosaic of landforms and habitat types creates breathtaking scenic vistas. The site contains critical habitats for a range of species from Africa's marine, wetland and savannah environments.</description>
+  </row>
+  <row id="916" unique="1070" trans="0" lat="-33.80000000" long="18.36666667">
+    <criteria>(iii)(vi)</criteria>
+    <inscribeDate>1999</inscribeDate>
+    <code>za</code>
+    <region>Africa</region>
+    <location>Western Cape Province</location>
+    <state>South Africa</state>
+    <site>Robben Island</site>
+    <description>Robben Island was used at various times between the 17th and 20th centuries as a prison, a hospital for socially unacceptable groups and a military base. Its buildings, particularly those of the late 20th century such as the maximum security prison for political prisoners, witness the triumph of democracy and freedom over oppression and racism.</description>
+  </row>
+  <row id="915" unique="1069" trans="0" lat="-24.15861000" long="29.17694000">
+    <criteria>(iii)(vi)</criteria>
+    <inscribeDate>1999</inscribeDate>
+    <code>za</code>
+    <region>Africa</region>
+    <location>Gauteng, Limpopo and North-west provinces</location>
+    <state>South Africa</state>
+    <site>Fossil Hominid Sites of Sterkfontein, Swartkrans, Kromdraai, and Environs</site>
+    <description>The Taung Skull Fossil Site, part of the extension to the site inscribed in 1999, is the place where in 1924 the celebrated Taung Skull – a specimen of the species Australopithecus africanus – was found. Makapan Valley, also in the site, features in its many archaeological caves traces of human occupation and evolution dating back some 3.3 million years. The area contains essential elements that define the origin and evolution of humanity. Fossils found there have enabled the identification of several specimens of early hominids, more particularly of Paranthropus, dating back between 4.5 million and 2.5 million years, as well as evidence of the domestication of fire 1.8 million to 1 million years ago.</description>
+  </row>
+  <row id="985" unique="1149" trans="0" lat="-29.38333000" long="29.54056000">
+    <criteria>(i)(iii)(vii)(x)</criteria>
+    <inscribeDate>2000</inscribeDate>
+    <code>za</code>
+    <region>Africa</region>
+    <location>KwaZulu-Natal</location>
+    <state>South Africa</state>
+    <site>uKhahlamba / Drakensberg Park</site>
+    <description>The uKhahlamba Drakensberg Park has exceptional natural beauty in its soaring basaltic buttresses, incisive dramatic cutbacks, and golden sandstone ramparts. Rolling high altitude grasslands, the pristine steep-sided river valleys and rocky gorges also contribute to the beauty of the site. The site’s diversity of habitats protects a high level of endemic and globally threatened species, especially birds and plants. This spectacular natural site also contains many caves and rock-shelters with the largest and most concentrated group of paintings in Africa south of the Sahara, made by the San people over a period of 4,000 years. The rock paintings are outstanding in quality and diversity of subject and in their depiction of animals and human beings. They represent the spiritual life of the now extinct San people.</description>
+  </row>
+  <row id="1007" unique="1177" trans="0" lat="-34.16666667" long="18.37500000">
+    <criteria>(ix)(x)</criteria>
+    <inscribeDate>2004</inscribeDate>
+    <code>za</code>
+    <region>Africa</region>
+    <location>Western Cape Province, Eastern Cape Province</location>
+    <state>South Africa</state>
+    <site>Cape Floral Region Protected Areas</site>
+    <description>A serial site – in Cape Province, South Africa – made up of eight protected areas, covering 553,000 ha, the Cape Floral Region is one of the richest areas for plants in the world. It represents less than 0.5% of the area of Africa but is home to nearly 20% of the continent’s flora. The site displays outstanding ecological and biological processes associated with the Fynbos vegetation, which is unique to the Cape Floral Region. The outstanding diversity, density and endemism of the flora are among the highest worldwide. Unique plant reproductive strategies, adaptive to fire, patterns of seed dispersal by insects, as well as patterns of endemism and adaptive radiation found in the flora, are of outstanding value to science.</description>
+  </row>
+  <row id="1099" unique="1277" trans="0" lat="-22.19250000" long="29.23889000">
+    <criteria>(ii)(iii)(iv)(v)</criteria>
+    <inscribeDate>2003</inscribeDate>
+    <code>za</code>
+    <region>Africa</region>
+    <location>Northern Province</location>
+    <state>South Africa</state>
+    <site>Mapungubwe Cultural Landscape</site>
+    <description>Mapungubwe is set hard against the northern border of South Africa, joining Zimbabwe and Botswana. It is an open, expansive savannah landscape at the confluence of the Limpopo and Shashe rivers. Mapungubwe developed into the largest kingdom in the sub-continent before it was abandoned in the 14th century. What survives are the almost untouched remains of the palace sites and also the entire settlement area dependent upon them, as well as two earlier capital sites, the whole presenting an unrivalled picture of the development of social and political structures over some 400 years.</description>
+  </row>
+  <row id="1265" unique="1442" trans="0" lat="-28.60000000" long="17.20388889">
+    <criteria>(iv)(v)</criteria>
+    <inscribeDate>2007</inscribeDate>
+    <code>za</code>
+    <region>Africa</region>
+    <location>Northern Cape</location>
+    <state>South Africa</state>
+    <site>Richtersveld Cultural and Botanical Landscape</site>
+    <description>&lt;p&gt;The 160,000 ha Richtersveld Cultural and Botanical Landscape of dramatic mountainous desert in the north-west part of South Africa constitutes a cultural landscape communally owned and managed. This property sustains the semi-nomadic pastoral livelihood of the Nama people, reflecting seasonal patterns that may have persisted for as much as two millennia in Southern Africa. It is the only area where the Nama still construct portable houses, haru oms. The property includes seasonal migrations and grazing grounds, stockposts (bases used by the herders as they move with their herds of sheep and cattle on a seasonal basis) and Nama rush mat houses, small hemispherical portable structures, consisting of a wooden frame of intersecting wooden hoops, covered over with fine mats of braided local rushes. The pastoralists inhabiting this property collect medicinal and other plants and have a strong oral tradition associated with different places and attributes of the landscape. &lt;/p&gt;</description>
+  </row>
+  <row id="494" unique="576" trans="0" lat="-18.66667000" long="44.75000000">
+    <criteria>(vii)(x)</criteria>
+    <inscribeDate>1990</inscribeDate>
+    <code>mg</code>
+    <region>Africa</region>
+    <location>Centre Ouest, dans le Fivondronana d’Antsalova et le Faritany de Mahajanga</location>
+    <state>Madagascar</state>
+    <site>Tsingy de Bemaraha Strict Nature Reserve</site>
+    <description>Tsingy de Bemaraha Strict Nature Reserve comprises karstic landscapes and limestone uplands cut into impressive 'tsingy' peaks and a 'forest' of limestone needles, the spectacular canyon of the Manambolo river, rolling hills and high peaks. The undisturbed forests, lakes and mangrove swamps are the habitat for rare and endangered lemurs and birds.</description>
+  </row>
+  <row id="116" unique="127" trans="0" lat="13.90639000" long="-4.55500000">
+    <criteria>(iii)(iv)</criteria>
+    <inscribeDate>1988</inscribeDate>
+    <code>ml</code>
+    <region>Africa</region>
+    <location>Djenné Circle, Region of Mopti</location>
+    <state>Mali</state>
+    <site>Old Towns of Djenné</site>
+    <description>Inhabited since 250 B.C., Djenné became a market centre and an important link in the trans-Saharan gold trade. In the 15th and 16th centuries, it was one of the centres for the propagation of Islam. Its traditional houses, of which nearly 2,000 have survived, are built on hillocks (&lt;I&gt;toguere&lt;/I&gt;) as protection from the seasonal floods.</description>
+  </row>
+  <row id="119" unique="131" trans="0" lat="16.77333333" long="-2.99944444">
+    <criteria>(ii)(iv)(v)</criteria>
+    <inscribeDate>1988</inscribeDate>
+    <code>ml</code>
+    <region>Africa</region>
+    <location>Circle and Region of Tombouctou</location>
+    <state>Mali</state>
+    <site>Timbuktu</site>
+    <description>Home of the prestigious Koranic Sankore University and other &lt;I&gt;madrasas&lt;/I&gt;, Timbuktu was an intellectual and spiritual capital and a centre for the propagation of Islam throughout Africa in the 15th and 16th centuries. Its three great mosques, Djingareyber, Sankore and Sidi Yahia, recall Timbuktu's golden age. Although continuously restored, these monuments are today under threat from desertification.</description>
+  </row>
+  <row id="516" unique="602" trans="0" lat="14.33333000" long="-3.41667000">
+    <criteria>(v)(vii)</criteria>
+    <inscribeDate>1989</inscribeDate>
+    <code>ml</code>
+    <region>Africa</region>
+    <location>Bandiagara Circle, Mopti Region</location>
+    <state>Mali</state>
+    <site>Cliff of Bandiagara (Land of the Dogons)</site>
+    <description>The Bandiagara site is an outstanding landscape of cliffs and sandy plateaux with some beautiful architecture (houses, granaries, altars, sanctuaries and &lt;I&gt;Togu Na&lt;/I&gt;, or communal meeting-places). Several age-old social traditions live on in the region (masks, feasts, rituals, and ceremonies involving ancestor worship). The geological, archaeological and ethnological interest, together with the landscape, make the Bandiagara plateau one of West Africa's most impressive sites.</description>
+  </row>
+  <row id="1139" unique="1320" trans="0" lat="16.28980000" long="-0.04456000">
+    <criteria>(ii)(iii)(iv)</criteria>
+    <inscribeDate>2004</inscribeDate>
+    <code>ml</code>
+    <region>Africa</region>
+    <location>City, Circle and Region of Gao</location>
+    <state>Mali</state>
+    <site>Tomb of Askia</site>
+    <description>The dramatic 17-m pyramidal structure of the Tomb of Askia was built by Askia Mohamed, the Emperor of Songhai, in 1495 in his capital Gao. It bears testimony to the power and riches of the empire that flourished in the 15th and 16th centuries through its control of the trans-Saharan trade, notably in salt and gold. It is also a fine example of the monumental mud-building traditions of the West African Sahel. The complex, including the pyramidal tomb, two flat-roofed mosque buildings, the mosque cemetery and the open-air assembly ground, was built when Gao became the capital of the Songhai Empire and after Askia Mohamed had returned from Mecca and made Islam the official religion of the empire.</description>
+  </row>
+  <row id="950" unique="1111" trans="0" lat="-18.75917000" long="47.56278000">
+    <criteria>(iii)(iv)(vi)</criteria>
+    <inscribeDate>2001</inscribeDate>
+    <code>mg</code>
+    <region>Africa</region>
+    <location>Municipality of Ambohimanga Rova, Province of Antananarivo Avaradrano</location>
+    <state>Madagascar</state>
+    <site>Royal Hill of Ambohimanga</site>
+    <description>The Royal Hill of Ambohimanga consists of a royal city and burial site, and an ensemble of sacred places. It is associated with strong feelings of national identity, and has maintained its spiritual and sacred character both in ritual practice and the popular imagination for the past 500 years. It remains a place of worship to which pilgrims come from Madagascar and elsewhere.</description>
+  </row>
+  <row id="1257" unique="1434" trans="0" lat="-14.45972222" long="49.70250000">
+    <criteria>(ix)(x)</criteria>
+    <inscribeDate>2007</inscribeDate>
+    <code>mg</code>
+    <region>Africa</region>
+    <location />
+    <state>Madagascar</state>
+    <site>Rainforests of the Atsinanana</site>
+    <description>The Rainforests of the Atsinanana comprise six national parks distributed along the eastern part of the island. These relict forests are critically important for maintaining ongoing ecological processes necessary for the survival of Madagascar&amp;#39;s unique biodiversity, which reflects the island&amp;#39;s geological history. Having completed its separation from all other land masses more than 60 million years ago, Madagascar&amp;#39;s plant and animal life evolved in isolation. Inscribed both for their importance to ecological and biological processes, the rainforests are also inscribed for their biodiversity and the threatened species they support. The rate of endemism within these forests is exceptionally high at 80 to 90 percent for all groups. The property is of global significance for fauna, especially primates. Many rare and threatened species (78 of the 123 non-flying mammals in Madagascar occur in this site, including 72 that are on the IUCN Red List of Threatened Species), including at least 25 species of lemur.</description>
+  </row>
+  <row id="289" unique="323" trans="0" lat="-14.03333000" long="34.88333000">
+    <criteria>(vii)(ix)(x)</criteria>
+    <inscribeDate>1984</inscribeDate>
+    <code>mw</code>
+    <region>Africa</region>
+    <location>Central and Southern Regions</location>
+    <state>Malawi</state>
+    <site>Lake Malawi National Park</site>
+    <description>Located at the southern end of the great expanse of Lake Malawi, with its deep, clear waters and mountain backdrop, the national park is home to many hundreds of fish species, nearly all endemic. Its importance for the study of evolution is comparable to that of the finches of the Galapagos Islands.</description>
+  </row>
+  <row id="476" unique="1450" trans="0" lat="-14.29333333" long="34.27916667">
+    <criteria>(iii)(vi)</criteria>
+    <inscribeDate>2006</inscribeDate>
+    <code>mw</code>
+    <region>Africa</region>
+    <location>Dedza District, Central Region</location>
+    <state>Malawi</state>
+    <site>Chongoni Rock-Art Area</site>
+    <description>Situated within a cluster of forested granite hills and covering an area of 126.4 km2, high up the plateau of central Malawi, the 127 sites of this area feature the richest concentration of rock art in Central Africa. They reflect the comparatively scarce tradition of farmer rock art, as well as paintings by BaTwa hunter-gatherers who inhabited the area from the late Stone Age. The Chewa agriculturalists, whose ancestors lived there from the late Iron Age, practised rock painting until well into the 20th century. The symbols in the rock art, which are strongly associated with women, still have cultural relevance amongst the Chewa, and the sites are actively associated with ceremonies and rituals.</description>
+  </row>
+  <row id="599" unique="709" trans="0" lat="-15.03417000" long="40.73583000">
+    <criteria>(iv)(vi)</criteria>
+    <inscribeDate>1991</inscribeDate>
+    <code>mz</code>
+    <region>Africa</region>
+    <location>Ilha de Mocambique District, Nampula Province</location>
+    <state>Mozambique</state>
+    <site>Island of Mozambique</site>
+    <description>The fortified city of Mozambique is located on this island, a former Portuguese trading-post on the route to India. Its remarkable architectural unity is due to the consistent use, since the 16th century, of the same building techniques, building materials (stone or &lt;I&gt;macuti&lt;/i&gt;) and decorative principles.</description>
+  </row>
+  <row id="1255" unique="1432" trans="0" lat="-20.59558333" long="14.37258333">
+    <criteria>(iii)(v)</criteria>
+    <inscribeDate>2007</inscribeDate>
+    <code>na</code>
+    <region>Africa</region>
+    <location>Kunene Region</location>
+    <state>Namibia</state>
+    <site>Twyfelfontein or /Ui-//aes</site>
+    <description>Twyfelfontein or /Ui-//aes has one of the largest concentrations of petroglyphs, i.e. rock engravings, in Africa. Over 2,000 figures have been documented to date. Most of these well-preserved engravings represent rhinoceroses, elephants, ostriches, and giraffes, as well as drawings of human and animal footprints. The property also includes six painted rock shelters with motifs of human figures in red ochre. The objects excavated from two parts of the property, including stone artefacts, ostrich eggshell beads, and schist pendants, dated from the Late Stone Age. Representations of humans, or of flying birds, are rare and it has been suggested that the figures were produced to illustrate the ritual transformation of humans into animals. The most celebrated example is the ‘Lion Man&amp;#39; a lion with five toes on each paw. The imagery suggests the rock art was linked to the belief system of hunter-gatherers who dominated the area until the arrival of pastoralists around 1000 AD. The site forms a coherent, extensive and high quality record of ritual practices relating to hunter-gatherer communities in this part of southern Africa over at least 2,000 years; and, eloquently illustrates the links between the ritual and economic practices of hunter-gatherers. This property is Namibia&amp;#39;s first World Heritage site.</description>
+  </row>
+  <row id="573" unique="678" trans="0" lat="18.00000000" long="9.00000000">
+    <criteria>(vii)(ix)(x)</criteria>
+    <inscribeDate>1991</inscribeDate>
+    <code>ne</code>
+    <region>Africa</region>
+    <location>Départment d’Agades, arrondissement d’Arlit</location>
+    <state>Niger</state>
+    <site>Air and Ténéré Natural Reserves</site>
+    <description>This is the largest protected area in Africa, covering some 7.7 million ha, though the area considered a protected sanctuary constitutes only one-sixth of the total area. It includes the volcanic rock mass of the Aïr, a small Sahelian pocket, isolated as regards its climate and flora and fauna, and situated in the Saharan desert of Ténéré. The reserves boast an outstanding variety of landscapes, plant species and wild animals.</description>
+  </row>
+  <row id="749" unique="883" trans="0" lat="12.35000000" long="2.35000000">
+    <criteria>(ix)(x)</criteria>
+    <inscribeDate>1996</inscribeDate>
+    <code>ne</code>
+    <region>Africa</region>
+    <location>Départment  de Tillaberi, arrondisement de Say</location>
+    <state>Niger</state>
+    <site>W National Park of Niger</site>
+    <description>The part of 'W' National Park that lies in Niger is situated in a transition zone between savannah and forest lands and represents important ecosystem characteristics of the West African Woodlands/Savannah Biogeographical Province. The site reflects the interaction between natural resources and humans since Neolithic times and illustrates the evolution of biodiversity in this zone.</description>
+  </row>
+  <row id="938" unique="1093" trans="0" lat="10.74056000" long="13.57194000">
+    <criteria>(iii)(v)(vi)</criteria>
+    <inscribeDate>1999</inscribeDate>
+    <code>ng</code>
+    <region>Africa</region>
+    <location>Madagali Local Government Area, Adamawa State</location>
+    <state>Nigeria</state>
+    <site>Sukur Cultural Landscape</site>
+    <description>The Sukur Cultural Landscape, with the Palace of the Hidi (Chief) on a hill dominating the villages below, the terraced fields and their sacred symbols, and the extensive remains of a former flourishing iron industry, is a remarkably intact physical expression of a society and its spiritual and material culture.</description>
+  </row>
+  <row id="185" unique="205" trans="0" lat="-9.41666667" long="46.41666667">
+    <criteria>(vii)(ix)(x)</criteria>
+    <inscribeDate>1982</inscribeDate>
+    <code>sc</code>
+    <region>Africa</region>
+    <location />
+    <state>Seychelles</state>
+    <site>Aldabra Atoll</site>
+    <description>The atoll is comprised of four large coral islands which enclose a shallow lagoon; the group of islands is itself surrounded by a coral reef. Due to difficulties of access and the atoll's isolation, Aldabra has been protected from human influence and thus retains some 152,000 giant tortoises, the world's largest population of this reptile.</description>
+  </row>
+  <row id="261" unique="291" trans="0" lat="-4.32917000" long="55.73750000">
+    <criteria>(vii)(viii)(ix)(x)</criteria>
+    <inscribeDate>1983</inscribeDate>
+    <code>sc</code>
+    <region>Africa</region>
+    <location>Praslin Island, 50km north-east of Mahé.</location>
+    <state>Seychelles</state>
+    <site>Vallée de Mai Nature Reserve</site>
+    <description>In the heart of the small island of Praslin, the reserve has the vestiges of a natural palm forest preserved in almost its original state. The famous &lt;I&gt;coco de mer&lt;/I&gt;, from a palm-tree once believed to grow in the depths of the sea, is the largest seed in the plant kingdom.</description>
+  </row>
+  <row id="17" unique="20" trans="0" lat="4.80000000" long="35.96666667">
+    <criteria>(iii)(iv)</criteria>
+    <inscribeDate>1980</inscribeDate>
+    <code>et</code>
+    <region>Africa</region>
+    <location>Southern Nation Nationalities &amp; Peoples Region</location>
+    <state>Ethiopia</state>
+    <site>Lower Valley of the Omo</site>
+    <description>A prehistoric site near Lake Turkana, the lower valley of the Omo is renowned the world over. The discovery of many fossils there, especially &lt;I&gt;Homo gracilis&lt;/i&gt;, has been of fundamental importance in the study of human evolution.</description>
+  </row>
+  <row id="18" unique="21" trans="0" lat="12.02935000" long="39.04042000">
+    <criteria>(i)(ii)(iii)</criteria>
+    <inscribeDate>1978</inscribeDate>
+    <code>et</code>
+    <region>Africa</region>
+    <location>Amhara Region</location>
+    <state>Ethiopia</state>
+    <site>Rock-Hewn Churches, Lalibela</site>
+    <description>The 11 medieval monolithic cave churches of this 13th-century 'New Jerusalem' are situated in a mountainous region in the heart of Ethiopia near a traditional village with circular-shaped dwellings.  Lalibela is a high place of Ethiopian Christianity, still today a place of pilmigrage and devotion.</description>
+  </row>
+  <row id="19" unique="22" trans="0" lat="12.60692000" long="37.46617000">
+    <criteria>(ii)(iii)</criteria>
+    <inscribeDate>1979</inscribeDate>
+    <code>et</code>
+    <region>Africa</region>
+    <location>Amhara Region</location>
+    <state>Ethiopia</state>
+    <site>Fasil Ghebbi, Gondar Region</site>
+    <description>In the 16th and 17th centuries, the fortress-city of Fasil Ghebbi was the residence of the Ethiopian emperor Fasilides and his successors. Surrounded by a 900-m-long wall, the city contains palaces, churches, monasteries and unique public and private buildings marked by Hindu and Arab influences, subsequently transformed by the Baroque style brought to Gondar by the Jesuit missionaries.</description>
+  </row>
+  <row id="1189" unique="1452" trans="0" lat="9.30888889" long="42.13777778">
+    <criteria>(ii)(iii)(iv)(v)</criteria>
+    <inscribeDate>2006</inscribeDate>
+    <code>et</code>
+    <region>Africa</region>
+    <location>Harari Region</location>
+    <state>Ethiopia</state>
+    <site>Harar Jugol, the Fortified Historic Town</site>
+    <description>The fortified historic town of Harar is located in the eastern part of the country on a plateau with deep gorges surrounded by deserts and savannah. The walls surrounding this sacred Muslim city were built between the 13th and 16th centuries. Harar Jugol, said to be the fourth holiest city of Islam, numbers 82 mosques, three of which date from the 10th century, and 102 shrines, but the townhouses with their exceptional interior design constitute the most spectacular part of Harar's cultural heritage. The impact of African and Islamic traditions on the development of the town's building types and urban layout make for its particular character and uniqueness.</description>
+  </row>
+  <row id="34" unique="38" trans="0" lat="5.39103000" long="-0.49361000">
+    <criteria>(vi)</criteria>
+    <inscribeDate>1979</inscribeDate>
+    <code>gh</code>
+    <region>Africa</region>
+    <location>Volta, Greater Accra, Central and Western Regions</location>
+    <state>Ghana</state>
+    <site>Forts and Castles, Volta, Greater Accra, Central and Western Regions</site>
+    <description>The remains of fortified trading-posts, erected between 1482 and 1786, can still be seen along the coast of Ghana between Keta and Beyin. They were links in the trade routes established by the Portuguese in many areas of the world during their era of great maritime exploration.</description>
+  </row>
+  <row id="35" unique="39" trans="0" lat="6.40111111" long="-1.62583333">
+    <criteria>(v)</criteria>
+    <inscribeDate>1980</inscribeDate>
+    <code>gh</code>
+    <region>Africa</region>
+    <location>Asante Region</location>
+    <state>Ghana</state>
+    <site>Asante Traditional Buildings</site>
+    <description>To the north-east of Kumasi, these are the last material remains of the great Asante civilization, which reached its high point in the 18th century. Since the dwellings are made of earth, wood and straw, they are vulnerable to the onslaught of time and weather.</description>
+  </row>
+  <row id="800" unique="945" trans="0" lat="-0.12388889" long="37.33666667">
+    <criteria>(vii)(ix)</criteria>
+    <inscribeDate>1997</inscribeDate>
+    <code>ke</code>
+    <region>Africa</region>
+    <location>Districts of Meru, Nyeri, Kirnyaga and Embu in Eastern and Central Provinces</location>
+    <state>Kenya</state>
+    <site>Mount Kenya National Park/Natural Forest</site>
+    <description>At 5,199 m, Mount Kenya is the second highest peak in Africa. It is an ancient extinct volcano, during whose period of activity (3.1–2.6 million years ago) it is thought to have risen to 6,500 m. There are 12 remnant glaciers on the mountain, all receding rapidly, and four secondary peaks that sit at the head of the U-shaped glacial valleys. With its rugged glacier-clad summits and forested middle slopes, Mount Kenya is one of the most impressive landscapes in East Africa. The evolution and ecology of its afro-alpine flora also provide an outstanding example of ecological processes.</description>
+  </row>
+  <row id="801" unique="947" trans="0" lat="3.05130556" long="36.50366667">
+    <criteria>(viii)(x)</criteria>
+    <inscribeDate>1997</inscribeDate>
+    <code>ke</code>
+    <region>Africa</region>
+    <location />
+    <state>Kenya</state>
+    <site>Lake Turkana National Parks</site>
+    <description>The most saline of Africa&amp;#39;s large lakes, Turkana is an outstanding laboratory for the study of plant and animal communities. The three National Parks serve as a stopover for migrant waterfowl and are major breeding grounds for the Nile crocodile, hippopotamus and a variety of venomous snakes. The Koobi Fora deposits, rich in mammalian, molluscan and other fossil remains, have contributed more to the understanding of paleo-environments than any other site on the continent.</description>
+  </row>
+  <row id="1055" unique="1229" trans="0" lat="-2.28444444" long="40.85250000">
+    <criteria>(ii)(iv)(vi)</criteria>
+    <inscribeDate>2001</inscribeDate>
+    <code>ke</code>
+    <region>Africa</region>
+    <location>Coast Province, Lamu District</location>
+    <state>Kenya</state>
+    <site>Lamu Old Town</site>
+    <description>Lamu Old Town is the oldest and best-preserved Swahili settlement in East Africa, retaining its traditional functions. Built in coral stone and mangrove timber, the town is characterized by the simplicity of structural forms enriched by such features as inner courtyards, verandas, and elaborately carved wooden doors. Lamu has hosted major Muslim religious festivals since the 19th century, and has become a significant centre for the study of Islamic and Swahili cultures.</description>
+  </row>
+  <row id="63" unique="67" trans="0" lat="0.91666667" long="29.16666667">
+    <criteria>(vii)(viii)(x)</criteria>
+    <inscribeDate>1979</inscribeDate>
+    <code>cd</code>
+    <region>Africa</region>
+    <location>Province of North-Kivu and Orientale province</location>
+    <state>Democratic Republic of the Congo</state>
+    <site>Virunga National Park</site>
+    <description>Virunga National Park (covering an area of 790,000 ha) comprises an outstanding diversity of habitats, ranging from swamps and steppes to the snowfields of Rwenzori at an altitude of over 5,000 m, and from lava plains to the savannahs on the slopes of volcanoes. Mountain gorillas are found in the park, some 20,000 hippopotamuses live in the rivers and birds from Siberia spend the winter there.</description>
+  </row>
+  <row id="136" unique="149" trans="0" lat="4.00000000" long="29.25000000">
+    <criteria>(vii)(x)</criteria>
+    <inscribeDate>1980</inscribeDate>
+    <code>cd</code>
+    <region>Africa</region>
+    <location>Orientale Province</location>
+    <state>Democratic Republic of the Congo</state>
+    <site>Garamba National Park</site>
+    <description>The park's immense savannahs, grasslands and woodlands, interspersed with gallery forests along the river banks and the swampy depressions, are home to four large mammals: the elephant, giraffe, hippopotamus and above all the white rhinoceros. Though much larger than the black rhino, it is harmless; only some 30 individuals remain.</description>
+  </row>
+  <row id="137" unique="150" trans="0" lat="-2.50000000" long="28.75000000">
+    <criteria>(x)</criteria>
+    <inscribeDate>1980</inscribeDate>
+    <code>cd</code>
+    <region>Africa</region>
+    <location>Provinces of South-Kivu and Maniena</location>
+    <state>Democratic Republic of the Congo</state>
+    <site>Kahuzi-Biega National Park</site>
+    <description>A vast area of primary tropical forest dominated by two spectacular extinct volcanoes, Kahuzi and Biega, the park has a diverse and abundant fauna. One of the last groups of eastern lowland (graueri) gorillas (consisting of only some 250 individuals) lives at between 2,100 and 2,400 m above sea-level.</description>
+  </row>
+  <row id="280" unique="314" trans="0" lat="-2.00000000" long="21.00000000">
+    <criteria>(vii)(ix)</criteria>
+    <inscribeDate>1984</inscribeDate>
+    <code>cd</code>
+    <region>Africa</region>
+    <location>Provinces of Equateur, Bandundu and Kasaï Oriental and Occidental</location>
+    <state>Democratic Republic of the Congo</state>
+    <site>Salonga National Park</site>
+    <description>Salonga National Park is Africa's largest tropical rainforest reserve. Situated at the heart of the central basin of the Congo river, the park is very isolated and accessible only by water. It is the habitat of many endemic endangered species, such as the dwarf chimpanzee, the Congo peacock, the forest elephant and the African slender-snouted or 'false' crocodile.</description>
+  </row>
+  <row id="718" unique="849" trans="0" lat="2.00000000" long="28.50000000">
+    <criteria>(x)</criteria>
+    <inscribeDate>1996</inscribeDate>
+    <code>cd</code>
+    <region>Africa</region>
+    <location>Orientale Province</location>
+    <state>Democratic Republic of the Congo</state>
+    <site>Okapi Wildlife Reserve</site>
+    <description>The Okapi Wildlife Reserve occupies about one-fifth of the Ituri forest in the north-east of the Democratic Republic of the Congo. The Congo river basin, of which the reserve and forest are a part, is one of the largest drainage systems in Africa. The reserve contains threatened species of primates and birds and about 5,000 of the estimated 30,000 okapi surviving in the wild. It also has some dramatic scenery, including waterfalls on the Ituri and Epulu rivers. The reserve is inhabited by traditional nomadic pygmy Mbuti and Efe hunters.</description>
+  </row>
+  <row id="9" unique="12" trans="0" lat="13.18333333" long="38.06666667">
+    <criteria>(vii)(x)</criteria>
+    <inscribeDate>1978</inscribeDate>
+    <code>et</code>
+    <region>Africa</region>
+    <location>Gondar Region</location>
+    <state>Ethiopia</state>
+    <site>Simien National Park</site>
+    <description>Massive erosion over the years on the Ethiopian plateau has created one of the most spectacular landscapes in the world, with jagged mountain peaks, deep valleys and sharp precipices dropping some 1,500 m. The park is home to some extremely rare animals such as the Gelada baboon, the Simien fox and the Walia ibex, a goat found nowhere else in the world.</description>
+  </row>
+  <row id="10" unique="13" trans="0" lat="11.10006000" long="40.57939000">
+    <criteria>(ii)(iii)(iv)</criteria>
+    <inscribeDate>1980</inscribeDate>
+    <code>et</code>
+    <region>Africa</region>
+    <location>Afar region</location>
+    <state>Ethiopia</state>
+    <site>Lower Valley of the Awash</site>
+    <description>The Awash valley contains one of the most important groupings of palaeontological sites on the African continent. The remains found at the site, the oldest of which date back at least 4 million years, provide evidence of human evolution which has modified our conception of the history of humankind. The most spectacular discovery came in 1974, when 52 fragments of a skeleton enabled the famous Lucy to be reconstructed.</description>
+  </row>
+  <row id="12" unique="15" trans="0" lat="8.43491000" long="38.61210000">
+    <criteria>(i)(iv)</criteria>
+    <inscribeDate>1980</inscribeDate>
+    <code>et</code>
+    <region>Africa</region>
+    <location>Sodo woreda, Gurage zone, Southern Nation Nationalities &amp; Peoples Region</location>
+    <state>Ethiopia</state>
+    <site>Tiya</site>
+    <description>Tiya is among the most important of the roughly 160 archaeological sites discovered so far in the Soddo region, south of Addis Ababa. The site contains 36 monuments, including 32 carved stelae covered with symbols, most of which are difficult to decipher. They are the remains of an ancient Ethiopian culture whose age has not yet been precisely determined.</description>
+  </row>
+  <row id="323" unique="1560" trans="0" lat="7.18333333" long="1.98333333">
+    <criteria>(iii)(iv)</criteria>
+    <inscribeDate>1985</inscribeDate>
+    <code>bj</code>
+    <region>Africa</region>
+    <location>Province du Zou</location>
+    <state>Benin</state>
+    <site>Royal Palaces of Abomey</site>
+    <description>From 1625 to 1900, 12 kings succeeded one another at the head of the powerful Kingdom of Abomey. With the exception of King Akaba, who had his own separate enclosure, they all had their palaces built within the same cob-wall area, in keeping with previous palaces as regards the use of space and materials. The royal palaces of Abomey are a unique reminder of this vanished kingdom.</description>
+  </row>
+  <row id="475" unique="553" trans="0" lat="9.00000000" long="21.50000000">
+    <criteria>(ix)(x)</criteria>
+    <inscribeDate>1988</inscribeDate>
+    <code>cf</code>
+    <region>Africa</region>
+    <location>Bamingui-Bangoran</location>
+    <state>Central African Republic</state>
+    <site>Manovo-Gounda St Floris National Park</site>
+    <description>The importance of this park derives from its wealth of flora and fauna. Its vast savannahs are home to a wide variety of species: black rhinoceroses, elephants, cheetahs, leopards, wild dogs, red-fronted gazelles and buffalo, while various types of waterfowl are to be found in the northern floodplains.</description>
+  </row>
+  <row id="1140" unique="1321" trans="0" lat="10.06666667" long="1.13333333">
+    <criteria>(v)(vi)</criteria>
+    <inscribeDate>2004</inscribeDate>
+    <code>tg</code>
+    <region>Africa</region>
+    <location>Kara Region</location>
+    <state>Togo</state>
+    <site>Koutammakou, the Land of the Batammariba</site>
+    <description>The Koutammakou landscape in north-eastern Togo, which extends into neighbouring Benin, is home to the Batammariba whose remarkable mud tower-houses (Takienta) have come to be seen as a symbol of Togo. In this landscape, nature is strongly associated with the rituals and beliefs of society. The 50,000-ha cultural landscape is remarkable due to the architecture of its tower-houses which are a reflection of social structure; its farmland and forest; and the associations between people and landscape. Many of the buildings are two storeys high and those with granaries feature an almost spherical form above a cylindrical base. Some of the buildings have flat roofs, others have conical thatched roofs. They are grouped in villages, which also include ceremonial spaces, springs, rocks and sites reserved for initiation ceremonies.</description>
+  </row>
+  <row id="682" unique="806" trans="0" lat="-1.08055556" long="29.66138889">
+    <criteria>(vii)(x)</criteria>
+    <inscribeDate>1994</inscribeDate>
+    <code>ug</code>
+    <region>Africa</region>
+    <location>Districts of Kabale, Kisoro and Rukungiri</location>
+    <state>Uganda</state>
+    <site>Bwindi Impenetrable National Park</site>
+    <description>Located in south-western Uganda, at the junction of the plain and mountain forests, Bwindi Park covers 32,000 ha and is known for its exceptional biodiversity, with more than 160 species of trees and over 100 species of ferns. Many types of birds and butterflies can also be found there, as well as many endangered species, including the mountain gorilla.</description>
+  </row>
+  <row id="684" unique="808" trans="0" lat="0.22361111" long="29.92416667">
+    <criteria>(vii)(x)</criteria>
+    <inscribeDate>1994</inscribeDate>
+    <code>ug</code>
+    <region>Africa</region>
+    <location>District of Kabarole, Kasese and Bundibugyo</location>
+    <state>Uganda</state>
+    <site>Rwenzori Mountains National Park</site>
+    <description>The Rwenzori Mountains National Park covers nearly 100,000 ha in western Uganda and comprises the main part of the Rwenzori mountain chain, which includes Africa's third highest peak (Mount Margherita: 5,109 m). The region's glaciers, waterfalls and lakes make it one of Africa's most beautiful alpine areas. The park has many natural habitats of endangered species and a rich and unusual flora comprising, among other species, the giant heather.</description>
+  </row>
+  <row id="1022" unique="1192" trans="0" lat="0.34861111" long="32.55138889">
+    <criteria>(i)(iii)(iv)(vi)</criteria>
+    <inscribeDate>2001</inscribeDate>
+    <code>ug</code>
+    <region>Africa</region>
+    <location>Kampala District</location>
+    <state>Uganda</state>
+    <site>Tombs of Buganda Kings at Kasubi</site>
+    <description>The Tombs of Buganda Kings at Kasubi constitute a site embracing almost 30 ha of hillside within Kampala district. Most of the site is agricultural, farmed by traditional methods. At its core on the hilltop is the former palace of the Kabakas of Buganda, built in 1882 and converted into the royal burial ground in 1884. Four royal tombs now lie within the Muzibu Azaala Mpanga, the main building, which is circular and surmounted by a dome. It is a major example of an architectural achievement in organic materials, principally wood, thatch, reed, wattle and daub. The site's main significance lies, however, in its intangible values of belief, spirituality, continuity and identity.</description>
+  </row>
+  <row id="39" unique="43" trans="0" lat="-3.18722000" long="35.54083000">
+    <criteria>(vii)(viii)(ix)(x)</criteria>
+    <inscribeDate>1979</inscribeDate>
+    <code>tz</code>
+    <region>Africa</region>
+    <location>Arusha region</location>
+    <state>United Republic of Tanzania</state>
+    <site>Ngorongoro Conservation Area</site>
+    <description>A large permanent concentration of wild animals can be found in the huge and perfect crater of Ngorongoro. Nearby, the crater of Empakaai, filled by a deep lake, and the active volcano of Oldonyo Lenga can be seen. Excavations carried out in the Olduvai Gorge, not far from there, have resulted in the discovery of one of our more distant ancestors, &lt;em&gt;Homo habilis&lt;/em&gt;. Laitoli Site, which also lies within the area, is one of the main localities of early hominid footprints, dating back 3.6 million years.</description>
+  </row>
+  <row id="144" unique="159" trans="0" lat="-8.95778000" long="39.52278000">
+    <criteria>(iii)</criteria>
+    <inscribeDate>1981</inscribeDate>
+    <code>tz</code>
+    <region>Africa</region>
+    <location>Lindi Region, District of Kilwa</location>
+    <state>United Republic of Tanzania</state>
+    <site>Ruins of Kilwa Kisiwani and Ruins of Songo Mnara</site>
+    <description>The remains of two great East African ports admired by early European explorers are situated on two small islands near the coast. From the 13th to the 16th century, the merchants of Kilwa dealt in gold, silver, pearls, perfumes, Arabian crockery, Persian earthenware and Chinese porcelain; much of the trade in the Indian Ocean thus passed through their hands.</description>
+  </row>
+  <row id="156" unique="174" trans="0" lat="-2.33333000" long="34.56667000">
+    <criteria>(vii)(x)</criteria>
+    <inscribeDate>1981</inscribeDate>
+    <code>tz</code>
+    <region>Africa</region>
+    <location>Mara, Arusha, and Shinyanga Provinces</location>
+    <state>United Republic of Tanzania</state>
+    <site>Serengeti National Park</site>
+    <description>The vast plains of the Serengeti comprise 1.5 million ha of savannah. The annual migration to permanent water holes of vast herds of herbivores (wildebeest, gazelles and zebras), followed by their predators, is one of the most impressive natural events in the world.</description>
+  </row>
+  <row id="173" unique="192" trans="0" lat="-6.16306000" long="39.18917000">
+    <criteria>(ii)(iii)(vi)</criteria>
+    <inscribeDate>2000</inscribeDate>
+    <code>tz</code>
+    <region>Africa</region>
+    <location>Zanzibar</location>
+    <state>United Republic of Tanzania</state>
+    <site>Stone Town of Zanzibar</site>
+    <description>The Stone Town of Zanzibar is a fine example of the Swahili coastal trading towns of East Africa. It retains its urban fabric and townscape virtually intact and contains many fine buildings that reflect its particular culture, which has brought together and homogenized disparate elements of the cultures of Africa, the Arab region, India, and Europe over more than a millennium.</description>
+  </row>
+  <row id="199" unique="220" trans="0" lat="-9.00000000" long="37.40000000">
+    <criteria>(ix)(x)</criteria>
+    <inscribeDate>1982</inscribeDate>
+    <code>tz</code>
+    <region>Africa</region>
+    <location>Coast, Morogoro, Lindi, Mtwara and Ruvuma Regions</location>
+    <state>United Republic of Tanzania</state>
+    <site>Selous Game Reserve</site>
+    <description>Large numbers of elephants, black rhinoceroses, cheetahs, giraffes, hippopotamuses and crocodiles live in this immense sanctuary, which measures 50,000  km&lt;sup&gt;2&lt;/sup&gt; and is relatively undisturbed by human impact. The park has a variety of vegetation zones, ranging from dense thickets to open wooded grasslands.</description>
+  </row>
+  <row id="403" unique="466" trans="0" lat="-3.06667000" long="37.36667000">
+    <criteria>(vii)</criteria>
+    <inscribeDate>1987</inscribeDate>
+    <code>tz</code>
+    <region>Africa</region>
+    <location>Kilimanjaro region</location>
+    <state>United Republic of Tanzania</state>
+    <site>Kilimanjaro National Park</site>
+    <description>At 5,895 m, Kilimanjaro is the highest point in Africa. This volcanic massif stands in splendid isolation above the surrounding plains, with its snowy peak looming over the savannah. The mountain is encircled by mountain forest. Numerous mammals, many of them endangered species, live in the park.</description>
+  </row>
+  <row id="1183" unique="1449" trans="0" lat="-4.72444444" long="35.83388889">
+    <criteria>(iii)(vi)</criteria>
+    <inscribeDate>2006</inscribeDate>
+    <code>tz</code>
+    <region>Africa</region>
+    <location>Region Dodoma, District Kondoa</location>
+    <state>United Republic of Tanzania</state>
+    <site>Kondoa Rock-Art Sites</site>
+    <description>On the eastern slopes of the Masai escarpment bordering the Great Rift Valley are natural rock shelters, overhanging slabs of sedimentary rocks fragmented by rift faults, whose vertical planes have been used for rock paintings for at least two millennia. The spectacular collection of images from over 150 shelters over 2,336 km2, many with high artistic value, displays sequences that provide a unique testimony to the changing socio-economic base of the area from hunter-gatherer to agro-pastoralist, and the beliefs and ideas associated with the different societies. Some of the shelters are still considered to have ritual associations with the people who live nearby, reflecting their beliefs, rituals and cosmological traditions.</description>
+  </row>
+  <row id="302" unique="339" trans="0" lat="-15.81944444" long="29.40805556">
+    <criteria>(vii)(ix)(x)</criteria>
+    <inscribeDate>1984</inscribeDate>
+    <code>zw</code>
+    <region>Africa</region>
+    <location>Urungwe District, Mashonaland North region</location>
+    <state>Zimbabwe</state>
+    <site>Mana Pools National Park, Sapi and Chewore Safari Areas</site>
+    <description>On the banks of the Zambezi, great cliffs overhang the river and the floodplains. The area is home to a remarkable concentration of wild animals, including elephants, buffalo, leopards and cheetahs. An important concentration of Nile crocodiles is also be found in the area.</description>
+  </row>
+  <row id="306" unique="345" trans="0" lat="-20.50000000" long="28.50000000">
+    <criteria>(iii)(v)(vi)</criteria>
+    <inscribeDate>2003</inscribeDate>
+    <code>zw</code>
+    <region>Africa</region>
+    <location>Matebeleland, South Province</location>
+    <state>Zimbabwe</state>
+    <site>Matobo Hills</site>
+    <description>The area exhibits a profusion of distinctive rock landforms rising above the granite shield that covers much of Zimbabwe. The large boulders provide abundant natural shelters and have been associated with human occupation from the early Stone Age right through to early historical times, and intermittently since. They also feature an outstanding collection of rock paintings. The Matobo Hills continue to provide a strong focus for the local community, which still uses shrines and sacred places closely linked to traditional, social and economic activities.</description>
+  </row>
+  <row id="364" unique="417" trans="0" lat="-20.28333333" long="30.93333333">
+    <criteria>(i)(iii)(vi)</criteria>
+    <inscribeDate>1986</inscribeDate>
+    <code>zw</code>
+    <region>Africa</region>
+    <location>Masvingo (Southern) Province</location>
+    <state>Zimbabwe</state>
+    <site>Great Zimbabwe National Monument</site>
+    <description>The ruins of Great Zimbabwe – the capital of the Queen of Sheba, according to an age-old legend – are a unique testimony to the Bantu civilization of the Shona between the 11th and 15th centuries. The city, which covers an area of nearly 80 ha, was an important trading centre and was renowned from the Middle Ages onwards.</description>
+  </row>
+  <row id="365" unique="418" trans="0" lat="-20.15833333" long="28.37666667">
+    <criteria>(iii)(iv)</criteria>
+    <inscribeDate>1986</inscribeDate>
+    <code>zw</code>
+    <region>Africa</region>
+    <location>Western Region, Matabeleland</location>
+    <state>Zimbabwe</state>
+    <site>Khami Ruins National Monument</site>
+    <description>Khami, which developed after the capital of Great Zimbabwe had been abandoned in the mid-16th century, is of great archaeological interest. The discovery of objects from Europe and China shows that Khami was a major centre for trade over a long period of time.</description>
+  </row>
+  <row id="761" unique="897" trans="0" lat="13.31616667" long="-16.35719444">
+    <criteria>(iii)(vi)</criteria>
+    <inscribeDate>2003</inscribeDate>
+    <code>gm</code>
+    <region>Africa</region>
+    <location>Lower Niumi and Upper Niumi districts and Banjul Municipality</location>
+    <state>Gambia</state>
+    <site>James Island and Related Sites</site>
+    <description>James Island and Related Sites present a testimony to the main periods and facets of the encounter between Africa and Europe along the River Gambia, a continuum stretching from pre-colonial and pre-slavery times to independence. The site is particularly significant for its relation to the beginning of the slave trade and its abolition. It also documents early access to the interior of Africa.</description>
+  </row>
+  <row id="407" unique="470" trans="0" lat="3.00000000" long="13.00000000">
+    <criteria>(ix)(x)</criteria>
+    <inscribeDate>1987</inscribeDate>
+    <code>cm</code>
+    <region>Africa</region>
+    <location>Provinces du Sud et de l’Est (Départments: du Dja-et-LOBO pour la partie Ouest, du Haut-Nyong pour la partie Est)</location>
+    <state>Cameroon</state>
+    <site>Dja Faunal Reserve</site>
+    <description>This is one of the largest and best-protected rainforests in Africa, with 90% of its area left undisturbed. Almost completely surrounded by the Dja River, which forms a natural boundary, the reserve is especially noted for its biodiversity and a wide variety of primates. It contains 107 mammal species, five of which are threatened.</description>
+  </row>
+  <row id="1021" unique="1191" trans="0" lat="-18.75000000" long="21.73333333">
+    <criteria>(i)(iii)(vi)</criteria>
+    <inscribeDate>2001</inscribeDate>
+    <code>bw</code>
+    <region>Africa</region>
+    <location>The Ngamiland District, north-west Botswana</location>
+    <state>Botswana</state>
+    <site>Tsodilo</site>
+    <description>With one of the highest concentrations of rock art in the world, Tsodilo has been called the 'Louvre of the Desert'. Over 4,500 paintings are preserved in an area of only 10 km2 of the Kalahari Desert. The archaeological record of the area gives a chronological account of human activities and environmental changes over at least 100,000 years. Local communities in this hostile environment respect Tsodilo as a place of worship frequented by ancestral spirits.</description>
+  </row>
+  <row id="155" unique="173" trans="1" lat="7.60318000" long="-8.39097000">
+    <criteria>(ix)(x)</criteria>
+    <inscribeDate>1981</inscribeDate>
+    <code>ci</code>
+    <region>Africa</region>
+    <location>Région de Lola</location>
+    <state>Côte d'Ivoire</state>
+    <site>Mount Nimba Strict Nature Reserve</site>
+    <description>Located on the borders of Guinea, Liberia and Côte d’Ivoire, Mount Nimba rises above the surrounding savannah. Its slopes are covered by dense forest at the foot of grassy mountain pastures. They harbour an especially rich flora and fauna, with endemic species such as the viviparous toad and chimpanzees that use stones as tools.</description>
+  </row>
+   <row id="155" unique="173" trans="1" lat="7.60318000" long="-8.39097000">
+    <criteria>(ix)(x)</criteria>
+    <inscribeDate>1981</inscribeDate>
+    <code>gn</code>
+    <region>Africa</region>
+    <location>Région de Lola</location>
+    <state>Guinea</state>
+    <site>Mount Nimba Strict Nature Reserve</site>
+    <description>Located on the borders of Guinea, Liberia and Côte d’Ivoire, Mount Nimba rises above the surrounding savannah. Its slopes are covered by dense forest at the foot of grassy mountain pastures. They harbour an especially rich flora and fauna, with endemic species such as the viviparous toad and chimpanzees that use stones as tools.</description>
+  </row>
+  <row id="1226" unique="1403" trans="1" lat="13.69111111" long="-15.52250000">
+    <criteria>(i)(iii)</criteria>
+    <inscribeDate>2006</inscribeDate>
+    <code>gm</code>
+    <region>Africa</region>
+    <location>Central River Division - Gambia</location>
+    <state>Gambia</state>
+    <site>Stone Circles of Senegambia</site>
+    <description>The site consists of four large groups of stone circles that represent an extraordinary concentration of over 1,000 monuments in a band 100 km wide along some 350 km of the River Gambia. The four groups, Sine Ngayène, Wanar, Wassu and Kerbatch, cover 93 stone circles and numerous tumuli, burial mounds, some of which have been excavated to reveal material that suggest dates between 3rd century BC and 16th century AD. Together the stone circles of laterite pillars and their associated burial mounds present a vast sacred landscape created over more than 1,500 years. It reflects a prosperous, highly organized and lasting society.</description>
+  </row>
+   <row id="1226" unique="1403" trans="1" lat="13.69111111" long="-15.52250000">
+    <criteria>(i)(iii)</criteria>
+    <inscribeDate>2006</inscribeDate>
+    <code>sn</code>
+    <region>Africa</region>
+    <location>Kaolack Region - Senegal</location>
+    <state>Senegal</state>
+    <site>Stone Circles of Senegambia</site>
+    <description>The site consists of four large groups of stone circles that represent an extraordinary concentration of over 1,000 monuments in a band 100 km wide along some 350 km of the River Gambia. The four groups, Sine Ngayène, Wanar, Wassu and Kerbatch, cover 93 stone circles and numerous tumuli, burial mounds, some of which have been excavated to reveal material that suggest dates between 3rd century BC and 16th century AD. Together the stone circles of laterite pillars and their associated burial mounds present a vast sacred landscape created over more than 1,500 years. It reflects a prosperous, highly organized and lasting society.</description>
+  </row>
+  <row id="195" unique="216" trans="0" lat="5.75000000" long="-7.66667000">
+    <criteria>(vii)(x)</criteria>
+    <inscribeDate>1982</inscribeDate>
+    <code>ci</code>
+    <region>Africa</region>
+    <location>Southwest region, Guiglo and Sassandra Districts</location>
+    <state>Côte d'Ivoire</state>
+    <site>Taï National Park</site>
+    <description>This park is one of the last major remnants of the primary tropical forest of West Africa. Its rich natural flora, and threatened mammal species such as the pygmy hippopotamus and 11 species of monkeys, are of great scientific interest.</description>
+  </row>
+  <row id="227" unique="252" trans="0" lat="9.00000000" long="-4.00000000">
+    <criteria>(ix)(x)</criteria>
+    <inscribeDate>1983</inscribeDate>
+    <code>ci</code>
+    <region>Africa</region>
+    <location>Northeast region, Bouna and Ferkessedougou prefectures, Bouna, Kong, Nassian and Tehin sub-prefectures</location>
+    <state>Côte d'Ivoire</state>
+    <site>Comoé National Park</site>
+    <description>One of the largest protected areas in West Africa, this park is characterized by its great plant diversity. Due to the presence of the Comoé river, it contains plants which are normally only found much farther south, such as shrub savannahs and patches of thick rainforest.</description>
+  </row>
+</worldheritage>
